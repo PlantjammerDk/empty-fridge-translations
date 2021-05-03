@@ -1,5 +1,26 @@
 {
-  "onboarding": {
-    "step1": "Test2"
+  "general": {
+    "done": "Done",
+    "header1": "Select ingredients",
+    "header2": "Select recipe",  
+    "search": "Search for ingredients",
+    "searchMore": "Search for more ingredients",
+    "showMore": "Show more recipes"
+  },
+  "recipeCard": {
+    "seeMore": "See more ingredients",
+    "seeLess": "Show less",
+    "includes": "Includes",
+    "mustHave": "Must have",
+    "substitute": "Can be substituted",
+    "select": "Select recipe"
+  },
+  "recipePage": {
+    "back": "See all results",
+    "tip": "Tip! Click on ingredient to see substitutes",
+    "grams": "Show in grams",
+    "instructions": "Instructions",
+    "noSubstitution": "No substitutions available"
   }
+
 }
