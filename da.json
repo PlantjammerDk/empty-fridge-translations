@@ -1,5 +1,25 @@
 {
-  "onboarding": {
-    "step1": "Test"
+  "general": {
+    "done": "",
+    "header1": "",
+    "header2": "",
+    "search": "",
+    "searchMore": "",
+    "showMore": ""
+  },
+  "recipeCard": {
+    "seeMore": "",
+    "seeLess": "",
+    "includes": "",
+    "mustHave": "",
+    "substitute": "",
+    "select": ""
+  },
+  "recipePage": {
+    "back": "",
+    "tip": "",
+    "grams": "",
+    "instructions": "",
+    "noSubstitution": ""
   }
 }
