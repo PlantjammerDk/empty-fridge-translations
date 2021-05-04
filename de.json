@@ -1,5 +1,25 @@
 {
-  "onboarding": {
-    "step1": ""
+  "general": {
+    "done": "Weiter",
+    "header1": "Wähle deine Zutaten",
+    "header2": "Zum Rezept",
+    "search": "Suche Zutaten",
+    "searchMore": "Suche weitere Zutaten",
+    "showMore": "Mehr Rezepte"
+  },
+  "recipeCard": {
+    "seeMore": "Mehr Zutaten",
+    "seeLess": "Einklappen",
+    "includes": "Enthält",
+    "mustHave": "Benötigt",
+    "substitute": "Austauschbar",
+    "select": "Zum Rezept"
+  },
+  "recipePage": {
+    "back": "Zurück zur Rezeptauswahl",
+    "tip": "Tipp! Klicke auf eine Zutat um sie auszutauschen",
+    "grams": "Gramm anzeigen",
+    "instructions": "Zubereitung",
+    "noSubstitution": "Keine Alternativen verfügbar"
   }
 }

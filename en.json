@@ -2,7 +2,7 @@
   "general": {
     "done": "Done",
     "header1": "Select ingredients",
-    "header2": "Select recipe",  
+    "header2": "Select recipe",
     "search": "Search for ingredients",
     "searchMore": "Search for more ingredients",
     "showMore": "Show more recipes"
@@ -22,5 +22,4 @@
     "instructions": "Instructions",
     "noSubstitution": "No substitutions available"
   }
-
 }
