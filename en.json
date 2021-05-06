@@ -25,5 +25,8 @@
     "grams": "Show in grams",
     "instructions": "Instructions",
     "noSubstitution": "No substitutions available"
+  },
+  "filtersOverlay": {
+    "header": "Adapt recipes to suit your needs"
   }
 }
