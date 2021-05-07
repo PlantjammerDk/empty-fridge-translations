@@ -3,9 +3,12 @@
     "done": "",
     "header1": "",
     "header2": "",
+    "selectedIngredients": "",
     "search": "",
     "searchMore": "",
-    "showMore": ""
+    "showMore": "",
+    "searchRecipes": "",
+    "popularIngredients": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -13,7 +16,8 @@
     "includes": "",
     "mustHave": "",
     "substitute": "",
-    "select": ""
+    "select": "",
+    "howMany": ""
   },
   "recipePage": {
     "back": "",
@@ -21,5 +25,8 @@
     "grams": "",
     "instructions": "",
     "noSubstitution": ""
+  },
+  "filtersOverlay": {
+    "header": ""
   }
 }

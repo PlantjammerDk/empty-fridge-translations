@@ -1,25 +1,32 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": ""
+    "done": "OK",
+    "header1": "Vælg dine ingredienser",
+    "header2": "Vælg opskrift",
+    "selectedIngredients": "VælgIngredienser",
+    "search": "Søg ingredienser",
+    "searchMore": "Søg flere ingredienser",
+    "showMore": "Vis flere opskrifter",
+    "searchRecipes": "Søg opskrifter",
+    "popularIngredients": "Populære ingredienser"
   },
   "recipeCard": {
-    "seeMore": "",
-    "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": ""
+    "seeMore": "Se flere opskrifter",
+    "seeLess": "Vis mindre",
+    "includes": "Inkludér",
+    "mustHave": "Nødvendige",
+    "substitute": "Kan substitueres",
+    "select": "Vælg opskrift",
+    "howMany": "af dine ingredienser"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": ""
+    "back": "Se alle resultater",
+    "tip": "Tip: Tryk en ingrediens for alternative forslag",
+    "grams": "Vis i gram",
+    "instructions": "Opskriften",
+    "noSubstitution": "Ingen substitutter"
+  },
+  "filtersOverlay": {
+    "header": "Ændr opskrift til dit behov"
   }
 }

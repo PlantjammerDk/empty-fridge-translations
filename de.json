@@ -6,7 +6,9 @@
     "selectedIngredients": "Ausgewählte Zutaten",
     "search": "Suche Zutaten",
     "searchMore": "Suche weitere Zutaten",
-    "showMore": "Mehr Rezepte"
+    "showMore": "Mehr Rezepte",
+    "searchRecipes": "Suche nach Rezepten",
+    "popularIngredients": "Beliebte Zutaten"
   },
   "recipeCard": {
     "seeMore": "Mehr Zutaten",
@@ -14,7 +16,8 @@
     "includes": "Enthält",
     "mustHave": "Benötigt",
     "substitute": "Austauschbar",
-    "select": "Zum Rezept"
+    "select": "Zum Rezept",
+    "howMany": "von deinen Zutaten"
   },
   "recipePage": {
     "back": "Zurück zur Rezeptauswahl",
@@ -22,5 +25,8 @@
     "grams": "Gramm anzeigen",
     "instructions": "Zubereitung",
     "noSubstitution": "Keine Alternativen verfügbar"
+  },
+  "filtersOverlay": {
+    "header": " Passe die Rezepte an deine Bedürfnisse an"
   }
 }
