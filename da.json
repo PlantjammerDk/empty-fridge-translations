@@ -1,8 +1,8 @@
 {
   "general": {
-    "done": "OK",
+    "done": "Søg",
     "header1": "Vælg dine ingredienser",
-    "header2": "Vælg opskrift",
+    "header2": "Se opskrift",
     "selectedIngredients": "VælgIngredienser",
     "search": "Søg ingredienser",
     "searchMore": "Søg flere ingredienser",
@@ -11,12 +11,12 @@
     "popularIngredients": "Populære ingredienser"
   },
   "recipeCard": {
-    "seeMore": "Se flere opskrifter",
+    "seeMore": "Smugkig",
     "seeLess": "Vis mindre",
     "includes": "Inkludér",
     "mustHave": "Nødvendige",
     "substitute": "Kan substitueres",
-    "select": "Vælg opskrift",
+    "select": "Se opskrift",
     "howMany": "af dine ingredienser"
   },
   "recipePage": {
@@ -27,6 +27,6 @@
     "noSubstitution": "Ingen substitutter"
   },
   "filtersOverlay": {
-    "header": "Ændr opskrift til dit behov"
+    "header": "Tilføj filter"
   }
 }

@@ -11,7 +11,7 @@
     "popularIngredients": "Beliebte Zutaten"
   },
   "recipeCard": {
-    "seeMore": "Mehr Zutaten",
+    "seeMore": "Schleichen guck",
     "seeLess": "Einklappen",
     "includes": "Enthält",
     "mustHave": "Benötigt",
@@ -27,6 +27,6 @@
     "noSubstitution": "Keine Alternativen verfügbar"
   },
   "filtersOverlay": {
-    "header": " Passe die Rezepte an deine Bedürfnisse an"
+    "header": "Filter hinzufügen"
   }
 }

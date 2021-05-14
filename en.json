@@ -1,8 +1,8 @@
 {
   "general": {
-    "done": "Done",
+    "done": "Search",
     "header1": "Pick ingredients you want to cook with",
-    "header2": "Select recipe",
+    "header2": "See recipe",
     "selectedIngredients": "Selected Ingredients",
     "search": "Search for ingredients",
     "searchMore": "Search for more ingredients",
@@ -11,12 +11,12 @@
     "popularIngredients": "Popular ingredients"
   },
   "recipeCard": {
-    "seeMore": "See more ingredients",
+    "seeMore": "Sneak peek",
     "seeLess": "Show less",
     "includes": "Includes",
     "mustHave": "Must have",
     "substitute": "Can be substituted",
-    "select": "Select recipe",
+    "select": "See recipe",
     "howMany": "of your ingredients"
   },
   "recipePage": {
@@ -27,6 +27,6 @@
     "noSubstitution": "No substitutions available"
   },
   "filtersOverlay": {
-    "header": "Adapt recipes to suit your needs"
+    "header": "Add filter"
   }
 }
