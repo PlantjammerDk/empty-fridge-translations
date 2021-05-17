@@ -30,6 +30,8 @@
     "header": "Add filter"
   },
   "survey": {
+    "consentHeder": "Help us train the recipe AI",
+    "consentText": "We use statistical cookies to gather anonymised data in order to improve the recipe results. Check our cookie policy here.",
     "npsLikely": "Highly likely",
     "npsNotLikely": "Not so likely",
     "skip": "Skip",
@@ -40,6 +42,8 @@
     "howImprove": "How can we improve?",
     "whatGood": "Great! What did you like about this tool?",
     "thankYou": "Thank you!",
-    "yourFeedback": "We appreciate your feedback"
+    "yourFeedback": "We appreciate your feedback",
+    "whatData": "What exactly do you track?",
+    "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)"
   }
 }
