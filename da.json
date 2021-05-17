@@ -28,5 +28,18 @@
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov"
+  },
+  "survey": {
+    "npsLikely": "",
+    "npsNotLikely": "",
+    "skip": "",
+    "submit": "",
+    "accept": "",
+    "reject": "",
+    "npsQuestion": "",
+    "howImprove": "",
+    "whatGood": "",
+    "thankYou": "",
+    "yourFeedback": ""
   }
 }

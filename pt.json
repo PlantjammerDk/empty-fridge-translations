@@ -28,5 +28,18 @@
   },
   "filtersOverlay": {
     "header": ""
+  },
+  "survey": {
+    "npsLikely": "",
+    "npsNotLikely": "",
+    "skip": "",
+    "submit": "",
+    "accept": "",
+    "reject": "",
+    "npsQuestion": "",
+    "howImprove": "",
+    "whatGood": "",
+    "thankYou": "",
+    "yourFeedback": ""
   }
 }
