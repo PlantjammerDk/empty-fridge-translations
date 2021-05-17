@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Weiter",
+    "done": "Rezepte Suchen",
     "header1": "Wähle deine Zutaten",
     "header2": "Zum Rezept",
     "selectedIngredients": "Ausgewählte Zutaten",
@@ -11,7 +11,7 @@
     "popularIngredients": "Beliebte Zutaten"
   },
   "recipeCard": {
-    "seeMore": "Mehr Zutaten",
+    "seeMore": "Vorschau",
     "seeLess": "Einklappen",
     "includes": "Enthält",
     "mustHave": "Benötigt",
@@ -28,5 +28,18 @@
   },
   "filtersOverlay": {
     "header": " Passe die Rezepte an deine Bedürfnisse an"
+  },
+  "survey": {
+    "npsLikely": "sehr wahrscheinlich",
+    "npsNotLikely": "sehr unwahrscheinlich",
+    "skip": "Überspringen",
+    "submit": "Fertig",
+    "accept": "Zustimmen",
+    "reject": "Ablehnen",
+    "npsQuestion": "Wie wahrscheinlich ist es, dass du dieses Tool an einen Freund/Bekannten weiterempfiehlst?",
+    "howImprove": "Was können wir verbessern?",
+    "whatGood": "Super! Was gefällt dir an diesem Tool?",
+    "thankYou": "Besten Dank!",
+    "yourFeedback": "Wir freuen uns über dein Feedback"
   }
 }
