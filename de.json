@@ -27,9 +27,11 @@
     "noSubstitution": "Keine Alternativen verfügbar"
   },
   "filtersOverlay": {
-    "header": " Passe die Rezepte an deine Bedürfnisse an"
+    "header": "Filter hinzufügen"
   },
   "survey": {
+    "consentHeder": "Hilf uns die Rezepte KI zu trainieren",
+    "consentText": "Wir nutzen Cookies um mit anonymisierten Daten die Rezeptergebnisse zu verbessern. Klicke hier um unsere Cookie Richtlinien zu sehen.",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
     "skip": "Überspringen",
@@ -40,6 +42,8 @@
     "howImprove": "Was können wir verbessern?",
     "whatGood": "Super! Was gefällt dir an diesem Tool?",
     "thankYou": "Besten Dank!",
-    "yourFeedback": "Wir freuen uns über dein Feedback"
+    "yourFeedback": "Wir freuen uns über dein Feedback",
+    "whatData": "Was genau speichert ihr auf?",
+    "trackExplain": "Wir speichern anonymisierte Daten, statistische Daten darüber welche Zutaten, Rezepte und Filter wie häufig geklickt werden."
   }
 }
