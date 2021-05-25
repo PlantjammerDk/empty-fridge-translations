@@ -30,16 +30,20 @@
     "header": "Ændr opskrift til dit behov"
   },
   "survey": {
-    "npsLikely": "",
-    "npsNotLikely": "",
-    "skip": "",
-    "submit": "",
-    "accept": "",
-    "reject": "",
-    "npsQuestion": "",
-    "howImprove": "",
-    "whatGood": "",
-    "thankYou": "",
-    "yourFeedback": ""
+    "consentHeder": "",
+    "consentText": "",
+    "npsLikely": "Meget sandsynligt",
+    "npsNotLikely": "Meget usandsynligt",
+    "skip": "Spring over",
+    "submit": "Indsend",
+    "accept": "Acceptér",
+    "reject": "Afvis",
+    "npsQuestion": "Hvor sandsynligt er det, at du anbefaler denne oplevelse til en ven eller kollega?",
+    "howImprove": "Hvordan kan vi blive bedre?",
+    "whatGood": "Fantastisk! Hvad kunne du lide ved oplevelse?",
+    "thankYou": "Mange tak!",
+    "yourFeedback": "Vi sætter pris på din feedback.",
+    "whatData": "",
+    "trackExplain": ""
   }
 }

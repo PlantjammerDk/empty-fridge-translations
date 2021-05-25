@@ -1,45 +1,49 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "selectedIngredients": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": "",
-    "searchRecipes": "",
-    "popularIngredients": ""
+    "done": "Otsing",
+    "header1": "Vali koostisosad, millest soovid söögi valmistada",
+    "header2": "Vaata retsepti",
+    "selectedIngredients": "Valitud koostisosad",
+    "search": "Otsi koostisosi",
+    "searchMore": "Otsi rohkem koostisosi",
+    "showMore": "Näita rohkem retsepte",
+    "searchRecipes": "Otsi retsepte",
+    "popularIngredients": "Populaarsed koostisosad"
   },
   "recipeCard": {
-    "seeMore": "",
+    "seeMore": "Eelvaade",
     "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": "",
-    "howMany": ""
+    "includes": "Sisaldab",
+    "mustHave": "Peab sisaldama",
+    "substitute": "Võib asendada",
+    "select": "Vaata retsepti",
+    "howMany": "sinu koostisosadest"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": ""
+    "back": "Näita kõiki tulemusi",
+    "tip": "Tipp! Vajuta peale koostisosale, et näha asendusaineid",
+    "grams": "Näita grammides",
+    "instructions": "Juhised",
+    "noSubstitution": "Asendusained pole saadaval"
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "Lisa filter"
   },
   "survey": {
-    "npsLikely": "",
-    "npsNotLikely": "",
-    "skip": "",
-    "submit": "",
-    "accept": "",
-    "reject": "",
-    "npsQuestion": "",
-    "howImprove": "",
-    "whatGood": "",
-    "thankYou": "",
-    "yourFeedback": ""
+    "consentHeder": "",
+    "consentText": "",
+    "npsLikely": "Väga tõenäoline",
+    "npsNotLikely": "Vähe tõenäoline",
+    "skip": "Jäta vahele",
+    "submit": "Esita",
+    "accept": "Nõustu",
+    "reject": "Keeldu",
+    "npsQuestion": "Kui tõenäoline on, et soovitad seda vahendit sõbrale?",
+    "howImprove": "Mida saaksime paremaks muuta?",
+    "whatGood": "Hästi! Mis sulle meeldis selle vahendi puhul?",
+    "thankYou": "Aitäh!",
+    "yourFeedback": "Me hindame sinu tagasisidet",
+    "whatData": "",
+    "trackExplain": ""
   }
 }
