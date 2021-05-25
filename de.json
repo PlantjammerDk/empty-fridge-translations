@@ -27,7 +27,7 @@
     "noSubstitution": "Keine Alternativen verfügbar"
   },
   "filtersOverlay": {
-    "header": " Passe die Rezepte an deine Bedürfnisse an"
+    "header": "Filter hinzufügen"
   },
   "survey": {
     "npsLikely": "sehr wahrscheinlich",
@@ -39,7 +39,7 @@
     "npsQuestion": "Wie wahrscheinlich ist es, dass du dieses Tool an einen Freund/Bekannten weiterempfiehlst?",
     "howImprove": "Was können wir verbessern?",
     "whatGood": "Super! Was gefällt dir an diesem Tool?",
-    "thankYou": "Besten Dank!",
+    "thankYou": "Vielen Dank!",
     "yourFeedback": "Wir freuen uns über dein Feedback"
   }
 }
