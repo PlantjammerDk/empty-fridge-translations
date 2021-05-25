@@ -24,7 +24,8 @@
     "tip": "Tip! Click on ingredient to see substitutes",
     "grams": "Show in grams",
     "instructions": "Instructions",
-    "noSubstitution": "No substitutions available"
+    "noSubstitution": "No substitutions available",
+    "loaderText": "Preparing your recipe"
   },
   "filtersOverlay": {
     "header": "Add filter"
