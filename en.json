@@ -32,9 +32,10 @@
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
-    "consentText": "We use statistical cookies to gather anonymised data in order to improve the recipe results. Check our cookie policy here.",
-    "npsLikely": "Highly likely",
-    "npsNotLikely": "Not so likely",
+    "consentText": "We use statistical cookies to gather anonymised data in order to improve the recipe results. Check our cookie policy ",
+    "checkHere": "here.",
+    "npsLikely": "Very likely",
+    "npsNotLikely": "Very unlikely",
     "skip": "Skip",
     "submit": "Submit",
     "accept": "Accept",
