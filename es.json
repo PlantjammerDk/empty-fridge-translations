@@ -1,39 +1,40 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "selectedIngredients": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": "",
-    "searchRecipes": "",
-    "popularIngredients": ""
+    "done": "Buscar",
+    "header1": "Elige ingredientes que quieras cocinar",
+    "header2": "Ver receta",
+    "selectedIngredients": "Ingredients seleccionados",
+    "search": "Buscar ingredientes",
+    "searchMore": "Buscar mas ingredientes",
+    "showMore": "Ver mas recetas",
+    "searchRecipes": "Buscando recetas",
+    "popularIngredients": "Ingredientes"
   },
   "recipeCard": {
-    "seeMore": "",
-    "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": "",
-    "howMany": ""
+    "seeMore": "Vistazo",
+    "seeLess": "Ver menos",
+    "includes": "Incluido",
+    "mustHave": "Debe tener",
+    "substitute": "Puede ser sustituido",
+    "select": "Ver receta",
+    "howMany": "de tus ingredientes"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": ""
+    "back": "Ver todos resultatos",
+    "tip": "Haga clic en el ingrediente para ver sustitutos",
+    "grams": "Mostrar en gramos",
+    "instructions": "Instrucciones",
+    "noSubstitution": "No hay sustituciones disponibles",
+    "loaderText": "Cargando tu receta"
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "Añadir filtro"
   },
   "survey": {
     "consentHeder": "",
     "consentText": "",
-    "npsLikely": "",
-    "npsNotLikely": "",
+    "npsLikely": "Muy probable",
+    "npsNotLikely": "Menos probable",
     "skip": "",
     "submit": "",
     "accept": "",
@@ -41,7 +42,7 @@
     "npsQuestion": "",
     "howImprove": "",
     "whatGood": "",
-    "thankYou": "",
+    "thankYou": "Gracias",
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": ""

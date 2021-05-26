@@ -24,7 +24,8 @@
     "tip": "",
     "grams": "",
     "instructions": "",
-    "noSubstitution": ""
+    "noSubstitution": "",
+    "loaderText": ""
   },
   "filtersOverlay": {
     "header": ""
