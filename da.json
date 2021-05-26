@@ -24,14 +24,15 @@
     "tip": "Tip: Tryk en ingrediens for alternative forslag",
     "grams": "Vis i gram",
     "instructions": "Opskriften",
-    "noSubstitution": "Ingen substitutter"
+    "noSubstitution": "Ingen substitutter",
+    "loaderText": "Loader din opskrift"
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov"
   },
   "survey": {
-    "consentHeder": "",
-    "consentText": "",
+    "consentHeder": "Hjælp os med at træne vores AI",
+    "consentText": "Vi bruger cookies for at  fange anonymiseret data og skabe bedre søgeresultater. Hér er vores cookie policy",
     "npsLikely": "Meget sandsynligt",
     "npsNotLikely": "Meget usandsynligt",
     "skip": "Spring over",
@@ -43,7 +44,7 @@
     "whatGood": "Fantastisk! Hvad kunne du lide ved oplevelse?",
     "thankYou": "Mange tak!",
     "yourFeedback": "Vi sætter pris på din feedback.",
-    "whatData": "",
-    "trackExplain": ""
+    "whatData": "Hvad tracker I?",
+    "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger."
   }
 }

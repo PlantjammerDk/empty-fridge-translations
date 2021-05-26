@@ -24,7 +24,8 @@
     "tip": "Tipp! Klicke auf eine Zutat um sie auszutauschen",
     "grams": "Gramm anzeigen",
     "instructions": "Zubereitung",
-    "noSubstitution": "Keine Alternativen verfügbar"
+    "noSubstitution": "Keine Alternativen verfügbar",
+    "loaderText": ""
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen"

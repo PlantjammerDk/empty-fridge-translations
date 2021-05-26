@@ -1,40 +1,41 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "selectedIngredients": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": "",
+    "done": "Procurar",
+    "header1": "Escolha os ingredientes que você gosta",
+    "header2": "Veja a receita",
+    "selectedIngredients": "Ingredients selecionados",
+    "search": "Procure por ingredientes",
+    "searchMore": "Pesquise mais ingredientes",
+    "showMore": "Mostre mais ingredientes",
     "searchRecipes": "",
-    "popularIngredients": ""
+    "popularIngredients": "Ingredientes populares"
   },
   "recipeCard": {
-    "seeMore": "",
-    "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": "",
-    "howMany": ""
+    "seeMore": "Espiada",
+    "seeLess": "Mostre menos",
+    "includes": "Inclui",
+    "mustHave": "Deve ter",
+    "substitute": "Pode ser substituído",
+    "select": "Veja a receita",
+    "howMany": "de seus ingredientes"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": ""
+    "back": "Veja todos os resultados",
+    "tip": "Clique no ingrediente para ver os substitutos",
+    "grams": "Mostrar em gramas",
+    "instructions": "Instruções",
+    "noSubstitution": "Nenhuma substituição disponível",
+    "loaderText": ""
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "Adicionar filtro"
   },
   "survey": {
     "consentHeder": "",
     "consentText": "",
-    "npsLikely": "",
-    "npsNotLikely": "",
-    "skip": "",
+    "npsLikely": "Altamente provável",
+    "npsNotLikely": "Menos provável",
+    "skip": "Saltar",
     "submit": "",
     "accept": "",
     "reject": "",

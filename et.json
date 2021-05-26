@@ -24,7 +24,8 @@
     "tip": "Tipp! Vajuta peale koostisosale, et näha asendusaineid",
     "grams": "Näita grammides",
     "instructions": "Juhised",
-    "noSubstitution": "Asendusained pole saadaval"
+    "noSubstitution": "Asendusained pole saadaval",
+    "loaderText": ""
   },
   "filtersOverlay": {
     "header": "Lisa filter"
