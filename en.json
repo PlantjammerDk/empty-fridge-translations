@@ -32,7 +32,8 @@
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
-    "consentText": "We use statistical cookies to gather anonymised data in order to improve the recipe results. Check our cookie policy here.",
+    "consentText": "We use statistical cookies to gather anonymised data in order to improve the recipe results. Check our cookie policy.",
+    "checkHere": "here",
     "npsLikely": "Highly likely",
     "npsNotLikely": "Not so likely",
     "skip": "Skip",
