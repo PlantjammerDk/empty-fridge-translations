@@ -1,50 +1,51 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "selectedIngredients": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": "",
-    "searchRecipes": "",
-    "popularIngredients": ""
+    "done": "Paieška",
+    "header1": "Pasirink ingredientus, su kuriais nori gaminti",
+    "header2": "Skaityti receptą",
+    "selectedIngredients": "Pasirinkti ingredientai",
+    "search": "Ingredientų paieška",
+    "searchMore": "Ieškok daugiau ingredientų",
+    "showMore": "Rodyti daugiau receptų",
+    "searchRecipes": "Ieškoma receptų",
+    "popularIngredients": "Populiarūs ingredientai"
   },
   "recipeCard": {
-    "seeMore": "",
-    "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": "",
-    "howMany": ""
+    "seeMore": "Užmesti akį",
+    "seeLess": "Rodyti mažiau",
+    "includes": "Sudaro",
+    "mustHave": "Būtina",
+    "substitute": "Galima pakeisti",
+    "select": "Skaityti receptą",
+    "howMany": "tavo ingredientų"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": "",
+    "back": "Visi rezultatai",
+    "tip": "Patarimas! Paspausk ant ingredientų, kad matytum galimus pakaitalus",
+    "grams": "Rodyti gramus",
+    "instructions": "Instrukcijos",
+    "noSubstitution": "Jokie pakeitimai negalimi",
     "loaderText": ""
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "Pridėti filtrą"
   },
   "survey": {
-    "consentHeder": "",
-    "consentText": "",
-    "npsLikely": "",
-    "npsNotLikely": "",
-    "skip": "",
-    "submit": "",
-    "accept": "",
-    "reject": "",
-    "npsQuestion": "",
-    "howImprove": "",
-    "whatGood": "",
-    "thankYou": "",
-    "yourFeedback": "",
+    "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
+    "consentText": "Mes naudojame statistinius slapukus anonimiškiems duomenims rinkti, kad pagerintume receptų rezultatus. Čia galite peržiūrėti mūsų slapukų politiką.",
+    "checkHere": "",
+    "npsLikely": "Labai tikėtina",
+    "npsNotLikely": "Mažai tikėtina",
+    "skip": "Praleisti",
+    "submit": "Pateikti",
+    "accept": "Sutikti",
+    "reject": "Nesutikti",
+    "npsQuestion": "Ar rekomenduotum šį įrankį savo draugui ar kolegai?",
+    "howImprove": "Kaip galėtume patobulėti?",
+    "whatGood": "Puiku! Kas patinka šiame įrankyje?",
+    "thankYou": "Ačiū!",
+    "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "whatData": "",
-    "trackExplain": ""
+    "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus "
   }
 }

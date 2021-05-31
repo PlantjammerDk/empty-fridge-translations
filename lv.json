@@ -1,50 +1,51 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "selectedIngredients": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": "",
-    "searchRecipes": "",
-    "popularIngredients": ""
+    "done": "Meklēt",
+    "header1": "Izvēlieties sastāvdaļas, ko izmantosiet gatavošanā",
+    "header2": "Apskatīt recepti",
+    "selectedIngredients": "Izvēlētās sastāvdaļas",
+    "search": "Meklēt sastāvdaļas",
+    "searchMore": "Meklēt vairāk sastāvdaļas",
+    "showMore": "Rādīt vairāk receptes",
+    "searchRecipes": "Meklē receptes",
+    "popularIngredients": "Populāras sastāvdaļas"
   },
   "recipeCard": {
-    "seeMore": "",
-    "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": "",
-    "howMany": ""
+    "seeMore": "Apskatīt",
+    "seeLess": "Rādīt mazāk",
+    "includes": "Iekļauj",
+    "mustHave": "Obligātas",
+    "substitute": "Var aizvietot",
+    "select": "Apskatīt recepti",
+    "howMany": "jūsu sastāvdaļas"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": "",
+    "back": "Visi rezultāti",
+    "tip": "Padoms! Lai redzētu aizvietošanas sastāvdaļas, uzspiediet uz sastāvdaļas",
+    "grams": "Rādīt gramos",
+    "instructions": "Instrukcijas",
+    "noSubstitution": "Nav aizvietotāju",
     "loaderText": ""
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "Pievienot filtru"
   },
   "survey": {
-    "consentHeder": "",
-    "consentText": "",
-    "npsLikely": "",
-    "npsNotLikely": "",
-    "skip": "",
-    "submit": "",
-    "accept": "",
-    "reject": "",
-    "npsQuestion": "",
-    "howImprove": "",
-    "whatGood": "",
-    "thankYou": "",
-    "yourFeedback": "",
+    "consentHeder": "Palīdziet mums apmācīt recepšu mākslīgo intelektu!",
+    "consentText": "Mēs izmantojam statistikas sīkdatnes un iegūstam anonimizētus datus recepšu uzlabošanai. Ar mūsu sīkdatņu politiku var iepazīties te.",
+    "checkHere": "",
+    "npsLikely": "Ļoti iespējams",
+    "npsNotLikely": "Maz iespējams",
+    "skip": "Izlaist",
+    "submit": "Iesniegt",
+    "accept": "Apstiprināt",
+    "reject": "Noraidīt",
+    "npsQuestion": "Vai tu ieteiktu šo lietotni draugiem vai kolēģiem?",
+    "howImprove": "Kā mēs varētu uzlabot šo lietotni?",
+    "whatGood": "Lieliski! Kas tev patika šajā lietotnē?",
+    "thankYou": "Paldies!",
+    "yourFeedback": "Paldies, par jūsu viedokli!",
     "whatData": "",
-    "trackExplain": ""
+    "trackExplain": "Mēs izsekojam šādus jūsu izvēļu statistikas datus: sastāvdaļas, recepte sun filtrus (piemēram, diētas vai virtuves veidu)."
   }
 }

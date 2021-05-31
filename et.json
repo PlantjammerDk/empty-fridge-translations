@@ -12,7 +12,7 @@
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
-    "seeLess": "",
+    "seeLess": "Näita vähem",
     "includes": "Sisaldab",
     "mustHave": "Peab sisaldama",
     "substitute": "Võib asendada",
@@ -33,6 +33,7 @@
   "survey": {
     "consentHeder": "",
     "consentText": "",
+    "checkHere": "",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",

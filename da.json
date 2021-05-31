@@ -33,6 +33,7 @@
   "survey": {
     "consentHeder": "Hjælp os med at træne vores AI",
     "consentText": "Vi bruger cookies for at  fange anonymiseret data og skabe bedre søgeresultater. Hér er vores cookie policy",
+    "checkHere": "her.",
     "npsLikely": "Meget sandsynligt",
     "npsNotLikely": "Meget usandsynligt",
     "skip": "Spring over",
