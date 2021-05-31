@@ -33,6 +33,7 @@
   "survey": {
     "consentHeder": "",
     "consentText": "",
+    "checkHere": "",
     "npsLikely": "Altamente provável",
     "npsNotLikely": "Menos provável",
     "skip": "Saltar",

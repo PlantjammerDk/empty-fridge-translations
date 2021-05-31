@@ -25,7 +25,7 @@
     "grams": "Gramm anzeigen",
     "instructions": "Zubereitung",
     "noSubstitution": "Keine Alternativen verfügbar",
-    "loaderText": ""
+    "loaderText": "Dein Rezept wird erstellt"
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen"
@@ -33,6 +33,7 @@
   "survey": {
     "consentHeder": "Hilf uns die Rezepte KI zu trainieren",
     "consentText": "Wir nutzen Cookies um mit anonymisierten Daten die Rezeptergebnisse zu verbessern. Klicke hier um unsere Cookie Richtlinien zu sehen.",
+    "checkHere": "hier",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
     "skip": "Überspringen",

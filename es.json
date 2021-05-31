@@ -31,20 +31,21 @@
     "header": "Añadir filtro"
   },
   "survey": {
-    "consentHeder": "",
-    "consentText": "",
+    "consentHeder": "Ayúdanos a entrenar la IA de las recetas",
+    "consentText": "Utilizamos cookies estadísticas para recopilar datos anónimos con el fin de mejorar los resultados de las recetas. Consulta nuestra política de cookies.",
+    "checkHere": "aquí",
     "npsLikely": "Muy probable",
     "npsNotLikely": "Menos probable",
-    "skip": "",
-    "submit": "",
-    "accept": "",
-    "reject": "",
-    "npsQuestion": "",
-    "howImprove": "",
-    "whatGood": "",
+    "skip": "Saltar",
+    "submit": "Enviar",
+    "accept": "Aceptar",
+    "reject": "Rechazar",
+    "npsQuestion": "¿Qué probabilidad hay de que recomiendes esta herramienta a un amigo o colega?",
+    "howImprove": "¿Cómo podemos mejorar?",
+    "whatGood": "Muy bien. ¿Qué te ha gustado de esta herramienta?",
     "thankYou": "Gracias",
-    "yourFeedback": "",
-    "whatData": "",
-    "trackExplain": ""
+    "yourFeedback": "Agradecemos sus comentarios",
+    "whatData": "¿Qué es exactamente lo que rastrea?",
+    "trackExplain": "Hacemos un seguimiento de los datos estadísticos sobre tus selecciones de los siguientes elementos: ingredientes, recetas y filtros (como dietas o cocina)"
   }
 }
