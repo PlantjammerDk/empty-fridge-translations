@@ -25,7 +25,10 @@
     "grams": "Show in grams",
     "instructions": "Instructions",
     "noSubstitution": "No substitutions available",
-    "loaderText": "Preparing your recipe"
+    "loaderText": "Preparing your recipe",
+    "matchGreat": "Great match",
+    "matchOk": "Okay match",
+    "matchBrave": "Brave match"
   },
   "filtersOverlay": {
     "header": "Add filter"
