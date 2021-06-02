@@ -15,7 +15,7 @@
     "seeLess": "Einklappen",
     "includes": "Enthält",
     "mustHave": "Benötigt",
-    "substitute": "Austauschbar",
+    "substitute": "Vorschläge: Im Rezept änderbar",
     "select": "Zum Rezept",
     "howMany": "von deinen Zutaten"
   },
@@ -25,7 +25,10 @@
     "grams": "Gramm anzeigen",
     "instructions": "Zubereitung",
     "noSubstitution": "Keine Alternativen verfügbar",
-    "loaderText": "Dein Rezept wird erstellt"
+    "loaderText": "Dein Rezept wird erstellt",
+    "matchGreat": "Passt super",
+    "matchOk": "Passt okay",
+    "matchBrave": "Geht so"
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen"

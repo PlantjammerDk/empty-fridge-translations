@@ -1,51 +1,54 @@
 {
   "general": {
-    "done": "",
-    "header1": "",
-    "header2": "",
-    "selectedIngredients": "",
-    "search": "",
-    "searchMore": "",
-    "showMore": "",
-    "searchRecipes": "",
-    "popularIngredients": ""
+    "done": "Rechercher",
+    "header1": "Choisir les Ingrédients que vous souhaitez cuisiner avec",
+    "header2": "Afficher la recette",
+    "selectedIngredients": "Sélectionner Ingredients",
+    "search": "Rechercher des ingrédients",
+    "searchMore": "Rechercher plus d'ingrédients",
+    "showMore": "Afficher plus de recettes",
+    "searchRecipes": "A la recherche des recettes",
+    "popularIngredients": "Ingrédients populaires"
   },
   "recipeCard": {
-    "seeMore": "",
-    "seeLess": "",
-    "includes": "",
-    "mustHave": "",
-    "substitute": "",
-    "select": "",
-    "howMany": ""
+    "seeMore": "Aperçu",
+    "seeLess": "Afficher moins",
+    "includes": "incluant",
+    "mustHave": "Doit avoir",
+    "substitute": "Propositions: Modifiables dans la recette",
+    "select": "Afficher la recette",
+    "howMany": "de vos ingrédients"
   },
   "recipePage": {
-    "back": "",
-    "tip": "",
-    "grams": "",
-    "instructions": "",
-    "noSubstitution": "",
-    "loaderText": ""
+    "back": "Afficher tous les résultats",
+    "tip": "Astuce! Cliquez sur l'ingrédient pour voir les substituts",
+    "grams": "Afficher en grammes",
+    "instructions": "Instructions",
+    "noSubstitution": "Pas de substituts disponibles",
+    "loaderText": "Préparation de votre recette",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "Ajouter un filtre"
   },
   "survey": {
-    "consentHeder": "",
-    "consentText": "",
+    "consentHeder": "Aidez-nous à former la recette en IA",
+    "consentText": "Nous utilisons des cookies statistiques pour collecter des données anonymisées afin d'améliorer les résultats des recettes. Consultez notre politique en matière de cookies.",
     "checkHere": "",
-    "npsLikely": "",
-    "npsNotLikely": "",
-    "skip": "",
-    "submit": "",
-    "accept": "",
-    "reject": "",
-    "npsQuestion": "",
-    "howImprove": "",
-    "whatGood": "",
-    "thankYou": "",
-    "yourFeedback": "",
-    "whatData": "",
-    "trackExplain": ""
+    "npsLikely": "Probablement",
+    "npsNotLikely": "Très improbable",
+    "skip": "Passer",
+    "submit": "soumettre",
+    "accept": "Accepter",
+    "reject": "Refuser",
+    "npsQuestion": "Quelles sont les chances que vous recommandiez cet outil à un ami ou un collègue?",
+    "howImprove": "Comment pouvons nous nous améliorer?",
+    "whatGood": "Génial! Qu'avez-vous aimé dans cet outil ?",
+    "thankYou": "Merci!",
+    "yourFeedback": "Nous apprécions vos commentaires",
+    "whatData": "Que suivez-vous exactement ?",
+    "trackExplain": "Nous suivons des données statistiques sur vos sélections des éléments suivants : ingrédients, recettes et filtres (tels que les régimes ou la cuisine)"
   }
 }

@@ -25,7 +25,10 @@
     "grams": "",
     "instructions": "",
     "noSubstitution": "",
-    "loaderText": ""
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": ""

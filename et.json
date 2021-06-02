@@ -25,7 +25,10 @@
     "grams": "Näita grammides",
     "instructions": "Juhised",
     "noSubstitution": "Asendusained pole saadaval",
-    "loaderText": ""
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": "Lisa filter"

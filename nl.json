@@ -15,7 +15,7 @@
     "seeLess": "",
     "includes": "",
     "mustHave": "",
-    "substitute": "",
+    "substitute": "Voorstellen: veranderlijk in recept",
     "select": "",
     "howMany": ""
   },
@@ -25,7 +25,10 @@
     "grams": "",
     "instructions": "",
     "noSubstitution": "",
-    "loaderText": ""
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": ""
