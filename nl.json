@@ -3,6 +3,7 @@
     "done": "",
     "header1": "",
     "header2": "",
+    "headerTitle": "",
     "selectedIngredients": "",
     "search": "",
     "searchMore": "",
@@ -15,7 +16,7 @@
     "seeLess": "",
     "includes": "",
     "mustHave": "",
-    "substitute": "Voorstellen: veranderlijk in recept",
+    "substitute": "Veranderlijk in recept",
     "select": "",
     "howMany": ""
   },

@@ -3,6 +3,7 @@
     "done": "Buscar",
     "header1": "Elige ingredientes que quieras cocinar",
     "header2": "Ver receta",
+    "headerTitle": "",
     "selectedIngredients": "Ingredients seleccionados",
     "search": "Buscar ingredientes",
     "searchMore": "Buscar mas ingredientes",
@@ -15,7 +16,7 @@
     "seeLess": "Ver menos",
     "includes": "Incluido",
     "mustHave": "Debe tener",
-    "substitute": "Propuestas: Modificable en receta",
+    "substitute": "Modificable en receta",
     "select": "Ver receta",
     "howMany": "de tus ingredientes"
   },
