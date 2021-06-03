@@ -15,7 +15,7 @@
     "seeLess": "Vis mindre",
     "includes": "Inkludér",
     "mustHave": "Nødvendige",
-    "substitute": "Kan substitueres",
+    "substitute": "Forslag: Kan ændres i opskriften",
     "select": "Vælg opskrift",
     "howMany": "af dine ingredienser"
   },
@@ -25,7 +25,10 @@
     "grams": "Vis i gram",
     "instructions": "Opskriften",
     "noSubstitution": "Ingen substitutter",
-    "loaderText": "Loader din opskrift"
+    "loaderText": "Loader din opskrift",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov"

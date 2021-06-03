@@ -25,7 +25,10 @@
     "grams": "Rādīt gramos",
     "instructions": "Instrukcijas",
     "noSubstitution": "Nav aizvietotāju",
-    "loaderText": ""
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": "Pievienot filtru"

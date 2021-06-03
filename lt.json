@@ -25,7 +25,10 @@
     "grams": "Rodyti gramus",
     "instructions": "Instrukcijos",
     "noSubstitution": "Jokie pakeitimai negalimi",
-    "loaderText": ""
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą"

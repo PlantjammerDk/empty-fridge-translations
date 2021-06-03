@@ -16,7 +16,7 @@
     "seeLess": "Show less",
     "includes": "Includes",
     "mustHave": "Must have",
-    "substitute": "Can be substituted",
+    "substitute": "Proposals: Can be changed in recipe",
     "select": "See recipe",
     "howMany": "of your ingredients"
   },

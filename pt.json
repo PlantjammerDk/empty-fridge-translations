@@ -25,7 +25,10 @@
     "grams": "Mostrar em gramas",
     "instructions": "Instruções",
     "noSubstitution": "Nenhuma substituição disponível",
-    "loaderText": ""
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": "Adicionar filtro"

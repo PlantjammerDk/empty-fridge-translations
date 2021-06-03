@@ -15,7 +15,7 @@
     "seeLess": "Ver menos",
     "includes": "Incluido",
     "mustHave": "Debe tener",
-    "substitute": "Puede ser sustituido",
+    "substitute": "Propuestas: Modificable en receta",
     "select": "Ver receta",
     "howMany": "de tus ingredientes"
   },
@@ -25,7 +25,10 @@
     "grams": "Mostrar en gramos",
     "instructions": "Instrucciones",
     "noSubstitution": "No hay sustituciones disponibles",
-    "loaderText": "Cargando tu receta"
+    "loaderText": "Cargando tu receta",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
   },
   "filtersOverlay": {
     "header": "Añadir filtro"
