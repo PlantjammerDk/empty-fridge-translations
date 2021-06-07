@@ -3,6 +3,7 @@
     "done": "OK",
     "header1": "Vælg dine ingredienser",
     "header2": "Vælg opskrift",
+    "headerTitle": "",
     "selectedIngredients": "VælgIngredienser",
     "search": "Søg ingredienser",
     "searchMore": "Søg flere ingredienser",
@@ -15,7 +16,7 @@
     "seeLess": "Vis mindre",
     "includes": "Inkludér",
     "mustHave": "Nødvendige",
-    "substitute": "Forslag: Kan ændres i opskriften",
+    "substitute": "Kan ændres i opskriften",
     "select": "Vælg opskrift",
     "howMany": "af dine ingredienser"
   },

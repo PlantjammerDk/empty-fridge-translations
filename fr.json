@@ -3,6 +3,7 @@
     "done": "Rechercher",
     "header1": "Choisir les Ingrédients que vous souhaitez cuisiner avec",
     "header2": "Afficher la recette",
+    "headerTitle": "",
     "selectedIngredients": "Sélectionner Ingredients",
     "search": "Rechercher des ingrédients",
     "searchMore": "Rechercher plus d'ingrédients",
@@ -15,7 +16,7 @@
     "seeLess": "Afficher moins",
     "includes": "incluant",
     "mustHave": "Doit avoir",
-    "substitute": "Propositions: Modifiables dans la recette",
+    "substitute": "Modifiables dans la recette",
     "select": "Afficher la recette",
     "howMany": "de vos ingrédients"
   },
