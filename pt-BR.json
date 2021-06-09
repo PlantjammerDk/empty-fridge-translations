@@ -1,0 +1,55 @@
+{
+  "general": {
+    "done": "",
+    "header1": "",
+    "header2": "",
+    "headerTitle": "",
+    "selectedIngredients": "",
+    "search": "",
+    "searchMore": "",
+    "showMore": "",
+    "searchRecipes": "",
+    "popularIngredients": ""
+  },
+  "recipeCard": {
+    "seeMore": "",
+    "seeLess": "",
+    "includes": "",
+    "mustHave": "",
+    "substitute": "",
+    "select": "",
+    "howMany": ""
+  },
+  "recipePage": {
+    "back": "",
+    "tip": "",
+    "grams": "",
+    "instructions": "",
+    "noSubstitution": "",
+    "loaderText": "",
+    "matchGreat": "",
+    "matchOk": "",
+    "matchBrave": ""
+  },
+  "filtersOverlay": {
+    "header": ""
+  },
+  "survey": {
+    "consentHeder": "",
+    "consentText": "",
+    "checkHere": "",
+    "npsLikely": "",
+    "npsNotLikely": "",
+    "skip": "",
+    "submit": "",
+    "accept": "",
+    "reject": "",
+    "npsQuestion": "",
+    "howImprove": "",
+    "whatGood": "",
+    "thankYou": "",
+    "yourFeedback": "",
+    "whatData": "",
+    "trackExplain": ""
+  }
+}
