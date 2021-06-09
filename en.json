@@ -9,7 +9,9 @@
     "searchMore": "Add more ingredients",
     "showMore": "Show more recipes",
     "searchRecipes": "Creating recipes with your ingredients",
-    "popularIngredients": "Popular ingredients"
+    "popularIngredients": "Popular ingredients",
+    "errorGeneral": "Something went wrong. Try again later.",
+    "errorNoIngredients": "Ingredient is not found"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
