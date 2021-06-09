@@ -2,13 +2,13 @@
   "general": {
     "done": "Buscar",
     "header1": "Elige ingredientes que quieras cocinar",
-    "header2": "Ver receta",
+    "header2": "Seleccionar receta",
     "headerTitle": "",
     "selectedIngredients": "Ingredients seleccionados",
     "search": "Buscar ingredientes",
     "searchMore": "Buscar mas ingredientes",
     "showMore": "Ver mas recetas",
-    "searchRecipes": "Buscando recetas",
+    "searchRecipes": "Creando recetas con tus ingredientes",
     "popularIngredients": "Ingredientes"
   },
   "recipeCard": {
@@ -27,9 +27,9 @@
     "instructions": "Instrucciones",
     "noSubstitution": "No hay sustituciones disponibles",
     "loaderText": "Cargando tu receta",
-    "matchGreat": "",
-    "matchOk": "",
-    "matchBrave": ""
+    "matchGreat": "Estupenda combinación",
+    "matchOk": "Buena combinación",
+    "matchBrave": "Valiente combinación"
   },
   "filtersOverlay": {
     "header": "Añadir filtro"
@@ -39,7 +39,7 @@
     "consentText": "Utilizamos cookies estadísticas para recopilar datos anónimos con el fin de mejorar los resultados de las recetas. Consulta nuestra política de cookies.",
     "checkHere": "aquí",
     "npsLikely": "Muy probable",
-    "npsNotLikely": "Menos probable",
+    "npsNotLikely": "Poco probable",
     "skip": "Saltar",
     "submit": "Enviar",
     "accept": "Aceptar",

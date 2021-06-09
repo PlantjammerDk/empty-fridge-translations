@@ -2,11 +2,11 @@
   "general": {
     "done": "Rechercher",
     "header1": "Choisir les Ingrédients que vous souhaitez cuisiner avec",
-    "header2": "Afficher la recette",
-    "headerTitle": "",
+    "header2": "Sélectionnez la recette",
+    "headerTitle": "Arrêtant le gaspillage alimentaire",
     "selectedIngredients": "Sélectionner Ingredients",
     "search": "Rechercher des ingrédients",
-    "searchMore": "Rechercher plus d'ingrédients",
+    "searchMore": "Ajoutez plus d'ingrédients",
     "showMore": "Afficher plus de recettes",
     "searchRecipes": "A la recherche des recettes",
     "popularIngredients": "Ingrédients populaires"
@@ -27,9 +27,9 @@
     "instructions": "Instructions",
     "noSubstitution": "Pas de substituts disponibles",
     "loaderText": "Préparation de votre recette",
-    "matchGreat": "",
-    "matchOk": "",
-    "matchBrave": ""
+    "matchGreat": "Genial combinaison",
+    "matchOk": "Bonne combinaison",
+    "matchBrave": "Brave combinaison"
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre"
@@ -37,7 +37,7 @@
   "survey": {
     "consentHeder": "Aidez-nous à former la recette en IA",
     "consentText": "Nous utilisons des cookies statistiques pour collecter des données anonymisées afin d'améliorer les résultats des recettes. Consultez notre politique en matière de cookies.",
-    "checkHere": "",
+    "checkHere": "ici",
     "npsLikely": "Probablement",
     "npsNotLikely": "Très improbable",
     "skip": "Passer",
