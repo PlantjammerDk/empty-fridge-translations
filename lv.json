@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Meklēt",
+    "done": "Apskatīt receptes",
     "header1": "Izvēlieties sastāvdaļas, ko izmantosiet gatavošanā",
     "header2": "Apskatīt recepti",
     "headerTitle": "",
@@ -9,7 +9,9 @@
     "searchMore": "Meklēt vairāk sastāvdaļas",
     "showMore": "Rādīt vairāk receptes",
     "searchRecipes": "Meklē receptes",
-    "popularIngredients": "Populāras sastāvdaļas"
+    "popularIngredients": "Populāras sastāvdaļas",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -27,9 +29,9 @@
     "instructions": "Instrukcijas",
     "noSubstitution": "Nav aizvietotāju",
     "loaderText": "",
-    "matchGreat": "",
-    "matchOk": "",
-    "matchBrave": ""
+    "matchGreat": "Izcila kombinācija",
+    "matchOk": "lieliska kombinācija",
+    "matchBrave": "laba kombinācija"
   },
   "filtersOverlay": {
     "header": "Pievienot filtru"

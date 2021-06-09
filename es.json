@@ -9,7 +9,9 @@
     "searchMore": "Buscar mas ingredientes",
     "showMore": "Ver mas recetas",
     "searchRecipes": "Creando recetas con tus ingredientes",
-    "popularIngredients": "Ingredientes"
+    "popularIngredients": "Ingredientes",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Vistazo",

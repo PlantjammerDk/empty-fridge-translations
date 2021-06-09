@@ -9,7 +9,9 @@
     "searchMore": "",
     "showMore": "",
     "searchRecipes": "",
-    "popularIngredients": ""
+    "popularIngredients": "",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "",
