@@ -9,7 +9,9 @@
     "searchMore": "Søg flere ingredienser",
     "showMore": "Vis flere opskrifter",
     "searchRecipes": "Søg opskrifter",
-    "popularIngredients": "Populære ingredienser"
+    "popularIngredients": "Populære ingredienser",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Se flere opskrifter",

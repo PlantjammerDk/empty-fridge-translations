@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Otsing",
+    "done": "Vaata retsepte",
     "header1": "Vali koostisosad, millest soovid söögi valmistada",
     "header2": "Vaata retsepti",
     "headerTitle": "",
@@ -9,7 +9,9 @@
     "searchMore": "Otsi rohkem koostisosi",
     "showMore": "Näita rohkem retsepte",
     "searchRecipes": "Otsi retsepte",
-    "popularIngredients": "Populaarsed koostisosad"
+    "popularIngredients": "Populaarsed koostisosad",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -27,16 +29,16 @@
     "instructions": "Juhised",
     "noSubstitution": "Asendusained pole saadaval",
     "loaderText": "",
-    "matchGreat": "",
-    "matchOk": "",
-    "matchBrave": ""
+    "matchGreat": "Kõige parem sobivus",
+    "matchOk": "Parem sobivus",
+    "matchBrave": "Hea sobivus"
   },
   "filtersOverlay": {
     "header": "Lisa filter"
   },
   "survey": {
-    "consentHeder": "",
-    "consentText": "",
+    "consentHeder": "Aita meil treenida retsepti tehisintellekti",
+    "consentText": "Me kasutame küpsiseid, et koguda anonüümseks muudetud statistikat retseptide tulemuste parandamiseks. Uurige meie küpsiste kohta siit.",
     "checkHere": "",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
@@ -49,7 +51,7 @@
     "whatGood": "Hästi! Mis sulle meeldis selle vahendi puhul?",
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
-    "whatData": "",
-    "trackExplain": ""
+    "whatData": "Mida täpsemalt te jälgite?",
+    "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)"
   }
 }

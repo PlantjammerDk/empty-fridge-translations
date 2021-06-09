@@ -9,7 +9,9 @@
     "searchMore": "Pesquise mais ingredientes",
     "showMore": "Mostre mais ingredientes",
     "searchRecipes": "",
-    "popularIngredients": "Ingredientes populares"
+    "popularIngredients": "Ingredientes populares",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",

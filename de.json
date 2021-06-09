@@ -1,15 +1,17 @@
 {
   "general": {
-    "done": "Rezepte Suchen",
+    "done": "Rezepte erstellen",
     "header1": "Wähle deine Zutaten",
     "header2": "Zum Rezept",
-    "headerTitle": "Kühlschrank leeren",
+    "headerTitle": "Leere deinen Kühlschrank",
     "selectedIngredients": "Ausgewählte Zutaten",
     "search": "Suche Zutaten",
     "searchMore": "Suche weitere Zutaten",
     "showMore": "Mehr Rezepte",
     "searchRecipes": "Suche nach Rezepten",
-    "popularIngredients": "Beliebte Zutaten"
+    "popularIngredients": "Beliebte Zutaten",
+    "errorGeneral": "Da ging etwas schief. Versuche es später nochmal.",
+    "errorNoIngredients": "Zutat nicht gefunden"
   },
   "recipeCard": {
     "seeMore": "Vorschau",

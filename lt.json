@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Paieška",
+    "done": "Skaityti receptų",
     "header1": "Pasirink ingredientus, su kuriais nori gaminti",
     "header2": "Skaityti receptą",
     "headerTitle": "",
@@ -9,7 +9,9 @@
     "searchMore": "Ieškok daugiau ingredientų",
     "showMore": "Rodyti daugiau receptų",
     "searchRecipes": "Ieškoma receptų",
-    "popularIngredients": "Populiarūs ingredientai"
+    "popularIngredients": "Populiarūs ingredientai",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Užmesti akį",
@@ -27,9 +29,9 @@
     "instructions": "Instrukcijos",
     "noSubstitution": "Jokie pakeitimai negalimi",
     "loaderText": "",
-    "matchGreat": "",
-    "matchOk": "",
-    "matchBrave": ""
+    "matchGreat": "Puikus derinys",
+    "matchOk": "Geras derinys",
+    "matchBrave": "Pakankamas derinys"
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą"
@@ -49,7 +51,7 @@
     "whatGood": "Puiku! Kas patinka šiame įrankyje?",
     "thankYou": "Ačiū!",
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
-    "whatData": "",
+    "whatData": "Ką tiksliai stebite?",
     "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus "
   }
 }

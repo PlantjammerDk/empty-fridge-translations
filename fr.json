@@ -9,7 +9,9 @@
     "searchMore": "Ajoutez plus d'ingrédients",
     "showMore": "Afficher plus de recettes",
     "searchRecipes": "A la recherche des recettes",
-    "popularIngredients": "Ingrédients populaires"
+    "popularIngredients": "Ingrédients populaires",
+    "errorGeneral": "",
+    "errorNoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
