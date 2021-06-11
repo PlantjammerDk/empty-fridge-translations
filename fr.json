@@ -1,9 +1,9 @@
 {
   "general": {
     "done": "Rechercher",
-    "header1": "Choisir les Ingrédients que vous souhaitez cuisiner avec",
+    "header1": "Choisissez les ingrédients",
     "header2": "Sélectionnez la recette",
-    "headerTitle": "Arrêtant le gaspillage alimentaire",
+    "headerTitle": "Arrêtons le gaspillage alimentaire",
     "selectedIngredients": "Sélectionner Ingredients",
     "search": "Rechercher des ingrédients",
     "searchMore": "Ajoutez plus d'ingrédients",
