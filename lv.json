@@ -3,7 +3,10 @@
     "done": "Apskatīt receptes",
     "header1": "Izvēlieties sastāvdaļas, ko izmantosiet gatavošanā",
     "header2": "Apskatīt recepti",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "",
+    "headerTitleOetker": "",
     "selectedIngredients": "Izvēlētās sastāvdaļas",
     "search": "Meklēt sastāvdaļas",
     "searchMore": "Meklēt vairāk sastāvdaļas",
@@ -53,5 +56,10 @@
     "yourFeedback": "Paldies, par jūsu viedokli!",
     "whatData": "",
     "trackExplain": "Mēs izsekojam šādus jūsu izvēļu statistikas datus: sastāvdaļas, recepte sun filtrus (piemēram, diētas vai virtuves veidu)."
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }

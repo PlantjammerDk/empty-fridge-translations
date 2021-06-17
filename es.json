@@ -3,7 +3,10 @@
     "done": "Buscar",
     "header1": "Elige ingredientes a cocinar",
     "header2": "Seleccionar receta",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "Vacía tu nevera",
+    "headerTitleOetker": "",
     "selectedIngredients": "Ingredients seleccionados",
     "search": "Buscar ingredientes",
     "searchMore": "Buscar mas ingredientes",
@@ -53,5 +56,10 @@
     "yourFeedback": "Agradecemos sus comentarios",
     "whatData": "¿Qué es exactamente lo que rastrea?",
     "trackExplain": "Hacemos un seguimiento de los datos estadísticos sobre tus selecciones de los siguientes elementos: ingredientes, recetas y filtros (como dietas o cocina)"
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }

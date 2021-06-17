@@ -3,7 +3,10 @@
     "done": "Rezepte erstellen",
     "header1": "Wähle deine Zutaten",
     "header2": "Zum Rezept",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "Leere deinen Kühlschrank",
+    "headerTitleOetker": "",
     "selectedIngredients": "Ausgewählte Zutaten",
     "search": "Suche Zutaten",
     "searchMore": "Suche weitere Zutaten",
@@ -53,5 +56,10 @@
     "yourFeedback": "Wir freuen uns über dein Feedback",
     "whatData": "Was genau speichert ihr?",
     "trackExplain": "Wir speichern anonymisierte Daten, statistische Daten darüber welche Zutaten, Rezepte und Filter wie häufig geklickt werden."
+  },
+  "filters": {
+    "sweet": "Süß",
+    "fruity": "Fruchtig",
+    "superFruity": "Super Fruchtig"
   }
 }

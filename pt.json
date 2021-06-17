@@ -3,7 +3,10 @@
     "done": "Procurar",
     "header1": "Escolha os ingredientes que você gosta",
     "header2": "Veja a receita",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "",
+    "headerTitleOetker": "",
     "selectedIngredients": "Ingredients selecionados",
     "search": "Procure por ingredientes",
     "searchMore": "Pesquise mais ingredientes",
@@ -53,5 +56,10 @@
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": ""
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }

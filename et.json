@@ -3,7 +3,10 @@
     "done": "Vaata retsepte",
     "header1": "Vali koostisosad, millest soovid söögi valmistada",
     "header2": "Vaata retsepti",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "",
+    "headerTitleOetker": "",
     "selectedIngredients": "Valitud koostisosad",
     "search": "Otsi koostisosi",
     "searchMore": "Otsi rohkem koostisosi",
@@ -53,5 +56,10 @@
     "yourFeedback": "Me hindame sinu tagasisidet",
     "whatData": "Mida täpsemalt te jälgite?",
     "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)"
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }
