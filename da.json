@@ -3,7 +3,10 @@
     "done": "OK",
     "header1": "Vælg dine ingredienser",
     "header2": "Vælg opskrift",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "Tøm køleren",
+    "headerTitleOetker": "",
     "selectedIngredients": "VælgIngredienser",
     "search": "Søg ingredienser",
     "searchMore": "Søg flere ingredienser",
@@ -19,7 +22,7 @@
     "includes": "Inkludér",
     "mustHave": "Nødvendige",
     "substitute": "Kan ændres i opskriften",
-    "select": "Vælg opskrift",
+    "select": "Se opskrift",
     "howMany": "af dine ingredienser"
   },
   "recipePage": {
@@ -53,5 +56,10 @@
     "yourFeedback": "Vi sætter pris på din feedback.",
     "whatData": "Hvad tracker I?",
     "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger."
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }

@@ -3,7 +3,10 @@
     "done": "",
     "header1": "",
     "header2": "",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "",
+    "headerTitleOetker": "",
     "selectedIngredients": "",
     "search": "",
     "searchMore": "",
@@ -53,5 +56,10 @@
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": ""
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }

@@ -3,7 +3,10 @@
     "done": "Rechercher",
     "header1": "Choisissez les ingrédients",
     "header2": "Sélectionnez la recette",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "Arrêtons le gaspillage alimentaire",
+    "headerTitleOetker": "",
     "selectedIngredients": "Sélectionner Ingredients",
     "search": "Rechercher des ingrédients",
     "searchMore": "Ajoutez plus d'ingrédients",
@@ -53,5 +56,10 @@
     "yourFeedback": "Nous apprécions vos commentaires",
     "whatData": "Que suivez-vous exactement ?",
     "trackExplain": "Nous suivons des données statistiques sur vos sélections des éléments suivants : ingrédients, recettes et filtres (tels que les régimes ou la cuisine)"
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }

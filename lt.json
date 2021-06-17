@@ -3,7 +3,10 @@
     "done": "Skaityti receptų",
     "header1": "Pasirink ingredientus, su kuriais nori gaminti",
     "header2": "Skaityti receptą",
+    "headerOetker1": "",
+    "headerOetker2": "",
     "headerTitle": "",
+    "headerTitleOetker": "",
     "selectedIngredients": "Pasirinkti ingredientai",
     "search": "Ingredientų paieška",
     "searchMore": "Ieškok daugiau ingredientų",
@@ -53,5 +56,10 @@
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "whatData": "Ką tiksliai stebite?",
     "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus "
+  },
+  "filters": {
+    "sweet": "",
+    "fruity": "",
+    "superFruity": ""
   }
 }
