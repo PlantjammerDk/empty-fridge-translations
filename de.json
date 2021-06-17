@@ -60,6 +60,8 @@
   "filters": {
     "sweet": "Süß",
     "fruity": "Fruchtig",
-    "superFruity": "Super Fruchtig"
+    "superFruity": "Super Fruchtig",
+    "jam": "Marmelade",
+    "jelly": "Gelee"
   }
 }
