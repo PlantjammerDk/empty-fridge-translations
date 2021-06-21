@@ -31,7 +31,7 @@
     "grams": "Rodyti gramus",
     "instructions": "Instrukcijos",
     "noSubstitution": "Jokie pakeitimai negalimi",
-    "loaderText": "",
+    "loaderText": "Tavo receptas ruošiamas",
     "matchGreat": "Puikus derinys",
     "matchOk": "Geras derinys",
     "matchBrave": "Pakankamas derinys"
@@ -42,7 +42,7 @@
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
     "consentText": "Mes naudojame statistinius slapukus anonimiškiems duomenims rinkti, kad pagerintume receptų rezultatus. Čia galite peržiūrėti mūsų slapukų politiką.",
-    "checkHere": "",
+    "checkHere": "Čia",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",

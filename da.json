@@ -5,7 +5,7 @@
     "header2": "Vælg opskrift",
     "headerOetker1": "",
     "headerOetker2": "",
-    "headerTitle": "Tøm køleren",
+    "headerTitle": "Tøm køleskabet",
     "headerTitleOetker": "",
     "selectedIngredients": "VælgIngredienser",
     "search": "Søg ingredienser",
@@ -17,11 +17,11 @@
     "errorNoIngredients": ""
   },
   "recipeCard": {
-    "seeMore": "Se flere opskrifter",
+    "seeMore": "Se mere",
     "seeLess": "Vis mindre",
     "includes": "Inkludér",
     "mustHave": "Nødvendige",
-    "substitute": "Kan ændres i opskriften",
+    "substitute": "Kan udskiftes i opskriften",
     "select": "Se opskrift",
     "howMany": "af dine ingredienser"
   },
