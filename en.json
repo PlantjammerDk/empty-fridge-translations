@@ -23,7 +23,8 @@
     "mustHave": "Must have",
     "substitute": "Can be changed in recipe",
     "select": "See recipe",
-    "howMany": "of your ingredients"
+    "howMany": "of your ingredients",
+    "or": "OR"
   },
   "recipePage": {
     "back": "See all results",
