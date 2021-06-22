@@ -23,7 +23,8 @@
     "mustHave": "Peab sisaldama",
     "substitute": "Võib asendada",
     "select": "Vaata retsepti",
-    "howMany": "sinu koostisosadest"
+    "howMany": "sinu koostisosadest",
+    "or": ""
   },
   "recipePage": {
     "back": "Näita kõiki tulemusi",

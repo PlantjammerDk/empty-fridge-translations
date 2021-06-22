@@ -23,7 +23,8 @@
     "mustHave": "Obligātas",
     "substitute": "Var aizvietot",
     "select": "Apskatīt recepti",
-    "howMany": "jūsu sastāvdaļas"
+    "howMany": "jūsu sastāvdaļas",
+    "or": ""
   },
   "recipePage": {
     "back": "Visi rezultāti",

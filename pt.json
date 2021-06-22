@@ -23,7 +23,8 @@
     "mustHave": "Deve ter",
     "substitute": "Pode ser substituído",
     "select": "Veja a receita",
-    "howMany": "de seus ingredientes"
+    "howMany": "de seus ingredientes",
+    "or": ""
   },
   "recipePage": {
     "back": "Veja todos os resultados",

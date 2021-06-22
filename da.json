@@ -11,7 +11,7 @@
     "search": "Søg ingredienser",
     "searchMore": "Søg flere ingredienser",
     "showMore": "Vis flere opskrifter",
-    "searchRecipes": "Søg opskrifter",
+    "searchRecipes": "Skaber opskrifter med dine ingredienser",
     "popularIngredients": "Populære ingredienser",
     "errorGeneral": "",
     "errorNoIngredients": ""
@@ -23,7 +23,8 @@
     "mustHave": "Nødvendige",
     "substitute": "Kan udskiftes i opskriften",
     "select": "Se opskrift",
-    "howMany": "af dine ingredienser"
+    "howMany": "af dine ingredienser",
+    "or": ""
   },
   "recipePage": {
     "back": "Se alle resultater",

@@ -23,7 +23,8 @@
     "mustHave": "",
     "substitute": "Veranderlijk in recept",
     "select": "",
-    "howMany": ""
+    "howMany": "",
+    "or": ""
   },
   "recipePage": {
     "back": "",

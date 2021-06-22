@@ -11,7 +11,7 @@
     "search": "Buscar ingredientes",
     "searchMore": "Buscar mas ingredientes",
     "showMore": "Ver mas recetas",
-    "searchRecipes": "Creando recetas con tus ingredientes",
+    "searchRecipes": "Creando recetas con ingredientes seleccionados",
     "popularIngredients": "Ingredientes",
     "errorGeneral": "",
     "errorNoIngredients": ""
@@ -23,7 +23,8 @@
     "mustHave": "Debe tener",
     "substitute": "Modificable en receta",
     "select": "Ver receta",
-    "howMany": "de tus ingredientes"
+    "howMany": "de tus ingredientes",
+    "or": ""
   },
   "recipePage": {
     "back": "Ver todos resultatos",
