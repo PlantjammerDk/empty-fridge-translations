@@ -31,7 +31,7 @@
     "grams": "Näita grammides",
     "instructions": "Juhised",
     "noSubstitution": "Asendusained pole saadaval",
-    "loaderText": "",
+    "loaderText": "Sinu retsepti valmistamas",
     "matchGreat": "Kõige parem sobivus",
     "matchOk": "Parem sobivus",
     "matchBrave": "Hea sobivus"
@@ -42,7 +42,7 @@
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
     "consentText": "Me kasutame küpsiseid, et koguda anonüümseks muudetud statistikat retseptide tulemuste parandamiseks. Uurige meie küpsiste kohta siit.",
-    "checkHere": "",
+    "checkHere": "siin",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
