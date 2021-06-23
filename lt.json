@@ -23,7 +23,8 @@
     "mustHave": "Būtina",
     "substitute": "Galima pakeisti",
     "select": "Skaityti receptą",
-    "howMany": "tavo ingredientų"
+    "howMany": "tavo ingredientų",
+    "or": ""
   },
   "recipePage": {
     "back": "Visi rezultatai",

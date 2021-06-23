@@ -33,9 +33,9 @@
     "instructions": "Instructions",
     "noSubstitution": "No substitutions available",
     "loaderText": "Preparing your recipe",
-    "matchGreat": "Great match",
-    "matchOk": "Okay match",
-    "matchBrave": "Brave match"
+    "matchGreat": "Perfekt match",
+    "matchOk": "Great match",
+    "matchBrave": "Ok match"
   },
   "filtersOverlay": {
     "header": "Add filter"

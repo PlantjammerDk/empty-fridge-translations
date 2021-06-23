@@ -11,7 +11,7 @@
     "search": "Suche Zutaten",
     "searchMore": "Suche weitere Zutaten",
     "showMore": "Mehr Rezepte",
-    "searchRecipes": "Suche nach Rezepten",
+    "searchRecipes": "Erstellung von Rezepten mit ausgewählten Zutaten",
     "popularIngredients": "Beliebte Zutaten",
     "errorGeneral": "Da ging etwas schief. Versuche es später nochmal.",
     "errorNoIngredients": "Zutat nicht gefunden"
@@ -23,7 +23,8 @@
     "mustHave": "Benötigt",
     "substitute": "Im Rezept änderbar",
     "select": "Zum Rezept",
-    "howMany": "von deinen Zutaten"
+    "howMany": "von deinen Zutaten",
+    "or": "oder"
   },
   "recipePage": {
     "back": "Zurück zur Rezeptauswahl",
@@ -32,9 +33,9 @@
     "instructions": "Zubereitung",
     "noSubstitution": "Keine Alternativen verfügbar",
     "loaderText": "Dein Rezept wird erstellt",
-    "matchGreat": "Passt super",
-    "matchOk": "Passt okay",
-    "matchBrave": "Geht so"
+    "matchGreat": "Passt perfekt",
+    "matchOk": "Passt super",
+    "matchBrave": "Passt gut"
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen"
