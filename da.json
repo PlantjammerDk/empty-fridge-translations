@@ -3,8 +3,8 @@
     "done": "OK",
     "header1": "Vælg dine ingredienser",
     "header2": "Vælg opskrift",
-    "headerOetker1": "",
-    "headerOetker2": "",
+    "headerOetker1": "Vælg frugter",
+    "headerOetker2": "Vælg opskrift",
     "headerTitle": "Tøm køleskabet",
     "headerTitleOetker": "",
     "selectedIngredients": "VælgIngredienser",
@@ -13,7 +13,7 @@
     "showMore": "Vis flere opskrifter",
     "searchRecipes": "Skaber opskrifter med dine ingredienser",
     "popularIngredients": "Populære ingredienser",
-    "errorGeneral": "",
+    "errorGeneral": "Noget gik galt. Prøv igen senere",
     "errorNoIngredients": ""
   },
   "recipeCard": {
