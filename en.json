@@ -63,6 +63,13 @@
     "fruity": "Fruity",
     "superFruity": "Super Fruity",
     "jam": "Jam",
-    "jelly": "Jelly"
+    "jelly": "Jelly",
+    "vegan": "Vegan",
+    "vegeterian": "Vegeterian",
+    "lactoseFree": "Lactose- free",
+    "eggFree": "Egg-free",
+    "nut-free": "Nut-free",
+    "glutenFree": "Gluten-free",
+    "diabetic": "Diabetic"
   }
 }
