@@ -32,7 +32,7 @@
     "grams": "Rādīt gramos",
     "instructions": "Instrukcijas",
     "noSubstitution": "Nav aizvietotāju",
-    "loaderText": "",
+    "loaderText": "Sagatavojam tavu recepti",
     "matchGreat": "Izcila kombinācija",
     "matchOk": "lieliska kombinācija",
     "matchBrave": "laba kombinācija"
@@ -63,6 +63,13 @@
     "fruity": "",
     "superFruity": "",
     "jam": "",
-    "jelly": ""
+    "jelly": "",
+    "vegan": "",
+    "vegeterian": "",
+    "lactoseFree": "",
+    "eggFree": "",
+    "nut-free": "",
+    "glutenFree": "",
+    "diabetic": ""
   }
 }

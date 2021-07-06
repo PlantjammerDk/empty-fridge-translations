@@ -63,6 +63,13 @@
     "fruity": "",
     "superFruity": "",
     "jam": "",
-    "jelly": ""
+    "jelly": "",
+    "vegan": "",
+    "vegeterian": "",
+    "lactoseFree": "",
+    "eggFree": "",
+    "nut-free": "",
+    "glutenFree": "",
+    "diabetic": ""
   }
 }

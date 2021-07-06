@@ -63,6 +63,13 @@
     "fruity": "Fruchtig",
     "superFruity": "Super Fruchtig",
     "jam": "Marmelade",
-    "jelly": "Gelee"
+    "jelly": "Gelee",
+    "vegan": "",
+    "vegeterian": "",
+    "lactoseFree": "",
+    "eggFree": "",
+    "nut-free": "",
+    "glutenFree": "",
+    "diabetic": ""
   }
 }
