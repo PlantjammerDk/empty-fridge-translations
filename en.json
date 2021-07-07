@@ -38,7 +38,10 @@
     "matchBrave": "Ok match"
   },
   "filtersOverlay": {
-    "header": "Add filter"
+    "header": "Add filter",
+    "dishType": "Dish Type",
+    "cuisine": "Cuisine",
+    "diet": "Diet"
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
