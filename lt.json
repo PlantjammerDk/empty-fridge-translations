@@ -1,7 +1,7 @@
 {
   "general": {
     "done": "Skaityti receptų",
-    "header1": "Pasirink ingredientus, su kuriais nori gaminti",
+    "header1": "Pasirink ingredientus, iš kurių nori gaminti",
     "header2": "Skaityti receptą",
     "headerOetker1": "",
     "headerOetker2": "",
@@ -17,25 +17,25 @@
     "errorNoIngredients": ""
   },
   "recipeCard": {
-    "seeMore": "Užmesti akį",
+    "seeMore": "Žiūrėti receptą",
     "seeLess": "Rodyti mažiau",
     "includes": "Sudaro",
     "mustHave": "Būtina",
     "substitute": "Galima pakeisti",
-    "select": "Skaityti receptą",
-    "howMany": "tavo ingredientų",
+    "select": "Skaityti visą receptą",
+    "howMany": "tavo ingredientai",
     "or": ""
   },
   "recipePage": {
     "back": "Visi rezultatai",
     "tip": "Patarimas! Paspausk ant ingredientų, kad matytum galimus pakaitalus",
-    "grams": "Rodyti gramus",
-    "instructions": "Instrukcijos",
-    "noSubstitution": "Jokie pakeitimai negalimi",
+    "grams": "Rodyti gramais",
+    "instructions": "Gaminimo eiga",
+    "noSubstitution": "Siūlome nekeisti šio ingrediento",
     "loaderText": "Tavo receptas ruošiamas",
-    "matchGreat": "Puikus derinys",
-    "matchOk": "Geras derinys",
-    "matchBrave": "Pakankamas derinys"
+    "matchGreat": "Labiausiai tinka",
+    "matchOk": "Gerai tinka ",
+    "matchBrave": "Tinka"
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",
