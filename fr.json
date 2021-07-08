@@ -38,7 +38,10 @@
     "matchBrave": "Brave combinaison"
   },
   "filtersOverlay": {
-    "header": "Ajouter un filtre"
+    "header": "Ajouter un filtre",
+    "dishType": "",
+    "cuisine": "",
+    "diet": ""
   },
   "survey": {
     "consentHeder": "Aidez-nous à former la recette en IA",

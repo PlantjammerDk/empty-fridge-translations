@@ -38,7 +38,10 @@
     "matchBrave": ""
   },
   "filtersOverlay": {
-    "header": "Ændr opskrift til dit behov"
+    "header": "Ændr opskrift til dit behov",
+    "dishType": "",
+    "cuisine": "",
+    "diet": ""
   },
   "survey": {
     "consentHeder": "Hjælp os med at træne vores AI",

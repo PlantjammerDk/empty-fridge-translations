@@ -38,7 +38,10 @@
     "matchBrave": "Pakankamas derinys"
   },
   "filtersOverlay": {
-    "header": "Pridėti filtrą"
+    "header": "Pridėti filtrą",
+    "dishType": "Indų tipas",
+    "cuisine": "Regionas",
+    "diet": "Mityba"
   },
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",

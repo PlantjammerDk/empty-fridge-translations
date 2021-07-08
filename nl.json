@@ -38,7 +38,10 @@
     "matchBrave": ""
   },
   "filtersOverlay": {
-    "header": ""
+    "header": "",
+    "dishType": "",
+    "cuisine": "",
+    "diet": ""
   },
   "survey": {
     "consentHeder": "",

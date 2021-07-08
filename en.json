@@ -40,7 +40,7 @@
   "filtersOverlay": {
     "header": "Add filter",
     "dishType": "Dish Type",
-    "cuisine": "Cuisine",
+    "cuisine": "Region",
     "diet": "Diet"
   },
   "survey": {

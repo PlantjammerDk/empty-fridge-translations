@@ -38,7 +38,10 @@
     "matchBrave": "Hea sobivus"
   },
   "filtersOverlay": {
-    "header": "Lisa filter"
+    "header": "Lisa filter",
+    "dishType": "Taldrikutüüp",
+    "cuisine": "Piirkond",
+    "diet": "Toitumine"
   },
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",

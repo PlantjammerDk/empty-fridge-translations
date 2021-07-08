@@ -38,7 +38,10 @@
     "matchBrave": "Valiente combinación"
   },
   "filtersOverlay": {
-    "header": "Añadir filtro"
+    "header": "Añadir filtro",
+    "dishType": "",
+    "cuisine": "",
+    "diet": ""
   },
   "survey": {
     "consentHeder": "Ayúdanos a entrenar la IA de las recetas",

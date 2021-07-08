@@ -38,7 +38,10 @@
     "matchBrave": "laba kombinācija"
   },
   "filtersOverlay": {
-    "header": "Pievienot filtru"
+    "header": "Pievienot filtru",
+    "dishType": "Trauku tips",
+    "cuisine": "Reģions",
+    "diet": "Uzturs"
   },
   "survey": {
     "consentHeder": "Palīdziet mums apmācīt recepšu mākslīgo intelektu!",

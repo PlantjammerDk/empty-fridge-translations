@@ -38,7 +38,10 @@
     "matchBrave": "Passt gut"
   },
   "filtersOverlay": {
-    "header": "Filter hinzufügen"
+    "header": "Filter hinzufügen",
+    "dishType": "",
+    "cuisine": "",
+    "diet": ""
   },
   "survey": {
     "consentHeder": "Hilf uns die Rezepte KI zu trainieren",
