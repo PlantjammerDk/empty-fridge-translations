@@ -14,7 +14,8 @@
     "searchRecipes": "Erstellung von Rezepten mit ausgewählten Zutaten",
     "popularIngredients": "Beliebte Zutaten",
     "errorGeneral": "Da ging etwas schief. Versuche es später nochmal.",
-    "errorNoIngredients": "Zutat nicht gefunden"
+    "errorNoIngredients": "Zutat nicht gefunden",
+    "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen."
   },
   "recipeCard": {
     "seeMore": "Vorschau",
