@@ -40,7 +40,7 @@
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen",
-    "dishType": "Gericht Art",
+    "dishType": "Gerichtart",
     "cuisine": "Region",
     "diet": "Ernährung"
   },
