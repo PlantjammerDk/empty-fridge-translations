@@ -14,7 +14,8 @@
     "searchRecipes": "Création de recettes avec les ingrédients choisis",
     "popularIngredients": "Ingrédients populaires",
     "errorGeneral": "",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",

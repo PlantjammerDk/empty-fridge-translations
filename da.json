@@ -14,7 +14,8 @@
     "searchRecipes": "Skaber opskrifter med dine ingredienser",
     "popularIngredients": "Populære ingredienser",
     "errorGeneral": "Noget gik galt. Prøv igen senere",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Se mere",

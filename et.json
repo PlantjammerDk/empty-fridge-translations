@@ -14,7 +14,8 @@
     "searchRecipes": "Otsi retsepte",
     "popularIngredients": "Populaarsed koostisosad",
     "errorGeneral": "",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",

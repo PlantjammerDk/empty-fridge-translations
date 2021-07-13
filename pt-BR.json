@@ -14,7 +14,8 @@
     "searchRecipes": "",
     "popularIngredients": "Ingredientes populares",
     "errorGeneral": "",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",

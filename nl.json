@@ -14,7 +14,8 @@
     "searchRecipes": "",
     "popularIngredients": "",
     "errorGeneral": "",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "",

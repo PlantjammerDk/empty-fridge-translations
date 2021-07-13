@@ -1,7 +1,7 @@
 {
   "general": {
     "done": "Apskatīt receptes",
-    "header1": "Izvēlieties sastāvdaļas, ko izmantosiet gatavošanā",
+    "header1": "Ierakstiet un izvēlieties sastāvdaļas, ko izmantosiet",
     "header2": "Apskatīt recepti",
     "headerOetker1": "",
     "headerOetker2": "",
@@ -14,7 +14,8 @@
     "searchRecipes": "Meklē receptes",
     "popularIngredients": "Populāras sastāvdaļas",
     "errorGeneral": "",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",

@@ -14,7 +14,8 @@
     "searchRecipes": "Ieškoma receptų",
     "popularIngredients": "Populiarūs ingredientai",
     "errorGeneral": "",
-    "errorNoIngredients": ""
+    "errorNoIngredients": "",
+    "selectTwoIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
