@@ -40,9 +40,9 @@
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen",
-    "dishType": "",
-    "cuisine": "",
-    "diet": ""
+    "dishType": "Gericht Art",
+    "cuisine": "Region",
+    "diet": "Ernährung"
   },
   "survey": {
     "consentHeder": "Hilf uns die Rezepte KI zu trainieren",

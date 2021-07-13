@@ -40,9 +40,9 @@
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",
-    "dishType": "Indų tipas",
+    "dishType": "Patiekalo tipas",
     "cuisine": "Regionas",
-    "diet": "Mityba"
+    "diet": "Speciali dieta"
   },
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
