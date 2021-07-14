@@ -46,8 +46,8 @@
   },
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
-    "consentText": "Wir nutzen Cookies um mit anonymisierten Daten die Rezeptergebnisse zu verbessern. Klicke hier um unsere Cookie Richtlinien zu sehen.",
-    "checkHere": "hier",
+    "consentText": "Wir speichern statistische und persönliche Daten um die Nutzung unserer Technologie zu analysieren. Mehr Informationen dazu findest du in unseren",
+    "checkHere": "Datenschutzrichtlinien",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
     "skip": "Überspringen",
