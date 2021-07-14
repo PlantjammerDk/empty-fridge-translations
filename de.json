@@ -45,7 +45,7 @@
     "diet": "Ernährung"
   },
   "survey": {
-    "consentHeder": "Hilf uns die Rezepte KI zu trainieren",
+    "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir nutzen Cookies um mit anonymisierten Daten die Rezeptergebnisse zu verbessern. Klicke hier um unsere Cookie Richtlinien zu sehen.",
     "checkHere": "hier",
     "npsLikely": "sehr wahrscheinlich",
@@ -68,12 +68,12 @@
     "superFruity": "Super Fruchtig",
     "jam": "Marmelade",
     "jelly": "Gelee",
-    "vegan": "",
-    "vegeterian": "",
-    "lactoseFree": "",
-    "eggFree": "",
-    "nut-free": "",
-    "glutenFree": "",
-    "diabetic": ""
+    "vegan": "Vegan",
+    "vegeterian": "Vegetarisch",
+    "lactoseFree": "Laktose-frei",
+    "eggFree": "Ohne Ei",
+    "nut-free": "Nussfrei",
+    "glutenFree": "Gluten-frei",
+    "diabetic": "Diabetiker"
   }
 }
