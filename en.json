@@ -60,7 +60,8 @@
     "thankYou": "Thank you!",
     "yourFeedback": "We appreciate your feedback",
     "whatData": "What exactly do you track?",
-    "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)"
+    "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)",
+    "feedbackButton": "Leave feedback"
   },
   "filters": {
     "sweet": "Sweet",

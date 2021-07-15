@@ -60,7 +60,8 @@
     "thankYou": "Vielen Dank!",
     "yourFeedback": "Wir freuen uns über dein Feedback",
     "whatData": "Was genau speichert ihr?",
-    "trackExplain": "Wir speichern anonymisierte Daten, statistische Daten darüber welche Zutaten, Rezepte und Filter wie häufig geklickt werden."
+    "trackExplain": "Wir speichern anonymisierte Daten, statistische Daten darüber welche Zutaten, Rezepte und Filter wie häufig geklickt werden.",
+    "feedbackButton": "Gib dein Feedback"
   },
   "filters": {
     "sweet": "Süß",
