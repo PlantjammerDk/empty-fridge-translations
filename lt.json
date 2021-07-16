@@ -1,11 +1,11 @@
 {
   "general": {
-    "done": "Skaityti receptų",
+    "done": "Ieškoti receptų",
     "header1": "Pasirink ingredientus, iš kurių nori gaminti",
     "header2": "Skaityti receptą",
     "headerOetker1": "",
     "headerOetker2": "",
-    "headerTitle": "Ištuštinkite šaldytuvą",
+    "headerTitle": "Gaminu, neišmetu",
     "headerTitleOetker": "",
     "selectedIngredients": "Pasirinkti ingredientai",
     "search": "Ingredientų paieška",
