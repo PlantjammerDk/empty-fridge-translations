@@ -60,7 +60,8 @@
     "thankYou": "Mange tak!",
     "yourFeedback": "Vi sætter pris på din feedback.",
     "whatData": "Hvad tracker I?",
-    "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger."
+    "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger.",
+    "feedbackButton": ""
   },
   "filters": {
     "sweet": "",

@@ -60,7 +60,8 @@
     "thankYou": "Paldies!",
     "yourFeedback": "Paldies, par jūsu viedokli!",
     "whatData": "",
-    "trackExplain": "Mēs izsekojam šādus jūsu izvēļu statistikas datus: sastāvdaļas, recepte sun filtrus (piemēram, diētas vai virtuves veidu)."
+    "trackExplain": "Mēs izsekojam šādus jūsu izvēļu statistikas datus: sastāvdaļas, recepte sun filtrus (piemēram, diētas vai virtuves veidu).",
+    "feedbackButton": ""
   },
   "filters": {
     "sweet": "",

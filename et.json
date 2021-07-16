@@ -5,7 +5,7 @@
     "header2": "Vaata retsepti",
     "headerOetker1": "",
     "headerOetker2": "",
-    "headerTitle": "Koostisosa ei leitud",
+    "headerTitle": "Tühjenda oma külmik",
     "headerTitleOetker": "",
     "selectedIngredients": "Valitud koostisosad",
     "search": "Otsi koostisosi",
@@ -14,7 +14,7 @@
     "searchRecipes": "Otsi retsepte",
     "popularIngredients": "Populaarsed koostisosad",
     "errorGeneral": "",
-    "errorNoIngredients": "",
+    "errorNoIngredients": "Koostisosa ei leitud",
     "selectTwoIngredients": ""
   },
   "recipeCard": {
@@ -60,7 +60,8 @@
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
     "whatData": "Mida täpsemalt te jälgite?",
-    "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)"
+    "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)",
+    "feedbackButton": ""
   },
   "filters": {
     "sweet": "",

@@ -60,7 +60,8 @@
     "thankYou": "Ačiū!",
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "whatData": "Ką tiksliai stebite?",
-    "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus "
+    "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus ",
+    "feedbackButton": ""
   },
   "filters": {
     "sweet": "",

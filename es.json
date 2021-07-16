@@ -60,7 +60,8 @@
     "thankYou": "Gracias",
     "yourFeedback": "Agradecemos sus comentarios",
     "whatData": "¿Qué es exactamente lo que rastrea?",
-    "trackExplain": "Hacemos un seguimiento de los datos estadísticos sobre tus selecciones de los siguientes elementos: ingredientes, recetas y filtros (como dietas o cocina)"
+    "trackExplain": "Hacemos un seguimiento de los datos estadísticos sobre tus selecciones de los siguientes elementos: ingredientes, recetas y filtros (como dietas o cocina)",
+    "feedbackButton": ""
   },
   "filters": {
     "sweet": "",
