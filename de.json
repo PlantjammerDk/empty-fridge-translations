@@ -47,6 +47,7 @@
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir speichern statistische und persönliche Daten um die Nutzung unserer Technologie zu analysieren. Mehr Informationen dazu findest du in unseren",
+    "consentTextAldi": "Wir erfassen keine Ihrer personenbezogenen Daten. Wenn Sie Fragen oder Kommentare zu den Daten haben, wenden Sie sich an das Startup hinter dieser App: Plant Jammer.", 
     "checkHere": "Datenschutzrichtlinien",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
