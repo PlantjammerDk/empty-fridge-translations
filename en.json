@@ -26,7 +26,10 @@
     "substitute": "Modifiable in recipe",
     "select": "See recipe",
     "howMany": "of your ingredients",
-    "or": "OR"
+    "or": "OR",
+    "mandatory": "Mandatory",
+    "swap": "Swap",
+    "seeInstructions": "See instructions"
   },
   "recipePage": {
     "back": "See all results",
@@ -37,7 +40,8 @@
     "loaderText": "Preparing your recipe",
     "matchGreat": "Perfekt match",
     "matchOk": "Great match",
-    "matchBrave": "Ok match"
+    "matchBrave": "Ok match",
+    "ingredients": "Ingredients"
   },
   "filtersOverlay": {
     "header": "Add filter",
