@@ -51,7 +51,8 @@
   },
   "substitutionOverlay":{
     "findingSubstitutes":" The artificial intelligence is finding substitutes", 
-    "swapped": "swapped"
+    "swapped": "swapped",
+    "swap": "Swap"
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
