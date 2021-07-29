@@ -15,7 +15,8 @@
     "popularIngredients": "Populāras sastāvdaļas",
     "errorGeneral": "",
     "errorNoIngredients": "",
-    "selectTwoIngredients": ""
+    "selectTwoIngredients": "",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -25,7 +26,11 @@
     "substitute": "Var aizvietot",
     "select": "Apskatīt recepti",
     "howMany": "jūsu sastāvdaļas",
-    "or": ""
+    "or": "",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "Visi rezultāti",
@@ -36,7 +41,8 @@
     "loaderText": "Sagatavojam tavu recepti",
     "matchGreat": "Izcila kombinācija",
     "matchOk": "lieliska kombinācija",
-    "matchBrave": "laba kombinācija"
+    "matchBrave": "laba kombinācija",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "Pievienot filtru",
@@ -44,9 +50,17 @@
     "cuisine": "Reģions",
     "diet": "Uzturs"
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "Palīdziet mums apmācīt recepšu mākslīgo intelektu!",
     "consentText": "Mēs izmantojam statistikas sīkdatnes un iegūstam anonimizētus datus recepšu uzlabošanai. Ar mūsu sīkdatņu politiku var iepazīties te.",
+    "consentTextAldi": "",
+    "dataPrivacytAldi": "",
+    "impressumAldi": "",
     "checkHere": "šeit",
     "npsLikely": "Ļoti iespējams",
     "npsNotLikely": "Maz iespējams",

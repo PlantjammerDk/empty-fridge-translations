@@ -15,7 +15,8 @@
     "popularIngredients": "Escolha os ingredientes que você gosta",
     "errorGeneral": "",
     "errorNoIngredients": "",
-    "selectTwoIngredients": ""
+    "selectTwoIngredients": "",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -25,7 +26,11 @@
     "substitute": "Pode ser substituído",
     "select": "Veja a receita",
     "howMany": "de seus ingredientes",
-    "or": ""
+    "or": "",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "Veja todos os resultados",
@@ -36,7 +41,8 @@
     "loaderText": "",
     "matchGreat": "",
     "matchOk": "",
-    "matchBrave": ""
+    "matchBrave": "",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "Adicionar filtro",
@@ -44,9 +50,17 @@
     "cuisine": "",
     "diet": ""
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "",
     "consentText": "",
+    "consentTextAldi": "",
+    "dataPrivacytAldi": "",
+    "impressumAldi": "",
     "checkHere": "",
     "npsLikely": "Altamente provável",
     "npsNotLikely": "",

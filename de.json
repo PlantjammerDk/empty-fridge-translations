@@ -15,7 +15,8 @@
     "popularIngredients": "Wähle deine Zutaten",
     "errorGeneral": "Da ging etwas schief. Versuche es später nochmal.",
     "errorNoIngredients": "Zutat nicht gefunden",
-    "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen."
+    "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen.",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -25,7 +26,11 @@
     "substitute": "Im Rezept änderbar",
     "select": "Zum Rezept",
     "howMany": "von deinen Zutaten",
-    "or": "oder"
+    "or": "oder",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "Zurück zur Rezeptauswahl",
@@ -36,7 +41,8 @@
     "loaderText": "Dein Rezept wird erstellt",
     "matchGreat": "Passt perfekt",
     "matchOk": "Passt super",
-    "matchBrave": "Passt gut"
+    "matchBrave": "Passt gut",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen",
@@ -44,11 +50,17 @@
     "cuisine": "Region",
     "diet": "Ernährung"
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir speichern statistische und persönliche Daten um die Nutzung unserer Technologie zu analysieren. Mehr Informationen dazu findest du in unseren",
-    "consentTextAldi": "Wir erfassen keine deiner personenbezogenen Daten. Wenn du Fragen oder Kommentare zu den Daten hast, wende dich an das Startup hinter dieser App: Plant Jammer.", 
-    "dataPrivacytAldi" : "Datenschutz",
+    "consentTextAldi": "Wir erfassen keine deiner personenbezogenen Daten. Wenn du Fragen oder Kommentare zu den Daten hast, wende dich an das Startup hinter dieser App: Plant Jammer.",
+    "dataPrivacytAldi": "Datenschutz",
+    "impressumAldi": "",
     "checkHere": "Datenschutzrichtlinien",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",

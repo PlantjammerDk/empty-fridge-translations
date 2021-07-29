@@ -15,7 +15,8 @@
     "popularIngredients": "Choisissez les ingrédients",
     "errorGeneral": "",
     "errorNoIngredients": "",
-    "selectTwoIngredients": ""
+    "selectTwoIngredients": "",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -25,7 +26,11 @@
     "substitute": "Modifiables dans la recette",
     "select": "Afficher la recette",
     "howMany": "de vos ingrédients",
-    "or": ""
+    "or": "",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "Afficher tous les résultats",
@@ -36,7 +41,8 @@
     "loaderText": "Préparation de votre recette",
     "matchGreat": "Genial combinaison",
     "matchOk": "Bonne combinaison",
-    "matchBrave": "Brave combinaison"
+    "matchBrave": "Brave combinaison",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre",
@@ -44,9 +50,17 @@
     "cuisine": "",
     "diet": ""
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "Aidez-nous à former la recette en IA",
     "consentText": "Nous utilisons des cookies statistiques pour collecter des données anonymisées afin d'améliorer les résultats des recettes. Consultez notre politique en matière de cookies.",
+    "consentTextAldi": "",
+    "dataPrivacytAldi": "",
+    "impressumAldi": "",
     "checkHere": "ici",
     "npsLikely": "Probablement",
     "npsNotLikely": "Très improbable",

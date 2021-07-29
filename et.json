@@ -15,7 +15,8 @@
     "popularIngredients": "Populaarsed koostisosad",
     "errorGeneral": "",
     "errorNoIngredients": "Koostisosa ei leitud",
-    "selectTwoIngredients": ""
+    "selectTwoIngredients": "",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -25,7 +26,11 @@
     "substitute": "Võib asendada",
     "select": "Vaata retsepti",
     "howMany": "sinu koostisosadest",
-    "or": ""
+    "or": "",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "Näita kõiki tulemusi",
@@ -36,7 +41,8 @@
     "loaderText": "Sinu retsepti valmistamas",
     "matchGreat": "Kõige parem sobivus",
     "matchOk": "Parem sobivus",
-    "matchBrave": "Hea sobivus"
+    "matchBrave": "Hea sobivus",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "Lisa filter",
@@ -44,9 +50,17 @@
     "cuisine": "Piirkond",
     "diet": "Toitumine"
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
     "consentText": "Me kasutame küpsiseid, et koguda anonüümseks muudetud statistikat retseptide tulemuste parandamiseks. Uurige meie küpsiste kohta siit.",
+    "consentTextAldi": "",
+    "dataPrivacytAldi": "",
+    "impressumAldi": "",
     "checkHere": "siin",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",

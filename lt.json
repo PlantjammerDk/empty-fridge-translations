@@ -15,7 +15,8 @@
     "popularIngredients": "Populiarūs ingredientai",
     "errorGeneral": "",
     "errorNoIngredients": "",
-    "selectTwoIngredients": ""
+    "selectTwoIngredients": "",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -25,7 +26,11 @@
     "substitute": "Galima pakeisti",
     "select": "Skaityti visą receptą",
     "howMany": "tavo ingredientai",
-    "or": ""
+    "or": "",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "Visi rezultatai",
@@ -36,7 +41,8 @@
     "loaderText": "Tavo receptas ruošiamas",
     "matchGreat": "Labiausiai tinka",
     "matchOk": "Gerai tinka ",
-    "matchBrave": "Tinka"
+    "matchBrave": "Tinka",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",
@@ -44,9 +50,17 @@
     "cuisine": "Regionas",
     "diet": "Speciali dieta"
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
     "consentText": "Mes naudojame statistinius slapukus anonimiškiems duomenims rinkti, kad pagerintume receptų rezultatus. Čia galite peržiūrėti mūsų slapukų politiką.",
+    "consentTextAldi": "",
+    "dataPrivacytAldi": "",
+    "impressumAldi": "",
     "checkHere": "Čia",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",

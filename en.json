@@ -30,7 +30,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "See instructions",
-    "tooltipOnNoAction":"Try swapping ingredients or adding more flavors to your recipe"
+    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe"
   },
   "recipePage": {
     "back": "See all results",
@@ -39,7 +39,7 @@
     "instructions": "Instructions",
     "noSubstitution": "No substitutions available",
     "loaderText": "Preparing your recipe",
-    "matchGreat": "Perfekt match",
+    "matchGreat": "Perfect match",
     "matchOk": "Great match",
     "matchBrave": "Ok match",
     "ingredients": "Ingredients"
@@ -50,16 +50,16 @@
     "cuisine": "Region",
     "diet": "Diet"
   },
-  "substitutionOverlay":{
-    "findingSubstitutes":" The artificial intelligence is finding substitutes", 
+  "substitutionOverlay": {
+    "findingSubstitutes": " The artificial intelligence is finding substitutes",
     "swapped": "swapped",
     "swap": "Swap"
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
     "consentText": "We gather statistical and personal data to analyse and report the usage of our technology. To learn more, check out our",
-    "consentTextAldi": "We do not capture any of your personal data. If you have any questions or comments about the data, reach out to the startup behind this app: Plant Jammer.", 
-    "dataPrivacytAldi" : "Data privacy",
+    "consentTextAldi": "We do not capture any of your personal data. If you have any questions or comments about the data, reach out to the startup behind this app: Plant Jammer.",
+    "dataPrivacytAldi": "Data privacy",
     "impressumAldi": "Impressum",
     "checkHere": "privacy policy",
     "npsLikely": "Very likely",

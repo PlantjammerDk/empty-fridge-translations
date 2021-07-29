@@ -15,7 +15,8 @@
     "popularIngredients": "",
     "errorGeneral": "",
     "errorNoIngredients": "",
-    "selectTwoIngredients": ""
+    "selectTwoIngredients": "",
+    "noRecipeFound": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -25,7 +26,11 @@
     "substitute": "",
     "select": "",
     "howMany": "",
-    "or": ""
+    "or": "",
+    "mandatory": "",
+    "swap": "",
+    "seeInstructions": "",
+    "tooltipOnNoAction": ""
   },
   "recipePage": {
     "back": "",
@@ -36,7 +41,8 @@
     "loaderText": "",
     "matchGreat": "",
     "matchOk": "",
-    "matchBrave": ""
+    "matchBrave": "",
+    "ingredients": ""
   },
   "filtersOverlay": {
     "header": "",
@@ -44,9 +50,17 @@
     "cuisine": "",
     "diet": ""
   },
+  "substitutionOverlay": {
+    "findingSubstitutes": "",
+    "swapped": "",
+    "swap": ""
+  },
   "survey": {
     "consentHeder": "",
     "consentText": "",
+    "consentTextAldi": "",
+    "dataPrivacytAldi": "",
+    "impressumAldi": "",
     "checkHere": "",
     "npsLikely": "",
     "npsNotLikely": "",
