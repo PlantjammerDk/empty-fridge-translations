@@ -29,7 +29,8 @@
     "or": "OR",
     "mandatory": "Mandatory",
     "swap": "Swap",
-    "seeInstructions": "See instructions"
+    "seeInstructions": "See instructions",
+    "tooltipOnNoAction":"Try swapping ingredients or adding more flavors to your recipe"
   },
   "recipePage": {
     "back": "See all results",
