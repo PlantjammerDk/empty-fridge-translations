@@ -20,6 +20,7 @@
   },
   "recipeCard": {
     "seeMore": "Se mere",
+    "customizeRecipe": "",
     "seeLess": "Vis mindre",
     "includes": "Inkludér",
     "mustHave": "Nødvendige",

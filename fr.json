@@ -20,6 +20,7 @@
   },
   "recipeCard": {
     "seeMore": "Aperçu",
+    "customizeRecipe": "",
     "seeLess": "Afficher moins",
     "includes": "incluant",
     "mustHave": "Doit avoir",

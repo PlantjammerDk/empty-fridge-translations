@@ -20,6 +20,7 @@
   },
   "recipeCard": {
     "seeMore": "Vorschau",
+    "customizeRecipe": "",
     "seeLess": "Einklappen",
     "includes": "Enthält",
     "mustHave": "Benötigt",
@@ -58,7 +59,7 @@
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir speichern statistische und persönliche Daten um die Nutzung unserer Technologie zu analysieren. Mehr Informationen dazu findest du in unseren",
-    "consentTextAldi": "Wir erfassen keine deiner personenbezogenen Daten. Wenn du Fragen oder Kommentare zu den Daten hast, wende dich an das Startup hinter dieser App: Plant Jammer.",
+    "consentTextAldi": "Für die Verarbeitung personenbezogener Daten im Rahmen dieses Rezepte-Tools ist Plant Jammer verantwortlich. Weitere Informationen zum Datenschutz und zum Impressum stellt der Verantwortliche über die nachfolgenden Verlinkungen zur Verfügung.",
     "dataPrivacytAldi": "Datenschutz",
     "impressumAldi": "",
     "checkHere": "Datenschutzrichtlinien",

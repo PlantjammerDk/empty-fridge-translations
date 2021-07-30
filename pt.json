@@ -20,6 +20,7 @@
   },
   "recipeCard": {
     "seeMore": "Espiada",
+    "customizeRecipe": "",
     "seeLess": "Mostre menos",
     "includes": "Inclui",
     "mustHave": "Deve ter",
