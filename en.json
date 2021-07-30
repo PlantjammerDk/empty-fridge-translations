@@ -19,12 +19,11 @@
     "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient."
   },
   "recipeCard": {
-    "seeMore": "Sneak peek",
+    "seeMore": "Customize recipe",
     "seeLess": "Show less",
     "includes": "Includes",
     "mustHave": "Must have",
     "substitute": "Modifiable in recipe",
-    "select": "See recipe",
     "howMany": "of your ingredients",
     "or": "OR",
     "mandatory": "Mandatory",
