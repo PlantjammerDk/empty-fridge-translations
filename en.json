@@ -1,7 +1,9 @@
 {
   "general": {
     "done": "Show Recipes",
+    "searchRecipe": "Create recipes",
     "header1": "Pick ingredients to cook",
+    "title": "Pick ingredients to cook with",
     "header2": "Select recipe",
     "headerOetker1": "Select fruits",
     "headerOetker2": "Select recipe",
@@ -16,7 +18,8 @@
     "errorGeneral": "Something went wrong. Try again later.",
     "errorNoIngredients": "Ingredient is not found",
     "selectTwoIngredients": "We recommend using max two fruits.",
-    "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient."
+    "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient.",
+    "share": "Share"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -31,7 +34,9 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "See instructions",
-    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe"
+    "tooltipOnNoAction":"Try swapping ingredients or adding more flavors to your recipe",
+    "loaderText": "Matching your ingredients with recipes",
+    "loaderTextFilter": "Updating filters"
   },
   "recipePage": {
     "back": "See all results",
@@ -49,7 +54,20 @@
     "header": "Add filter",
     "dishType": "Dish Type",
     "cuisine": "Region",
-    "diet": "Diet"
+    "diet": "Diet",
+    "quick": "Under 20 Min"
+  },
+  "flavorOverlay": {
+    "addFlavorsButton": "Add more flavors",
+    "newFlavors": "Generate new flavors",
+    "done":"Done",
+    "allMatches": "See all matches",
+    "addFlavorsText": "Add more flavor to your",
+    "loaderTextFlavor": "AI is finding new flavors that match your recipe",
+    "noMatches": "No more matches",
+    "tooltip": "Get new flavor matches for your new ingredients",
+    "whatIsMatchShort": "What’s a match?", 
+    "whatIsMatchLong": "What are ingredient matches?"
   },
   "substitutionOverlay": {
     "findingSubstitutes": " The artificial intelligence is finding substitutes",
