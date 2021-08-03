@@ -48,7 +48,8 @@
     "matchGreat": "Perfect match",
     "matchOk": "Great match",
     "matchBrave": "Ok match",
-    "ingredients": "Ingredients"
+    "ingredients": "Ingredients",
+    "stepUrl": "click here"
   },
   "filtersOverlay": {
     "header": "Add filter",
