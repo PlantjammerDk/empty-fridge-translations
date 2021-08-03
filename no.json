@@ -1,7 +1,9 @@
 {
   "general": {
     "done": "",
+    "searchRecipe": "",
     "header1": "",
+    "title": "",
     "header2": "",
     "headerOetker1": "",
     "headerOetker2": "",
@@ -16,7 +18,8 @@
     "errorGeneral": "",
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
-    "noRecipeFound": ""
+    "noRecipeFound": "",
+    "share": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -31,7 +34,9 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "",
-    "tooltipOnNoAction": ""
+    "tooltipOnNoAction": "",
+    "loaderText": "",
+    "loaderTextFilter": ""
   },
   "recipePage": {
     "back": "",
@@ -43,13 +48,27 @@
     "matchGreat": "",
     "matchOk": "",
     "matchBrave": "",
-    "ingredients": ""
+    "ingredients": "",
+    "stepUrl": ""
   },
   "filtersOverlay": {
     "header": "",
     "dishType": "",
     "cuisine": "",
-    "diet": ""
+    "diet": "",
+    "quick": ""
+  },
+  "flavorOverlay": {
+    "addFlavorsButton": "",
+    "newFlavors": "",
+    "done": "",
+    "allMatches": "",
+    "addFlavorsText": "",
+    "loaderTextFlavor": "",
+    "noMatches": "",
+    "tooltip": "",
+    "whatIsMatchShort": "",
+    "whatIsMatchLong": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",

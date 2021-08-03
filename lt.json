@@ -1,7 +1,9 @@
 {
   "general": {
     "done": "Ieškoti receptų",
+    "searchRecipe": "",
     "header1": "Pasirink ingredientus, iš kurių nori gaminti",
+    "title": "",
     "header2": "Skaityti receptą",
     "headerOetker1": "",
     "headerOetker2": "",
@@ -16,7 +18,8 @@
     "errorGeneral": "",
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
-    "noRecipeFound": ""
+    "noRecipeFound": "",
+    "share": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -31,7 +34,9 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "",
-    "tooltipOnNoAction": ""
+    "tooltipOnNoAction": "",
+    "loaderText": "",
+    "loaderTextFilter": ""
   },
   "recipePage": {
     "back": "Visi rezultatai",
@@ -43,13 +48,27 @@
     "matchGreat": "Labiausiai tinka",
     "matchOk": "Gerai tinka ",
     "matchBrave": "Tinka",
-    "ingredients": ""
+    "ingredients": "",
+    "stepUrl": ""
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",
     "dishType": "Patiekalo tipas",
     "cuisine": "Regionas",
-    "diet": "Speciali dieta"
+    "diet": "Speciali dieta",
+    "quick": ""
+  },
+  "flavorOverlay": {
+    "addFlavorsButton": "",
+    "newFlavors": "",
+    "done": "",
+    "allMatches": "",
+    "addFlavorsText": "",
+    "loaderTextFlavor": "",
+    "noMatches": "",
+    "tooltip": "",
+    "whatIsMatchShort": "",
+    "whatIsMatchLong": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",

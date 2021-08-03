@@ -1,7 +1,9 @@
 {
   "general": {
     "done": "Vaata retsepte",
+    "searchRecipe": "",
     "header1": "Vali koostisosad, millest soovid söögi valmistada",
+    "title": "",
     "header2": "Vaata retsepti",
     "headerOetker1": "",
     "headerOetker2": "",
@@ -16,7 +18,8 @@
     "errorGeneral": "",
     "errorNoIngredients": "Koostisosa ei leitud",
     "selectTwoIngredients": "",
-    "noRecipeFound": ""
+    "noRecipeFound": "",
+    "share": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -31,7 +34,9 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "",
-    "tooltipOnNoAction": ""
+    "tooltipOnNoAction": "",
+    "loaderText": "",
+    "loaderTextFilter": ""
   },
   "recipePage": {
     "back": "Näita kõiki tulemusi",
@@ -43,13 +48,27 @@
     "matchGreat": "Kõige parem sobivus",
     "matchOk": "Parem sobivus",
     "matchBrave": "Hea sobivus",
-    "ingredients": ""
+    "ingredients": "",
+    "stepUrl": ""
   },
   "filtersOverlay": {
     "header": "Lisa filter",
     "dishType": "Taldrikutüüp",
     "cuisine": "Piirkond",
-    "diet": "Toitumine"
+    "diet": "Toitumine",
+    "quick": ""
+  },
+  "flavorOverlay": {
+    "addFlavorsButton": "",
+    "newFlavors": "",
+    "done": "",
+    "allMatches": "",
+    "addFlavorsText": "",
+    "loaderTextFlavor": "",
+    "noMatches": "",
+    "tooltip": "",
+    "whatIsMatchShort": "",
+    "whatIsMatchLong": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",

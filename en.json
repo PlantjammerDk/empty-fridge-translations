@@ -34,7 +34,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "See instructions",
-    "tooltipOnNoAction":"Try swapping ingredients or adding more flavors to your recipe",
+    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters"
   },
@@ -61,13 +61,13 @@
   "flavorOverlay": {
     "addFlavorsButton": "Add more flavors",
     "newFlavors": "Generate new flavors",
-    "done":"Done",
+    "done": "Done",
     "allMatches": "See all matches",
     "addFlavorsText": "Add more flavor to your",
     "loaderTextFlavor": "AI is finding new flavors that match your recipe",
     "noMatches": "No more matches",
     "tooltip": "Get new flavor matches for your new ingredients",
-    "whatIsMatchShort": "What’s a match?", 
+    "whatIsMatchShort": "What’s a match?",
     "whatIsMatchLong": "What are ingredient matches?"
   },
   "substitutionOverlay": {

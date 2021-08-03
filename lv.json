@@ -1,7 +1,9 @@
 {
   "general": {
     "done": "Apskatīt receptes",
+    "searchRecipe": "",
     "header1": "Ierakstiet un izvēlieties sastāvdaļas, ko izmantosiet",
+    "title": "",
     "header2": "Apskatīt recepti",
     "headerOetker1": "",
     "headerOetker2": "",
@@ -16,7 +18,8 @@
     "errorGeneral": "",
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
-    "noRecipeFound": ""
+    "noRecipeFound": "",
+    "share": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -31,7 +34,9 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "",
-    "tooltipOnNoAction": ""
+    "tooltipOnNoAction": "",
+    "loaderText": "",
+    "loaderTextFilter": ""
   },
   "recipePage": {
     "back": "Visi rezultāti",
@@ -43,13 +48,27 @@
     "matchGreat": "Izcila kombinācija",
     "matchOk": "lieliska kombinācija",
     "matchBrave": "laba kombinācija",
-    "ingredients": ""
+    "ingredients": "",
+    "stepUrl": ""
   },
   "filtersOverlay": {
     "header": "Pievienot filtru",
     "dishType": "Trauku tips",
     "cuisine": "Reģions",
-    "diet": "Uzturs"
+    "diet": "Uzturs",
+    "quick": ""
+  },
+  "flavorOverlay": {
+    "addFlavorsButton": "",
+    "newFlavors": "",
+    "done": "",
+    "allMatches": "",
+    "addFlavorsText": "",
+    "loaderTextFlavor": "",
+    "noMatches": "",
+    "tooltip": "",
+    "whatIsMatchShort": "",
+    "whatIsMatchLong": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",
