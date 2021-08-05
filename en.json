@@ -1,9 +1,7 @@
 {
   "general": {
-    "done": "Show Recipes",
-    "searchRecipe": "Create recipes",
-    "header1": "Pick ingredients to cook",
-    "title": "Pick ingredients to cook with",
+    "done": "Create recipes",
+    "header1": "Pick ingredients to cook with",
     "header2": "Select recipe",
     "headerOetker1": "Select fruits",
     "headerOetker2": "Select recipe",
@@ -19,7 +17,8 @@
     "errorNoIngredients": "Ingredient is not found",
     "selectTwoIngredients": "We recommend using max two fruits.",
     "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient.",
-    "share": "Share"
+    "share": "Share",
+    "shareResult": "Link copied to clipboard"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -68,7 +67,8 @@
     "noMatches": "No more matches",
     "tooltip": "Get new flavor matches for your new ingredients",
     "whatIsMatchShort": "What’s a match?",
-    "whatIsMatchLong": "What are ingredient matches?"
+    "whatIsMatchLong": "What are ingredient matches?",
+    "added": "added"
   },
   "substitutionOverlay": {
     "findingSubstitutes": " The artificial intelligence is finding substitutes",
