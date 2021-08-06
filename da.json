@@ -1,9 +1,7 @@
 {
   "general": {
     "done": "OK",
-    "searchRecipe": "",
     "header1": "Vælg dine ingredienser",
-    "title": "",
     "header2": "Vælg opskrift",
     "headerOetker1": "Vælg frugter",
     "headerOetker2": "Vælg opskrift",
@@ -19,11 +17,12 @@
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": ""
+    "share": "",
+    "shareResult": ""
   },
   "recipeCard": {
     "seeMore": "Se mere",
-    "customizeRecipe": "",
+    "customizeRecipe": "Tilpas opskrift",
     "seeLess": "Vis mindre",
     "includes": "Inkludér",
     "mustHave": "Nødvendige",
@@ -31,9 +30,9 @@
     "select": "Se opskrift",
     "howMany": "af dine ingredienser",
     "or": "",
-    "mandatory": "",
-    "swap": "",
-    "seeInstructions": "",
+    "mandatory": "Påkrævet",
+    "swap": "Byt",
+    "seeInstructions": "Se opskriften",
     "tooltipOnNoAction": "",
     "loaderText": "",
     "loaderTextFilter": ""
@@ -45,17 +44,17 @@
     "instructions": "Opskriften",
     "noSubstitution": "Ingen substitutter",
     "loaderText": "Loader din opskrift",
-    "matchGreat": "",
-    "matchOk": "",
-    "matchBrave": "",
-    "ingredients": "",
+    "matchGreat": "Perfekt match",
+    "matchOk": "Super match",
+    "matchBrave": "God match",
+    "ingredients": "Ingredienser",
     "stepUrl": "klik her"
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov",
-    "dishType": "",
-    "cuisine": "",
-    "diet": "",
+    "dishType": "Type ret",
+    "cuisine": "Region",
+    "diet": "Kost",
     "quick": ""
   },
   "flavorOverlay": {
@@ -68,16 +67,19 @@
     "noMatches": "",
     "tooltip": "",
     "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "whatIsMatchLong": "",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",
-    "swapped": "",
-    "swap": ""
+    "swapped": "byttet",
+    "swap": "Byt"
   },
   "survey": {
     "consentHeder": "Hjælp os med at træne vores AI",
-    "consentText": "Vi bruger cookies for at  fange anonymiseret data og skabe bedre søgeresultater. Hér er vores cookie policy",
+    "consentText": "Vi bruger cookies for at  fange anonymiseret data og skabe bedre søgeresultater. Se vores cookie policy",
     "consentTextAldi": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
@@ -95,7 +97,7 @@
     "yourFeedback": "Vi sætter pris på din feedback.",
     "whatData": "Hvad tracker I?",
     "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger.",
-    "feedbackButton": ""
+    "feedbackButton": "Giv din feedback"
   },
   "filters": {
     "sweet": "",
@@ -103,12 +105,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "",
-    "vegeterian": "",
-    "lactoseFree": "",
-    "eggFree": "",
-    "nut-free": "",
-    "glutenFree": "",
-    "diabetic": ""
+    "vegan": "Vegansk",
+    "vegeterian": "Vegetarisk",
+    "lactoseFree": "Laktosefri",
+    "eggFree": "Ægfri",
+    "nut-free": "Nøddefri",
+    "glutenFree": "Glutenfri",
+    "diabetic": "Diabetiker"
   }
 }

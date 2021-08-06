@@ -1,12 +1,10 @@
 {
   "general": {
     "done": "Apskatīt receptes",
-    "searchRecipe": "",
     "header1": "Ierakstiet un izvēlieties sastāvdaļas, ko izmantosiet",
-    "title": "",
-    "header2": "Apskatīt recepti",
+    "header2": "Izvēlieties recepti",
     "headerOetker1": "",
-    "headerOetker2": "",
+    "headerOetker2": "Izvēlieties recepti",
     "headerTitle": "Iztukšojiet ledusskapi",
     "headerTitleOetker": "",
     "selectedIngredients": "Izvēlētās sastāvdaļas",
@@ -19,11 +17,12 @@
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": ""
+    "share": "",
+    "shareResult": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
-    "customizeRecipe": "",
+    "customizeRecipe": "Pielāgot recepti",
     "seeLess": "Rādīt mazāk",
     "includes": "Iekļauj",
     "mustHave": "Obligātas",
@@ -31,11 +30,11 @@
     "select": "Apskatīt recepti",
     "howMany": "jūsu sastāvdaļas",
     "or": "",
-    "mandatory": "",
-    "swap": "",
-    "seeInstructions": "",
+    "mandatory": "Obligāti",
+    "swap": "Apmaiņas",
+    "seeInstructions": "Skatīt instrukcijas",
     "tooltipOnNoAction": "",
-    "loaderText": "",
+    "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
     "loaderTextFilter": ""
   },
   "recipePage": {
@@ -68,12 +67,15 @@
     "noMatches": "",
     "tooltip": "",
     "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "whatIsMatchLong": "",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": ""
   },
   "substitutionOverlay": {
-    "findingSubstitutes": "",
-    "swapped": "",
-    "swap": ""
+    "findingSubstitutes": "Mākslīgais intelekts atrod aizstājējus",
+    "swapped": "apmainīts",
+    "swap": "Apmaiņas"
   },
   "survey": {
     "consentHeder": "Palīdziet mums apmācīt recepšu mākslīgo intelektu!",
@@ -95,7 +97,7 @@
     "yourFeedback": "Paldies, par jūsu viedokli!",
     "whatData": "",
     "trackExplain": "Mēs izsekojam šādus jūsu izvēļu statistikas datus: sastāvdaļas, recepte sun filtrus (piemēram, diētas vai virtuves veidu).",
-    "feedbackButton": ""
+    "feedbackButton": "sniedziet savu atsauksmi"
   },
   "filters": {
     "sweet": "",
@@ -103,12 +105,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "",
-    "vegeterian": "",
-    "lactoseFree": "",
-    "eggFree": "",
-    "nut-free": "",
-    "glutenFree": "",
-    "diabetic": ""
+    "vegan": "vegānisks",
+    "vegeterian": "veģetārs",
+    "lactoseFree": "bez laktozes",
+    "eggFree": "bez olām",
+    "nut-free": "bez riekstiem",
+    "glutenFree": "bez glutēna",
+    "diabetic": "diabētisks"
   }
 }

@@ -1,12 +1,10 @@
 {
   "general": {
     "done": "Ieškoti receptų",
-    "searchRecipe": "",
     "header1": "Pasirink ingredientus, iš kurių nori gaminti",
-    "title": "",
-    "header2": "Skaityti receptą",
+    "header2": "Pasirinkti receptą",
     "headerOetker1": "",
-    "headerOetker2": "",
+    "headerOetker2": "Pasirinkti receptą",
     "headerTitle": "Gaminu, neišmetu",
     "headerTitleOetker": "",
     "selectedIngredients": "Pasirinkti ingredientai",
@@ -19,11 +17,12 @@
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": ""
+    "share": "",
+    "shareResult": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
-    "customizeRecipe": "",
+    "customizeRecipe": "Tinkinti receptą",
     "seeLess": "Rodyti mažiau",
     "includes": "Sudaro",
     "mustHave": "Būtina",
@@ -31,11 +30,11 @@
     "select": "Skaityti visą receptą",
     "howMany": "tavo ingredientai",
     "or": "",
-    "mandatory": "",
-    "swap": "",
-    "seeInstructions": "",
+    "mandatory": "Privaloma",
+    "swap": "Pakeisti",
+    "seeInstructions": "Žr. gaminimo eigą",
     "tooltipOnNoAction": "",
-    "loaderText": "",
+    "loaderText": "Sudedamųjų dalių derinimas su receptais",
     "loaderTextFilter": ""
   },
   "recipePage": {
@@ -68,12 +67,15 @@
     "noMatches": "",
     "tooltip": "",
     "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "whatIsMatchLong": "",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": ""
   },
   "substitutionOverlay": {
-    "findingSubstitutes": "",
-    "swapped": "",
-    "swap": ""
+    "findingSubstitutes": " Dirbtinis intelektas randa pakaitalų",
+    "swapped": "pakeistas",
+    "swap": "Pakeisti"
   },
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
@@ -95,7 +97,7 @@
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "whatData": "Ką tiksliai stebite?",
     "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus ",
-    "feedbackButton": ""
+    "feedbackButton": "pateikite savo atsiliepimus"
   },
   "filters": {
     "sweet": "",
@@ -103,12 +105,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "",
-    "vegeterian": "",
-    "lactoseFree": "",
-    "eggFree": "",
-    "nut-free": "",
-    "glutenFree": "",
-    "diabetic": ""
+    "vegan": "veganas",
+    "vegeterian": "vegetaras",
+    "lactoseFree": "be laktozės",
+    "eggFree": "be kiaušinių",
+    "nut-free": "be riešutų",
+    "glutenFree": "be glitimo",
+    "diabetic": "diabetikas"
   }
 }

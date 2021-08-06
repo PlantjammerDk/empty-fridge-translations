@@ -1,25 +1,24 @@
 {
   "general": {
     "done": "Mostrar recetas",
-    "searchRecipe": "",
     "header1": "Elige ingredientes para cocinar",
-    "title": "",
     "header2": "Seleccionar receta",
     "headerOetker1": "Seleccionar frutas",
     "headerOetker2": "Seleccionar receta",
     "headerTitle": "Vacía tu nevera",
     "headerTitleOetker": "Hagamos mermelada",
-    "selectedIngredients": "",
+    "selectedIngredients": "Ingredientes seleccionados",
     "search": "Buscar ingredientes",
     "searchMore": "Añadir más ingredientes",
     "showMore": "Ver más recetas",
     "searchRecipes": "Creando recetas con tus ingredientes",
     "popularIngredients": "Elige ingredientes",
     "errorGeneral": "Algo salió mal. Prueba más tarde.",
-    "errorNoIngredients": "",
+    "errorNoIngredients": "Ingrediente no encontrado",
     "selectTwoIngredients": "Recomendamos utilizar como máximo dos frutas.",
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
-    "share": ""
+    "share": "Compartir",
+    "shareResult": ""
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -35,8 +34,8 @@
     "swap": "Cambiar",
     "seeInstructions": "Ver instrucciones",
     "tooltipOnNoAction": "Prueba a cambiar los ingredientes o añadir más sabores a tu receta",
-    "loaderText": "",
-    "loaderTextFilter": ""
+    "loaderText": "Combinando tus ingredientes con recetas",
+    "loaderTextFilter": "Actualizando filtros"
   },
   "recipePage": {
     "back": "Ver todos los resultados",
@@ -48,27 +47,30 @@
     "matchGreat": "Perfecta combinación",
     "matchOk": "Estupenda combinación",
     "matchBrave": "Buena combinación",
-    "ingredients": "",
-    "stepUrl": "haz clic"
+    "ingredients": "Ingredientes",
+    "stepUrl": "clic aquí"
   },
   "filtersOverlay": {
     "header": "Añadir filtro",
     "dishType": "Tipo de plato",
     "cuisine": "Región",
     "diet": "Dieta",
-    "quick": ""
+    "quick": "Menos de 20 min"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "allMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
-    "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "addFlavorsButton": "Añadir más sabores",
+    "newFlavors": "Crear nuevos sabores",
+    "done": "Hecho",
+    "allMatches": "Ver todas las combinaciones",
+    "addFlavorsText": "Añadir más sabor a tu",
+    "loaderTextFlavor": "La IA está buscando nuevos sabores para tu receta",
+    "noMatches": "No hay más combinaciones",
+    "tooltip": "Obtener nuevas combinaciones de sabores para tus nuevos ingredientes",
+    "whatIsMatchShort": "¿Qué es una combinación?",
+    "whatIsMatchLong": "¿Qué son las combinaciones de ingredientes?",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": " La inteligencia artificial está encontrando sustitutos",

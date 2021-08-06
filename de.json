@@ -1,29 +1,28 @@
 {
   "general": {
     "done": "Rezepte erstellen",
-    "searchRecipe": "",
     "header1": "Wähle deine Zutaten",
-    "title": "",
     "header2": "Zum Rezept",
     "headerOetker1": "Früchte auswählen",
     "headerOetker2": "Wähle dein Rezept",
     "headerTitle": "Leere deinen Kühlschrank",
     "headerTitleOetker": "Lasst uns Marmelade machen",
-    "selectedIngredients": "Ausgewählte Ingredients",
+    "selectedIngredients": "Ausgewählte Zutaten",
     "search": "Suche Zutaten",
     "searchMore": "Suche weitere Zutaten",
     "showMore": "Mehr Rezepte",
     "searchRecipes": "Erstellung von Rezepten mit ausgewählten Zutaten",
     "popularIngredients": "Wähle deine Zutaten",
     "errorGeneral": "Da ging etwas schief. Versuche es später nochmal.",
-    "errorNoIngredients": "Ingredient nicht gefunden",
+    "errorNoIngredients": "Zutat nicht gefunden",
     "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen.",
-    "noRecipeFound": "",
-    "share": ""
+    "noRecipeFound": "Sorry, wir konnten kein Rezept finden. Versuche eine weitere Zutat hinzuzufügen. ",
+    "share": "Rezept teilen",
+    "shareResult": ""
   },
   "recipeCard": {
     "seeMore": "Vorschau",
-    "customizeRecipe": "",
+    "customizeRecipe": "Rezept anpassen",
     "seeLess": "Einklappen",
     "includes": "Enthält",
     "mustHave": "Benötigt",
@@ -31,12 +30,12 @@
     "select": "Zum Rezept",
     "howMany": "von deinen Zutaten",
     "or": "oder",
-    "mandatory": "",
-    "swap": "",
-    "seeInstructions": "",
-    "tooltipOnNoAction": "",
-    "loaderText": "",
-    "loaderTextFilter": ""
+    "mandatory": "Benötigt",
+    "swap": "Tauschen",
+    "seeInstructions": "Siehe Zubereitung",
+    "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder weitere Geschmacksnoten zu deinem Rezept hinzuzufügen.",
+    "loaderText": "Rezepten auf deine Zutaten abstimmen",
+    "loaderTextFilter": "Filter anpassen"
   },
   "recipePage": {
     "back": "Zurück zur Rezeptauswahl",
@@ -48,7 +47,7 @@
     "matchGreat": "Passt perfekt",
     "matchOk": "Passt super",
     "matchBrave": "Passt gut",
-    "ingredients": "Ingredients",
+    "ingredients": "Zutaten",
     "stepUrl": "hier klicken"
   },
   "filtersOverlay": {
@@ -56,31 +55,34 @@
     "dishType": "Gerichtart",
     "cuisine": "Region",
     "diet": "Ernährung",
-    "quick": ""
+    "quick": "Unter 20 Min"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "allMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
+    "addFlavorsButton": "Verfeinere dein Rezept",
+    "newFlavors": "Weitere Zutaten generieren",
+    "done": "Fertig",
+    "allMatches": "Alle passenden Zutaten anzeigen",
+    "addFlavorsText": "Verfeinere dein Rezept",
+    "loaderTextFlavor": "Die KI sucht weitere Zutaten die zu deinem Rezept passen",
+    "noMatches": "Keine weiteren Treffer",
     "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "whatIsMatchShort": "Was sind passende Zutaten?",
+    "whatIsMatchLong": "Was sind passende Zutaten?",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": ""
   },
   "substitutionOverlay": {
-    "findingSubstitutes": "",
-    "swapped": "",
-    "swap": ""
+    "findingSubstitutes": "Die KI sucht nach alternativen Zutaten",
+    "swapped": "getauscht",
+    "swap": "tauschen"
   },
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir speichern statistische und persönliche Daten um die Nutzung unserer Technologie zu analysieren. Mehr Informationen dazu findest du in unseren",
     "consentTextAldi": "Für die Verarbeitung personenbezogener Daten im Rahmen dieses Rezepte-Tools ist Plant Jammer verantwortlich. Weitere Informationen zum Datenschutz und zum Impressum stellt der Verantwortliche über die nachfolgenden Verlinkungen zur Verfügung.",
     "dataPrivacytAldi": "Datenschutz",
-    "impressumAldi": "",
+    "impressumAldi": "Impressum",
     "checkHere": "Datenschutzrichtlinien",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",

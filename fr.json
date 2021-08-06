@@ -1,25 +1,24 @@
 {
   "general": {
-    "done": "Montrer les recettes",
-    "searchRecipe": "",
+    "done": "Créer des recettes",
     "header1": "Choisir les ingrédients à cuisiner",
-    "title": "",
     "header2": "Sélectionner la recette",
     "headerOetker1": "Sélectionner des fruits",
     "headerOetker2": "Sélectionner la recette",
     "headerTitle": "Videz votre frigo",
     "headerTitleOetker": "Faites de la confiture",
-    "selectedIngredients": "",
+    "selectedIngredients": "Sélectionner des ingrédients",
     "search": "Rechercher des ingrédients",
     "searchMore": "Ajouter plus d'ingrédients",
     "showMore": "Afficher plus de recettes",
-    "searchRecipes": "Création de recettes avec les ingrédients choisis",
+    "searchRecipes": "Créer des recettes avec vos ingrédients",
     "popularIngredients": "Choisir les ingrédients",
     "errorGeneral": "Un problème est survenu. Essayez à nouveau plus tard.",
-    "errorNoIngredients": "",
+    "errorNoIngredients": "Ingrédient introuvable",
     "selectTwoIngredients": "Nous recommandons d'utiliser deux fruits maximum.",
     "noRecipeFound": "Désolé, aucune recette trouvée. Essayez d'ajouter un ingrédient supplémentaire.",
-    "share": ""
+    "share": "Partager",
+    "shareResult": "Lien copié dans le presse-papiers"
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -35,8 +34,8 @@
     "swap": "Échanger",
     "seeInstructions": "Voir les instructions",
     "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs à votre recette",
-    "loaderText": "",
-    "loaderTextFilter": ""
+    "loaderText": "Associer vos ingrédients avec des recettes",
+    "loaderTextFilter": "Actualisation des filtres"
   },
   "recipePage": {
     "back": "Afficher tous les résultats",
@@ -48,27 +47,30 @@
     "matchGreat": "Combinaison parfaite",
     "matchOk": "Excellente combinaison",
     "matchBrave": "Combinaison correcte",
-    "ingredients": "",
-    "stepUrl": "fait clique"
+    "ingredients": "Ingrédients",
+    "stepUrl": "cliquer ici"
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre",
     "dishType": "Type de plat",
     "cuisine": "Région",
     "diet": "Régime",
-    "quick": ""
+    "quick": "Moins de 20 min"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "allMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
-    "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "addFlavorsButton": "Ajouter plus de saveurs",
+    "newFlavors": "Créer de nouvelles saveurs",
+    "done": "Fait",
+    "allMatches": "Voir toutes les correspondances",
+    "addFlavorsText": "Ajoutez plus de saveur à votre",
+    "loaderTextFlavor": "L'IA recherche de nouvelles saveurs correspondant à votre recette",
+    "noMatches": "Plus de correspondance",
+    "tooltip": "Obtenez de nouvelles associations de saveurs pour vos nouveaux ingrédients",
+    "whatIsMatchShort": "Qu'est-ce qu'une correspondance ?",
+    "whatIsMatchLong": "Que sont les correspondances d'ingrédients ?",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": "ajouté"
   },
   "substitutionOverlay": {
     "findingSubstitutes": "L'intelligence artificielle trouve des substituts",

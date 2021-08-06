@@ -1,12 +1,10 @@
 {
   "general": {
     "done": "Vaata retsepte",
-    "searchRecipe": "",
     "header1": "Vali koostisosad, millest soovid söögi valmistada",
-    "title": "",
-    "header2": "Vaata retsepti",
+    "header2": "Valige retsepti",
     "headerOetker1": "",
-    "headerOetker2": "",
+    "headerOetker2": "Valige retsepti",
     "headerTitle": "Tühjenda oma külmik",
     "headerTitleOetker": "",
     "selectedIngredients": "Valitud koostisosad",
@@ -19,11 +17,12 @@
     "errorNoIngredients": "Koostisosa ei leitud",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": ""
+    "share": "",
+    "shareResult": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
-    "customizeRecipe": "",
+    "customizeRecipe": "Kohandage retsepti",
     "seeLess": "Näita vähem",
     "includes": "Sisaldab",
     "mustHave": "Peab sisaldama",
@@ -31,11 +30,11 @@
     "select": "Vaata retsepti",
     "howMany": "sinu koostisosadest",
     "or": "",
-    "mandatory": "",
-    "swap": "",
-    "seeInstructions": "",
+    "mandatory": "Kohustuslik",
+    "swap": "Vahetus",
+    "seeInstructions": "Vaata juhiseid",
     "tooltipOnNoAction": "",
-    "loaderText": "",
+    "loaderText": "Koostisosade sobitamine retseptidega",
     "loaderTextFilter": ""
   },
   "recipePage": {
@@ -68,20 +67,23 @@
     "noMatches": "",
     "tooltip": "",
     "whatIsMatchShort": "",
-    "whatIsMatchLong": ""
+    "whatIsMatchLong": "",
+    "whatIsMatchTextShort": "",
+    "whatIsMatchTextLong": "",
+    "added": ""
   },
   "substitutionOverlay": {
-    "findingSubstitutes": "",
-    "swapped": "",
-    "swap": ""
+    "findingSubstitutes": "Tehisintellekt leiab asendajaid",
+    "swapped": "vahetatud",
+    "swap": "Vahetus"
   },
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
-    "consentText": "Me kasutame küpsiseid, et koguda anonüümseks muudetud statistikat retseptide tulemuste parandamiseks. Uurige meie küpsiste kohta siit.",
+    "consentText": "Me kasutame küpsiseid, et koguda anonüümseks muudetud statistikat retseptide tulemuste parandamiseks. Uurige meie küpsiste kohta",
     "consentTextAldi": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
-    "checkHere": "siin",
+    "checkHere": "siit.",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
@@ -95,7 +97,7 @@
     "yourFeedback": "Me hindame sinu tagasisidet",
     "whatData": "Mida täpsemalt te jälgite?",
     "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)",
-    "feedbackButton": ""
+    "feedbackButton": "Andke oma tagasiside"
   },
   "filters": {
     "sweet": "",
@@ -103,12 +105,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "",
-    "vegeterian": "",
-    "lactoseFree": "",
-    "eggFree": "",
-    "nut-free": "",
-    "glutenFree": "",
-    "diabetic": ""
+    "vegan": "vegan",
+    "vegeterian": "taimetoit",
+    "lactoseFree": "laktoosivaba",
+    "eggFree": "munavaba",
+    "nut-free": "pähklivaba",
+    "glutenFree": "gluteenivaba",
+    "diabetic": "diabeetik"
   }
 }
