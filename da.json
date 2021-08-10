@@ -29,6 +29,7 @@
     "substitute": "Kan udskiftes i opskriften",
     "select": "Se opskrift",
     "howMany": "af dine ingredienser",
+    "allIngredients": "alle dine ingredienser",
     "or": "",
     "mandatory": "Påkrævet",
     "swap": "Byt",
@@ -61,7 +62,7 @@
     "addFlavorsButton": "",
     "newFlavors": "",
     "done": "",
-    "allMatches": "",
+    "moreMatches": "",
     "addFlavorsText": "",
     "loaderTextFlavor": "",
     "noMatches": "",
@@ -73,7 +74,7 @@
     "added": ""
   },
   "substitutionOverlay": {
-    "findingSubstitutes": "",
+    "findingSubstitutes": "Den kunstige intelligens finder substituter",
     "swapped": "byttet",
     "swap": "Byt"
   },
