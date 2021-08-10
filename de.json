@@ -2,7 +2,7 @@
   "general": {
     "done": "Rezepte erstellen",
     "header1": "Wähle deine Zutaten",
-    "header2": "Zum Rezept",
+    "header2": "Wähle ein Rezept",
     "headerOetker1": "Früchte auswählen",
     "headerOetker2": "Wähle dein Rezept",
     "headerTitle": "Leere deinen Kühlschrank",
@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen.",
     "noRecipeFound": "Sorry, wir konnten kein Rezept finden. Versuche eine weitere Zutat hinzuzufügen. ",
     "share": "Rezept teilen",
-    "shareResult": ""
+    "shareResult": "Link in Zwischenablage kopiert"
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -70,7 +70,7 @@
     "whatIsMatchLong": "Was sind passende Zutaten?",
     "whatIsMatchTextShort": "",
     "whatIsMatchTextLong": "",
-    "added": ""
+    "added": "hinzugefügt"
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Die KI sucht nach alternativen Zutaten",
