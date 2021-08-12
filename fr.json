@@ -40,7 +40,7 @@
   },
   "recipePage": {
     "back": "Afficher tous les résultats",
-    "tip": "Astuce! Cliquez sur l'ingrédient pour voir les substituts",
+    "tip": "Astuce: Cliquez sur l'ingrédient pour voir les substituts",
     "grams": "Afficher en grammes",
     "instructions": "Instructions",
     "noSubstitution": "Pas de substituts disponibles",
