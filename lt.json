@@ -29,6 +29,8 @@
     "substitute": "Galima pakeisti",
     "select": "Skaityti visą receptą",
     "howMany": "tavo ingredientai",
+    "all": "",
+    "yourIngredients": "",
     "allIngredients": "visi ingredientai",
     "or": "",
     "mandatory": "Privaloma",

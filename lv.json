@@ -29,6 +29,8 @@
     "substitute": "Var aizvietot",
     "select": "Apskatīt recepti",
     "howMany": "jūsu sastāvdaļas",
+    "all": "",
+    "yourIngredients": "",
     "allIngredients": "visas sastāvdaļas",
     "or": "",
     "mandatory": "Obligāti",

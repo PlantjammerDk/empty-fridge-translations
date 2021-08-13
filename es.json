@@ -29,6 +29,8 @@
     "substitute": "Modificable en la receta",
     "select": "Ver receta",
     "howMany": "de tus ingredientes",
+    "all": "",
+    "yourIngredients": "",
     "allIngredients": "todos tus ingredientes",
     "or": "O",
     "mandatory": "Obligatorio",

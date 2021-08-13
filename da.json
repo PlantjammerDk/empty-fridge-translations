@@ -29,6 +29,8 @@
     "substitute": "Kan udskiftes i opskriften",
     "select": "Se opskrift",
     "howMany": "af dine ingredienser",
+    "all": "",
+    "yourIngredients": "",
     "allIngredients": "alle dine ingredienser",
     "or": "",
     "mandatory": "Påkrævet",
