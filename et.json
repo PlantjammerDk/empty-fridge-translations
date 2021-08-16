@@ -17,7 +17,7 @@
     "errorNoIngredients": "Koostisosa ei leitud",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": "",
+    "share": "Jaga",
     "shareResult": ""
   },
   "recipeCard": {
@@ -36,9 +36,9 @@
     "mandatory": "Kohustuslik",
     "swap": "Vahetus",
     "seeInstructions": "Vaata juhiseid",
-    "tooltipOnNoAction": "",
+    "tooltipOnNoAction": "Proovige vahetada koostisosi või lisada oma retseptile rohkem koostisosi.",
     "loaderText": "Koostisosade sobitamine retseptidega",
-    "loaderTextFilter": ""
+    "loaderTextFilter": "Filtrite uuendamine"
   },
   "recipePage": {
     "back": "Näita kõiki tulemusi",
@@ -58,22 +58,22 @@
     "dishType": "Taldrikutüüp",
     "cuisine": "Piirkond",
     "diet": "Toitumine",
-    "quick": ""
+    "quick": "Alla 20 min"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "moreMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
-    "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": "",
+    "addFlavorsButton": "Lisage veel koostisosi",
+    "newFlavors": "Luua uusi koostisosi",
+    "done": "Valmis",
+    "moreMatches": "Vaata rohkem soovitusi",
+    "addFlavorsText": "Lisage veel koostisosi",
+    "loaderTextFlavor": "Tehisintellekt leiab uusi koostisosi, mis sobivad teie retseptiga",
+    "noMatches": "Rohkem tulemusi ei ole",
+    "tooltip": "Hankige uusi soovitusi oma uute koostisosade kohta",
+    "whatIsMatchShort": "Millised on sobivad ingridendid?",
+    "whatIsMatchLong": "Millised on sobivad ingridendid?",
     "whatIsMatchTextShort": "",
     "whatIsMatchTextLong": "",
-    "added": ""
+    "added": "lisatud"
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Tehisintellekt leiab asendajaid",
@@ -108,12 +108,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "vegan",
-    "vegeterian": "taimetoit",
-    "lactoseFree": "laktoosivaba",
-    "eggFree": "munavaba",
-    "nut-free": "pähklivaba",
-    "glutenFree": "gluteenivaba",
+    "vegan": "Vegan",
+    "vegeterian": "Taimetoit",
+    "lactoseFree": "Laktoosivaba",
+    "eggFree": "Munavaba",
+    "nut-free": "Pähklivaba",
+    "glutenFree": "Gluteenivaba",
     "diabetic": "diabeetik"
   }
 }

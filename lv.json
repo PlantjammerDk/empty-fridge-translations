@@ -17,7 +17,7 @@
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": "",
+    "share": "Kopīgojiet",
     "shareResult": ""
   },
   "recipeCard": {
@@ -36,9 +36,9 @@
     "mandatory": "Obligāti",
     "swap": "Apmaiņas",
     "seeInstructions": "Skatīt instrukcijas",
-    "tooltipOnNoAction": "",
+    "tooltipOnNoAction": "Izmēģiniet apmainīt sastāvdaļas vai pievienot vairāk sastāvdaļu savai receptei.",
     "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
-    "loaderTextFilter": ""
+    "loaderTextFilter": "Filtra atjaunināšana"
   },
   "recipePage": {
     "back": "Visi rezultāti",
@@ -58,22 +58,22 @@
     "dishType": "Trauku tips",
     "cuisine": "Reģions",
     "diet": "Uzturs",
-    "quick": ""
+    "quick": "Līdz 20 min."
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "moreMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
-    "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": "",
+    "addFlavorsButton": "Meklēt vairāk sastāvdaļas",
+    "newFlavors": "Izveidot jaunas sastāvdaļas",
+    "done": "Paveikts",
+    "moreMatches": "Skatīt vairāk ieteikumu",
+    "addFlavorsText": "Meklēt vairāk sastāvdaļas",
+    "loaderTextFlavor": "Mākslīgais intelekts atrod jaunas sastāvdaļas, kas atbilst jūsu receptei",
+    "noMatches": "Ieteikumu vairs nav",
+    "tooltip": "Saņemiet jaunus ieteikumus par jaunajām sastāvdaļām",
+    "whatIsMatchShort": "Kas ir sastāvdaļu ieteikumi?",
+    "whatIsMatchLong": "Kas ir sastāvdaļu ieteikumi?",
     "whatIsMatchTextShort": "",
     "whatIsMatchTextLong": "",
-    "added": ""
+    "added": "pievienots"
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Mākslīgais intelekts atrod aizstājējus",
@@ -108,12 +108,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "vegānisks",
-    "vegeterian": "veģetārs",
-    "lactoseFree": "bez laktozes",
-    "eggFree": "bez olām",
-    "nut-free": "bez riekstiem",
-    "glutenFree": "bez glutēna",
+    "vegan": "Vegānisks",
+    "vegeterian": "Veģetārs",
+    "lactoseFree": "Bez laktozes",
+    "eggFree": "Bez olām",
+    "nut-free": "Bez riekstiem",
+    "glutenFree": "Bez glutēna",
     "diabetic": "diabētisks"
   }
 }

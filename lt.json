@@ -17,7 +17,7 @@
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
-    "share": "",
+    "share": "Dalintis",
     "shareResult": ""
   },
   "recipeCard": {
@@ -36,9 +36,9 @@
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
     "seeInstructions": "Žr. gaminimo eigą",
-    "tooltipOnNoAction": "",
+    "tooltipOnNoAction": "Pabandykite sukeisti ingredientus vietomis arba į receptą įtraukti daugiau ingredientų.",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
-    "loaderTextFilter": ""
+    "loaderTextFilter": "Filtrų atnaujinimas"
   },
   "recipePage": {
     "back": "Visi rezultatai",
@@ -58,22 +58,22 @@
     "dishType": "Patiekalo tipas",
     "cuisine": "Regionas",
     "diet": "Speciali dieta",
-    "quick": ""
+    "quick": "Iki 20 min."
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "moreMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
-    "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": "",
+    "addFlavorsButton": "Pridėkite daugiau ingredientų",
+    "newFlavors": "Generuoti naujus ingredientus",
+    "done": "Priimta",
+    "moreMatches": "Žiūrėti daugiau atitikmenų",
+    "addFlavorsText": "Pridėkite daugiau ingredientų",
+    "loaderTextFlavor": "Dirbtinis intelektas randa naujus ingredientus, atitinkančius jūsų receptą",
+    "noMatches": "Daugiau atitikmenų nėra",
+    "tooltip": "Gaukite naujų pasiūlymų dėl naujų ingredientų",
+    "whatIsMatchShort": "Kas yra ingredientų atitikimas?",
+    "whatIsMatchLong": "Kas yra ingredientų atitikimas?",
     "whatIsMatchTextShort": "",
     "whatIsMatchTextLong": "",
-    "added": ""
+    "added": "pridėta"
   },
   "substitutionOverlay": {
     "findingSubstitutes": " Dirbtinis intelektas randa pakaitalų",
@@ -108,12 +108,12 @@
     "superFruity": "",
     "jam": "",
     "jelly": "",
-    "vegan": "veganas",
-    "vegeterian": "vegetaras",
-    "lactoseFree": "be laktozės",
-    "eggFree": "be kiaušinių",
-    "nut-free": "be riešutų",
-    "glutenFree": "be glitimo",
+    "vegan": "Veganas",
+    "vegeterian": "Vegetaras",
+    "lactoseFree": "Be laktozės",
+    "eggFree": "Be kiaušinių",
+    "nut-free": "Be riešutų",
+    "glutenFree": "Be glitimo",
     "diabetic": "diabetikas"
   }
 }

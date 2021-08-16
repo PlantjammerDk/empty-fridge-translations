@@ -7,17 +7,17 @@
     "headerOetker2": "Vælg opskrift",
     "headerTitle": "Tøm køleskabet",
     "headerTitleOetker": "",
-    "selectedIngredients": "VælgIngredienser",
+    "selectedIngredients": "Vælg Ingredienser",
     "search": "Søg ingredienser",
     "searchMore": "Søg flere ingredienser",
     "showMore": "Vis flere opskrifter",
     "searchRecipes": "Skaber opskrifter med dine ingredienser",
     "popularIngredients": "Vælg ingredienser",
     "errorGeneral": "Noget gik galt. Prøv igen senere",
-    "errorNoIngredients": "",
+    "errorNoIngredients": "Ingrediens findes ikke",
     "selectTwoIngredients": "",
-    "noRecipeFound": "",
-    "share": "",
+    "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
+    "share": "Del",
     "shareResult": ""
   },
   "recipeCard": {
@@ -36,9 +36,9 @@
     "mandatory": "Påkrævet",
     "swap": "Byt",
     "seeInstructions": "Se opskriften",
-    "tooltipOnNoAction": "",
-    "loaderText": "",
-    "loaderTextFilter": ""
+    "tooltipOnNoAction": "Prøv at bytte ingredienser eller tilføje flere ingredienser til din opskrift",
+    "loaderText": "Afstemning af dine ingredienser med opskrifter",
+    "loaderTextFilter": "Opdatere filtre"
   },
   "recipePage": {
     "back": "Se alle resultater",
@@ -58,22 +58,22 @@
     "dishType": "Type ret",
     "cuisine": "Region",
     "diet": "Kost",
-    "quick": ""
+    "quick": "Under 20 min"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
-    "newFlavors": "",
-    "done": "",
-    "moreMatches": "",
-    "addFlavorsText": "",
-    "loaderTextFlavor": "",
-    "noMatches": "",
-    "tooltip": "",
-    "whatIsMatchShort": "",
-    "whatIsMatchLong": "",
-    "whatIsMatchTextShort": "",
-    "whatIsMatchTextLong": "",
-    "added": ""
+    "addFlavorsButton": "Tilføj flere ingredienser",
+    "newFlavors": "Generere nye ingredienser",
+    "done": "Færdig",
+    "moreMatches": "Se flere matches",
+    "addFlavorsText": "Tilføj flere ingredienser til ",
+    "loaderTextFlavor": "AI finder nye ingredienser, der passer til din opskrift",
+    "noMatches": "Ikke flere resultater",
+    "tooltip": "Få nye forslag til dine nye ingredienser",
+    "whatIsMatchShort": "Hvad er et match?",
+    "whatIsMatchLong": "Hvad er ingrediensmatches?",
+    "whatIsMatchTextShort": "Ingrediensmatches er ingredienser, der passer godt sammen med dine andre ingredienser for at gøre det til et fantastisk velsmagende måltid.",
+    "whatIsMatchTextLong": "Ingrediensmatchene foreslås af vores kunstige intelligens, som har lært af millioner af opskrifter, hvad der passer godt sammen. De bedste matches vises altid først.",
+    "added": "tilføjet"
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Den kunstige intelligens finder substituter",
