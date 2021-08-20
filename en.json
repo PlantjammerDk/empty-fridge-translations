@@ -28,7 +28,7 @@
     "mustHave": "Must have",
     "substitute": "Modifiable in recipe",
     "select": "See recipe",
-    "howMany": "of your ingredients",
+    "howMany": "your ingredients",
     "all": "all",
     "yourIngredients": "your ingredients",
     "allIngredients": "all ingredients",
@@ -71,8 +71,8 @@
     "tooltip": "Get new flavor matches for your new ingredients",
     "whatIsMatchShort": "What’s a match?",
     "whatIsMatchLong": "What are ingredient matches?",
-    "whatIsMatchTextShort": "Ingredient matches are ingredients that fit well to your other ingredients to make it a great tasting meal.",
-    "whatIsMatchTextLong": "The ingredient matches are proposed by our artificial intelligence which learned from millions of recipes what fits well together and what doesn’t. The best matches are always shown first.",
+    "whatIsMatchTextShort": "Ingredient matches are ingredients that fit well with the other selected ingredients to make a great tasting dish.",
+    "whatIsMatchTextLong": "The ingredient matches are proposed by our artificial intelligence, which has learned from millions of recipes what fits well together and what doesn’t. The best matches are always shown first.",
     "added": "added"
   },
   "substitutionOverlay": {
@@ -83,7 +83,7 @@
   "survey": {
     "consentHeder": "Help us train the recipe AI",
     "consentText": "We would love to gather statistics from your clicks to analyse and improve the recipes and foodpairing AI. To learn more, check out our",
-    "consentTextAldi": "We do not capture any of your personal data. If you have any questions or comments about the data, reach out to the startup behind this app: Plant Jammer.",
+    "consentTextAldi": "We do not capture any of your data. If you have any questions or comments about the data, reach out to the startup behind this app: Plant Jammer.",
     "dataPrivacytAldi": "Data privacy",
     "impressumAldi": "Imprint",
     "checkHere": "privacy policy.",

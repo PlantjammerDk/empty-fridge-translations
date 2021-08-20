@@ -28,7 +28,7 @@
     "mustHave": "Nødvendige",
     "substitute": "Kan udskiftes i opskriften",
     "select": "Se opskrift",
-    "howMany": "af dine ingredienser",
+    "howMany": "dine ingredienser",
     "all": "alle",
     "yourIngredients": "dine ingredienser",
     "allIngredients": "alle dine ingredienser",
@@ -71,8 +71,8 @@
     "tooltip": "Få nye forslag til dine nye ingredienser",
     "whatIsMatchShort": "Hvad er et match?",
     "whatIsMatchLong": "Hvad er ingrediensmatches?",
-    "whatIsMatchTextShort": "Ingrediensmatches er ingredienser, der passer godt sammen med dine andre ingredienser for at gøre det til et fantastisk velsmagende måltid.",
-    "whatIsMatchTextLong": "Ingrediensmatchene foreslås af vores kunstige intelligens, som har lært af millioner af opskrifter, hvad der passer godt sammen. De bedste matches vises altid først.",
+    "whatIsMatchTextShort": "Ingrediens er ingredienser, der passer godt sammen med de andre valgte ingredienser for at skabe en fantastisk velsmagende ret.",
+    "whatIsMatchTextLong": "Ingrediensmatchene foreslås af vores kunstige intelligens, som har lært fra millioner af opskrifter, hvad der passer godt sammen. De bedste matches vises altid først.",
     "added": "tilføjet"
   },
   "substitutionOverlay": {

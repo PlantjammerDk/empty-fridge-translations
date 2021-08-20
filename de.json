@@ -28,7 +28,7 @@
     "mustHave": "Benötigt",
     "substitute": "Im Rezept änderbar",
     "select": "Zum Rezept",
-    "howMany": "von deinen Zutaten",
+    "howMany": "deinen Zutaten",
     "all": "alle",
     "yourIngredients": "deine Zutaten",
     "allIngredients": "alle deine Zutaten",
@@ -36,7 +36,7 @@
     "mandatory": "Benötigt",
     "swap": "Tauschen",
     "seeInstructions": "Siehe Zubereitung",
-    "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder weitere Geschmacksnoten zu deinem Rezept hinzuzufügen.",
+    "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
     "loaderTextFilter": "Filter anpassen"
   },
@@ -83,7 +83,7 @@
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir würden gerne Statistiken über deine Klicks sammeln, um die Rezepte und die Foodpairing-KI zu analysieren und zu verbessern. Mehr Informationen dazu findest du in unseren",
-    "consentTextAldi": "Für die Verarbeitung personenbezogener Daten im Rahmen dieses Rezepte-Tools ist Plant Jammer verantwortlich. Weitere Informationen zum Datenschutz und zum Impressum stellt der Verantwortliche über die nachfolgenden Verlinkungen zur Verfügung.",
+    "consentTextAldi": "Für die Verarbeitung Daten im Rahmen dieses Rezepte-Tools ist Plant Jammer verantwortlich. Weitere Informationen zum Datenschutz und zum Impressum stellt der Verantwortliche über die nachfolgenden Verlinkungen zur Verfügung.",
     "dataPrivacytAldi": "Datenschutz",
     "impressumAldi": "Impressum",
     "checkHere": "Datenschutzrichtlinien",
