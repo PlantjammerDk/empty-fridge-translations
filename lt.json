@@ -71,8 +71,8 @@
     "tooltip": "Gaukite naujų pasiūlymų dėl naujų ingredientų",
     "whatIsMatchShort": "Kas yra ingredientų atitikimas?",
     "whatIsMatchLong": "Kas yra ingredientų atitikimas?",
-    "whatIsMatchTextShort": "",
-    "whatIsMatchTextLong": "",
+    "whatIsMatchTextShort": "Ingredientų atitikimas reiškia kaip labai ingredientas tinka, kad pagamintumėte skanų patiekalą.",
+    "whatIsMatchTextLong": "Ingredientai yra parenkami dirbtinio intelekto įrankio, kuris mokosi analizuodamas milijonus receptų, ten kur ingredientai tinka vienas su kitu geriausiai. Geriausiai derantys pasirinkimai visuomet yra rodomi pirmiausia.",
     "added": "pridėta"
   },
   "substitutionOverlay": {
