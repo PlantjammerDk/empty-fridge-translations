@@ -11,7 +11,7 @@
     "search": "Procure por ingredientes",
     "searchMore": "Pesquise mais ingredientes",
     "showMore": "Mostre mais ingredientes",
-    "searchRecipes": "",
+    "searchRecipes": "Criando receitas com seus ingredientes",
     "popularIngredients": "Escolha os ingredientes que você gosta",
     "errorGeneral": "",
     "errorNoIngredients": "",
@@ -34,8 +34,8 @@
     "allIngredients": "",
     "or": "",
     "mandatory": "",
-    "swap": "",
-    "seeInstructions": "",
+    "swap": "Mudar",
+    "seeInstructions": "Ver receita",
     "tooltipOnNoAction": "",
     "loaderText": "",
     "loaderTextFilter": ""
@@ -48,9 +48,9 @@
     "noSubstitution": "Nenhuma substituição disponível",
     "loaderText": "",
     "matchGreat": "",
-    "matchOk": "",
+    "matchOk": "Ótimo",
     "matchBrave": "",
-    "ingredients": "",
+    "ingredients": "Ingredients",
     "stepUrl": ""
   },
   "filtersOverlay": {
@@ -61,11 +61,11 @@
     "quick": ""
   },
   "flavorOverlay": {
-    "addFlavorsButton": "",
+    "addFlavorsButton": "Adicionar mais sabor",
     "newFlavors": "",
-    "done": "",
+    "done": "Feito",
     "moreMatches": "",
-    "addFlavorsText": "",
+    "addFlavorsText": "Adicionar mais sabor a",
     "loaderTextFlavor": "",
     "noMatches": "",
     "tooltip": "",
@@ -77,8 +77,8 @@
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",
-    "swapped": "",
-    "swap": ""
+    "swapped": "Mudado",
+    "swap": "Mudar"
   },
   "survey": {
     "consentHeder": "",
@@ -93,14 +93,14 @@
     "submit": "",
     "accept": "",
     "reject": "",
-    "npsQuestion": "",
+    "npsQuestion": "Qual é a probabilidade de você recomendar esta ferramenta a um amigo ou colega?",
     "howImprove": "",
     "whatGood": "",
     "thankYou": "",
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": "",
-    "feedbackButton": ""
+    "feedbackButton": "Dar feedback"
   },
   "filters": {
     "sweet": "",
