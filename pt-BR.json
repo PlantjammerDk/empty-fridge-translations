@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Procurar",
+    "done": "Encontrar receitas",
     "header1": "Escolha os ingredientes que você gosta",
     "header2": "Veja a receita",
     "headerOetker1": "",
@@ -47,7 +47,7 @@
     "instructions": "Instruções",
     "noSubstitution": "Nenhuma substituição disponível",
     "loaderText": "",
-    "matchGreat": "",
+    "matchGreat": "Combinação perfeita",
     "matchOk": "Ótimo",
     "matchBrave": "",
     "ingredients": "Ingredients",
