@@ -69,10 +69,10 @@
     "loaderTextFlavor": "Tehisintellekt leiab uusi koostisosi, mis sobivad teie retseptiga",
     "noMatches": "Rohkem tulemusi ei ole",
     "tooltip": "Hankige uusi soovitusi oma uute koostisosade kohta",
-    "whatIsMatchShort": "Millised on sobivad ingridendid?",
-    "whatIsMatchLong": "Millised on sobivad ingridendid?",
-    "whatIsMatchTextShort": "",
-    "whatIsMatchTextLong": "",
+    "whatIsMatchShort": "Mis on sobivad koostisained?",
+    "whatIsMatchLong": "Mis on sobivad koostisained?",
+    "whatIsMatchTextShort": "Koostisainete sobivus koosneb koostisosadest, mis käivad teiste koostisainetega hästi kokku, et muuta eine veelgi maitsvamaks.",
+    "whatIsMatchTextLong": "Plantjammeri tehisintellekt pakub koostisosade vasted, mis on miljonite retseptide põhjal õppinud, millised koostisained sobivad hästi kokku ja millised mitte. Sealt need soovitused tulevad ja esimesteks näidatakse parimaid vasteid.",
     "added": "lisatud"
   },
   "substitutionOverlay": {
