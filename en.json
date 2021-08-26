@@ -58,7 +58,8 @@
     "dishType": "Dish Type",
     "cuisine": "Region",
     "diet": "Diet",
-    "quick": "Under 20 Min"
+    "quick": "Under 20 Min",
+    "occasion": "Occasion"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add more flavor",
