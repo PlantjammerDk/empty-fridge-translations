@@ -18,7 +18,8 @@
     "selectTwoIngredients": "We recommend using max two fruits.",
     "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient.",
     "share": "Share",
-    "shareResult": "Link copied to clipboard"
+    "shareResult": "Link copied to clipboard",
+    "fullscreenMode": "Try fullscreen mode"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
