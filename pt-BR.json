@@ -18,7 +18,8 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -84,13 +85,16 @@
     "consentHeder": "",
     "consentText": "",
     "consentTextAldi": "",
+    "typeformText": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
     "checkHere": "",
     "npsLikely": "Altamente provável",
     "npsNotLikely": "",
     "skip": "Saltar",
+    "no": "",
     "submit": "",
+    "sure": "",
     "accept": "",
     "reject": "",
     "npsQuestion": "Qual é a probabilidade de você recomendar esta ferramenta a um amigo ou colega?",

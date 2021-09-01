@@ -18,7 +18,8 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -84,13 +85,16 @@
     "consentHeder": "",
     "consentText": "",
     "consentTextAldi": "",
+    "typeformText": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
     "checkHere": "",
     "npsLikely": "",
     "npsNotLikely": "",
     "skip": "",
+    "no": "",
     "submit": "",
+    "sure": "",
     "accept": "",
     "reject": "",
     "npsQuestion": "",

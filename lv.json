@@ -18,7 +18,8 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Kopīgojiet",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": "Izmēģiniet pilnekrāna režīmu"
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -84,13 +85,16 @@
     "consentHeder": "Palīdziet mums apmācīt recepšu mākslīgo intelektu!",
     "consentText": "Mēs izmantojam statistikas sīkdatnes un iegūstam anonimizētus datus recepšu uzlabošanai. Ar mūsu sīkdatņu politiku var iepazīties te.",
     "consentTextAldi": "",
+    "typeformText": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
     "checkHere": "šeit",
     "npsLikely": "Ļoti iespējams",
     "npsNotLikely": "Maz iespējams",
     "skip": "Izlaist",
+    "no": "",
     "submit": "Iesniegt",
+    "sure": "",
     "accept": "Apstiprināt",
     "reject": "Noraidīt",
     "npsQuestion": "Vai tu ieteiktu šo lietotni draugiem vai kolēģiem?",

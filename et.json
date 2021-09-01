@@ -18,7 +18,8 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Jaga",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": "Proovige täisekraani"
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -84,13 +85,16 @@
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
     "consentText": "Me kasutame küpsiseid, et koguda anonüümseks muudetud statistikat retseptide tulemuste parandamiseks. Uurige meie küpsiste kohta",
     "consentTextAldi": "",
+    "typeformText": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
     "checkHere": "siit.",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
+    "no": "",
     "submit": "Esita",
+    "sure": "",
     "accept": "Nõustu",
     "reject": "Keeldu",
     "npsQuestion": "Kui tõenäoline on, et soovitad seda vahendit sõbrale?",

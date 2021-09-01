@@ -18,7 +18,8 @@
     "selectTwoIngredients": "Recomendamos utilizar como máximo dos frutas.",
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
     "share": "Compartir",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": "Pruebe con pantalla completa"
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -84,13 +85,16 @@
     "consentHeder": "Ayúdanos a entrenar la IA de las recetas",
     "consentText": "Utilizamos cookies estadísticas para recopilar datos anónimos con el fin de mejorar los resultados de las recetas. Consulta nuestra Política de cookies.",
     "consentTextAldi": "No capturamos ninguno de tus datos personales. Si tienes alguna pregunta o comentario sobre los datos personales, ponte en contacto con la empresa propietaria de la App: Plant Jammer.",
+    "typeformText": "",
     "dataPrivacytAldi": "Privacidad de los datos",
     "impressumAldi": "Autoría",
     "checkHere": "Política de Privacidad",
     "npsLikely": "Muy probable",
     "npsNotLikely": "Poco probable",
     "skip": "Saltar",
+    "no": "",
     "submit": "Enviar",
+    "sure": "",
     "accept": "Aceptar",
     "reject": "Rechazar",
     "npsQuestion": "¿Qué probabilidad hay de que recomiendes esta herramienta a un amigo o colega?",

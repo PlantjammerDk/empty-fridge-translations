@@ -18,7 +18,8 @@
     "selectTwoIngredients": "Nous recommandons d'utiliser deux fruits maximum.",
     "noRecipeFound": "Désolé, aucune recette trouvée. Essayez d'ajouter un ingrédient supplémentaire.",
     "share": "Partager",
-    "shareResult": "Lien copié dans le presse-papiers"
+    "shareResult": "Lien copié dans le presse-papiers",
+    "fullscreenMode": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -84,13 +85,16 @@
     "consentHeder": "Aidez-nous à former l'IA des recettes",
     "consentText": "Nous utilisons des cookies statistiques pour collecter des données anonymisées afin d'améliorer les résultats des recettes. Consultez notre politique en matière de cookies.",
     "consentTextAldi": "Nous ne collectons aucune de vos données personnelles. Si vous avez des questions ou des commentaires sur les données, contactez la startup à l'origine de cette application : Plant Jammer.",
+    "typeformText": "",
     "dataPrivacytAldi": "Confidentialité des données",
     "impressumAldi": "Mentions légales",
     "checkHere": "politique de confidentialité",
     "npsLikely": "Trés probable",
     "npsNotLikely": "Très improbable",
     "skip": "Passer",
+    "no": "",
     "submit": "Soumettre",
+    "sure": "",
     "accept": "Accepter",
     "reject": "Refuser",
     "npsQuestion": "Quelles sont les chances que vous recommandiez cet outil à un ami ou un collègue?",
