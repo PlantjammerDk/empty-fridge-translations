@@ -18,7 +18,8 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
     "share": "Del",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": "Prøv i fuldskærm"
   },
   "recipeCard": {
     "seeMore": "Se mere",
@@ -84,13 +85,16 @@
     "consentHeder": "Hjælp os med at træne vores AI",
     "consentText": "Vi vil gerne indsamle statistik på dine klik for at analysere og forbedre vores opskrifter og foodpairing AI. Læs mere i vores",
     "consentTextAldi": "",
+    "typeformText": "Klar til at besvare 3 spørgsmål om madspild, så du kan hjælpe os med at bekæmpe dette globale problem?",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
     "checkHere": "her.",
     "npsLikely": "Meget sandsynligt",
     "npsNotLikely": "Meget usandsynligt",
     "skip": "Spring over",
+    "no": "Nej tak",
     "submit": "Indsend",
+    "sure": "Selvfølgelig!",
     "accept": "Acceptér",
     "reject": "Afvis",
     "npsQuestion": "Hvor sandsynligt er det, at du anbefaler denne oplevelse til en ven eller kollega?",

@@ -18,7 +18,8 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Dalintis",
-    "shareResult": ""
+    "shareResult": "",
+    "fullscreenMode": "Išbandykite visą ekraną"
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -84,13 +85,16 @@
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
     "consentText": "Mes naudojame statistinius slapukus anonimiškiems duomenims rinkti, kad pagerintume receptų rezultatus. Čia galite peržiūrėti mūsų slapukų politiką.",
     "consentTextAldi": "",
+    "typeformText": "",
     "dataPrivacytAldi": "",
     "impressumAldi": "",
     "checkHere": "Čia",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",
+    "no": "",
     "submit": "Pateikti",
+    "sure": "",
     "accept": "Sutikti",
     "reject": "Nesutikti",
     "npsQuestion": "Ar rekomenduotum šį įrankį savo draugui ar kolegai?",

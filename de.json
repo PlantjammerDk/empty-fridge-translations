@@ -18,7 +18,8 @@
     "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen.",
     "noRecipeFound": "Sorry, wir konnten kein Rezept finden. Versuche eine weitere Zutat hinzuzufügen. ",
     "share": "Rezept teilen",
-    "shareResult": "Link in Zwischenablage kopiert"
+    "shareResult": "Link in Zwischenablage kopiert",
+    "fullscreenMode": "Versuche Vollbildmodus"
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -84,13 +85,16 @@
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
     "consentText": "Wir würden gerne Statistiken über deine Klicks sammeln, um die Rezepte und die Foodpairing-KI zu analysieren und zu verbessern. Mehr Informationen dazu findest du in unseren",
     "consentTextAldi": "Für die Verarbeitung der Daten im Rahmen dieses Rezepte-Tools ist Plant Jammer verantwortlich. Weitere Informationen zum Datenschutz und zum Impressum stellt Plant Jammer über die nachfolgenden Verlinkungen zur Verfügung.",
+    "typeformText": "Bereit 3 Fragen zu Lebensmittelverschwendung zu beantworten, um uns im Kampf gegen dieses globale Problem zu helfen?",
     "dataPrivacytAldi": "Datenschutz",
     "impressumAldi": "Impressum",
     "checkHere": "Datenschutzrichtlinien",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
     "skip": "Überspringen",
+    "no": "Nein danke",
     "submit": "Fertig",
+    "sure": "Klar! ",
     "accept": "Zustimmen",
     "reject": "Ablehnen",
     "npsQuestion": "Wie wahrscheinlich ist es, dass du dieses Tool an einen Freund/Bekannten weiterempfiehlst?",
