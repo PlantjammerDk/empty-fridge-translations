@@ -119,5 +119,14 @@
     "nut-free": "Nut-free",
     "glutenFree": "Gluten-free",
     "diabetic": "Diabetic"
+  },
+  "shoppingList": {
+    "shoppingList": "Shopping List",
+    "items": "items",
+    "youMightHave": "You might have this at home",
+    "buyOnAmazonFresh": "Buy on Amazon Fresh",
+    "back": "Back to recipe",
+    "shopIngredients": "Shop ingredients"
   }
 }
+
