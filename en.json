@@ -57,7 +57,8 @@
   "saveRecipe": {
     "unique": "Your unique",
     "flavourMatches": "Flavour matches",
-    "qrCodeText": "You created this unique recipe. Use the QR code to create more recipes to empty your fridge."
+    "qrCodeText": "You created this unique recipe. Use the QR code to create more recipes to empty your fridge.",
+    "preparingImage": "Preparing recipe to download"
   },
   "filtersOverlay": {
     "header": "Add filter",
