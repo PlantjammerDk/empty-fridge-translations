@@ -54,6 +54,12 @@
     "ingredients": "sastāvdaļas",
     "stepUrl": ""
   },
+  "saveRecipe": {
+    "unique": "",
+    "flavourMatches": "",
+    "qrCodeText": "",
+    "preparingImage": ""
+  },
   "filtersOverlay": {
     "header": "Pievienot filtru",
     "dishType": "Trauku tips",
@@ -119,5 +125,13 @@
     "nut-free": "Bez riekstiem",
     "glutenFree": "Bez glutēna",
     "diabetic": "diabētisks"
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
   }
 }
