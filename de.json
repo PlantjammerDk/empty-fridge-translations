@@ -54,6 +54,12 @@
     "ingredients": "Zutaten",
     "stepUrl": "hier klicken"
   },
+  "saveRecipe": {
+    "unique": "Dein individuelles Rezept",
+    "flavourMatches": "Mehr passende Zutaten",
+    "qrCodeText": "Du hast dieses individuelle Rezept erstellt. Nutze den QR Code um weitere Rezepte nach deinem Geschmack zu erstellen.",
+    "preparingImage": "Rezept vorbereiten zum Herunterladen"
+  },
   "filtersOverlay": {
     "header": "Filter hinzufügen",
     "dishType": "Gerichtart",
@@ -119,5 +125,13 @@
     "nut-free": "Nussfrei",
     "glutenFree": "Gluten-frei",
     "diabetic": "Diabetiker"
+  },
+  "shoppingList": {
+    "shoppingList": "Einkaufsliste",
+    "items": "Artikel",
+    "youMightHave": "Das hast du wahrscheinlich zu Hause",
+    "buyOnAmazonFresh": "Kaufe über Amazon Fresh",
+    "back": "Zurück zum Rezept",
+    "shopIngredients": "Zutaten kaufen"
   }
 }

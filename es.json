@@ -54,6 +54,12 @@
     "ingredients": "Ingredientes",
     "stepUrl": "clic aquí"
   },
+  "saveRecipe": {
+    "unique": "",
+    "flavourMatches": "",
+    "qrCodeText": "",
+    "preparingImage": ""
+  },
   "filtersOverlay": {
     "header": "Añadir filtro",
     "dishType": "Tipo de plato",
@@ -119,5 +125,13 @@
     "nut-free": "Sin frutos secos",
     "glutenFree": "Sin gluten",
     "diabetic": "Diabéticos"
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
   }
 }
