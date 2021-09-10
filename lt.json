@@ -55,10 +55,10 @@
     "stepUrl": ""
   },
   "saveRecipe": {
-    "unique": "",
-    "flavourMatches": "",
-    "qrCodeText": "",
-    "preparingImage": ""
+    "unique": "Jūsų unikalus receptas",
+    "flavourMatches": "Daugiau galimų ingredientų",
+    "qrCodeText": "Sukūrėte šį unikalų receptą. Naudokite QR kodą ir sukurkite daugiau receptų, kad ištuštintumėte savo šaldytuvą.",
+    "preparingImage": "Paruošti receptą atsisiųsti"
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",

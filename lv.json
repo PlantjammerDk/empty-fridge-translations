@@ -55,10 +55,10 @@
     "stepUrl": ""
   },
   "saveRecipe": {
-    "unique": "",
-    "flavourMatches": "",
-    "qrCodeText": "",
-    "preparingImage": ""
+    "unique": "Jūsu unikālā recepte",
+    "flavourMatches": "Vairāk iespējamo sastāvdaļu",
+    "qrCodeText": "Jūs izveidojāt šo unikālo recepti. Izmantojiet QR kodu, lai radītu vairāk recepšu, kas iztukšos jūsu ledusskapi.",
+    "preparingImage": "Receptes sagatavošana lejupielādei"
   },
   "filtersOverlay": {
     "header": "Pievienot filtru",
