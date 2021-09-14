@@ -65,6 +65,7 @@
     "dishType": "Dish Type",
     "cuisine": "Region",
     "diet": "Diet",
+    "type": "Type",
     "quick": "Under 20 Min",
     "occasion": "Occasion"
   },
