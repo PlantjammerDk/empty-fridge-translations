@@ -55,10 +55,10 @@
     "stepUrl": ""
   },
   "saveRecipe": {
-    "unique": "",
-    "flavourMatches": "",
-    "qrCodeText": "",
-    "preparingImage": ""
+    "unique": "Teie unikaalne retsept",
+    "flavourMatches": "Veel võimalikke koostisosi",
+    "qrCodeText": "Sa lõid selle ainulaadse retsepti. Kasutage QR-koodi, et luua rohkem retsepte oma külmiku tühjendamiseks.\nJūs izveidojāt šo unikālo recepti. Izmantojiet QR kodu, lai radītu vairāk recepšu, kas iztukšos jūsu ledusskapi.",
+    "preparingImage": "Retsepti ettevalmistamine allalaadimiseks"
   },
   "filtersOverlay": {
     "header": "Lisa filter",
