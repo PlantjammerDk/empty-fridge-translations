@@ -65,7 +65,9 @@
     "dishType": "Gerichtart",
     "cuisine": "Region",
     "diet": "Ernährung",
-    "quick": "Unter 20 Min"
+    "type": "",
+    "quick": "Unter 20 Min",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Verfeinere dein Rezept",

@@ -65,7 +65,9 @@
     "dishType": "Trauku tips",
     "cuisine": "Reģions",
     "diet": "Uzturs",
-    "quick": "Līdz 20 min."
+    "type": "",
+    "quick": "Līdz 20 min.",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Meklēt vairāk sastāvdaļas",

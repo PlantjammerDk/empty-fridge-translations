@@ -65,7 +65,9 @@
     "dishType": "Type ret",
     "cuisine": "Region",
     "diet": "Kost",
-    "quick": "Under 20 min"
+    "type": "",
+    "quick": "Under 20 min",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Tilføj flere ingredienser",

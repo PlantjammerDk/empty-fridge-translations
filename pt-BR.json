@@ -65,7 +65,9 @@
     "dishType": "",
     "cuisine": "",
     "diet": "",
-    "quick": ""
+    "type": "",
+    "quick": "",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Adicionar mais sabor",

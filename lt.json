@@ -65,7 +65,9 @@
     "dishType": "Patiekalo tipas",
     "cuisine": "Regionas",
     "diet": "Speciali dieta",
-    "quick": "Iki 20 min."
+    "type": "",
+    "quick": "Iki 20 min.",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pridėkite daugiau ingredientų",

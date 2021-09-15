@@ -65,7 +65,9 @@
     "dishType": "Type de plat",
     "cuisine": "Région",
     "diet": "Régime",
-    "quick": "Moins de 20 min"
+    "type": "",
+    "quick": "Moins de 20 min",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Ajouter plus de saveurs",

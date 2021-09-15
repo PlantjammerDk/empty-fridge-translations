@@ -65,7 +65,9 @@
     "dishType": "Taldrikutüüp",
     "cuisine": "Piirkond",
     "diet": "Toitumine",
-    "quick": "Alla 20 min"
+    "type": "",
+    "quick": "Alla 20 min",
+    "occasion": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Lisage veel koostisosi",
