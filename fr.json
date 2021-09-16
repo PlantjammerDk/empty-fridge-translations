@@ -36,7 +36,7 @@
     "or": "OU",
     "mandatory": "Obligatoire",
     "swap": "Échanger",
-    "seeInstructions": "Voir les instructions",
+    "seeInstructions": "Voir la recette",
     "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs à votre recette",
     "loaderText": "Associer vos ingrédients avec des recettes",
     "loaderTextFilter": "Actualisation des filtres"
