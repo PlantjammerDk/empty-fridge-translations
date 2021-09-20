@@ -135,5 +135,15 @@
     "buyOnAmazonFresh": "Buy on Amazon Fresh",
     "back": "Back to recipe",
     "shopIngredients": "Shop ingredients"
+  },
+  "animations": {
+    "scanningIngredients": "Scanning ingredients",
+    "creatingRecipe": "Creating recipes",
+    "findingSubstitutes": "Finding substitutes",
+    "ratingSubstitutes ": "Rating substitutes",
+    "findingFlavors": "Finding new flavours",
+    "findingNewRecipes":"Finding new recipes",
+    "preparingRecipe":"Preparing recipe",
+    "creatingImg":"Creating recipe image"
   }
 }
