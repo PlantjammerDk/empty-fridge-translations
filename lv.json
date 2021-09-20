@@ -135,5 +135,15 @@
     "buyOnAmazonFresh": "",
     "back": "",
     "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Dinamisko recepšu meklēšana",
+    "creatingRecipe": "Izvēlieties recepti, lai to personalizētu",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": ""
   }
 }

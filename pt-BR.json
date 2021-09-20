@@ -135,5 +135,15 @@
     "buyOnAmazonFresh": "",
     "back": "",
     "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Encontrar receitas dinâmicas",
+    "creatingRecipe": "Escolha a receita para personalizá-la",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": ""
   }
 }

@@ -135,5 +135,15 @@
     "buyOnAmazonFresh": "",
     "back": "",
     "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Dünaamiliste retseptide leidmine",
+    "creatingRecipe": "Valige retsept, et seda isikupärastada",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": ""
   }
 }

@@ -135,5 +135,15 @@
     "buyOnAmazonFresh": "Køb på Amazon Fresh",
     "back": "Tilbage til opskrift",
     "shopIngredients": "Køb ingredienser"
+  },
+  "animations": {
+    "scanningIngredients": "Finder dynamiske opskrifter",
+    "creatingRecipe": "Vælg opskrift for at personalisere den",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": ""
   }
 }

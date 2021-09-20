@@ -65,9 +65,9 @@
     "dishType": "Gerichtart",
     "cuisine": "Region",
     "diet": "Ernährung",
-    "type": "",
+    "type": "Gericht",
     "quick": "Unter 20 Min",
-    "occasion": ""
+    "occasion": "Gerichtart"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Verfeinere dein Rezept",
@@ -135,5 +135,15 @@
     "buyOnAmazonFresh": "Kaufe über Amazon Fresh",
     "back": "Zurück zum Rezept",
     "shopIngredients": "Zutaten kaufen"
+  },
+  "animations": {
+    "scanningIngredients": "Dynamische Rezepte finden",
+    "creatingRecipe": "Wähle ein Rezept, um es zu personalisieren",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": ""
   }
 }
