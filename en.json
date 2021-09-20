@@ -138,6 +138,7 @@
   },
   "animations": {
     "scanningIngredients": "Matching dynamic recipes",
+    "scanningIngredients1": "Scanning ingredients",
     "creatingRecipe": "Choose recipe to personalize it",
     "findingSubstitutes": "Finding substitutes",
     "ratingSubstitutes ": "Rating substitutes",
