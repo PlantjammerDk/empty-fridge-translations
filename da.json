@@ -62,10 +62,10 @@
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov",
-    "dishType": "Type ret",
+    "dishType": "Rettype",
     "cuisine": "Region",
     "diet": "Kost",
-    "type": "",
+    "type": "Rettype",
     "quick": "Under 20 min",
     "occasion": ""
   },

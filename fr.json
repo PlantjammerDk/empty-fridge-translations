@@ -65,7 +65,7 @@
     "dishType": "Type de plat",
     "cuisine": "Région",
     "diet": "Régime",
-    "type": "",
+    "type": "Type de plat",
     "quick": "Moins de 20 min",
     "occasion": ""
   },
