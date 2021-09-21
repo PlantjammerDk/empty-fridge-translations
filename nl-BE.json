@@ -137,13 +137,13 @@
     "shopIngredients": "Shop ingrediënten"
   },
   "animations": {
-    "scanningIngredients": "",
-    "creatingRecipe": "",
-    "findingSubstitutes": "",
-    "ratingSubstitutes ": "",
-    "findingFlavors": "",
-    "findingNewRecipes": "",
-    "preparingRecipe": "",
-    "creatingImg": ""
+    "scanningIngredients": "Dynamische recepten aan het zoeken",
+    "creatingRecipe": "Aan het sorteren op populariteit",
+    "findingSubstitutes": "Vervangproducten aan het zoeken",
+    "ratingSubstitutes ": "Vervangproducten aan het beoordelen",
+    "findingFlavors": "Nieuwe smaken aan het zoeken",
+    "findingNewRecipes": "Nieuwe recepten aan het zoeken",
+    "preparingRecipe": "Recept aan het voorbereiden",
+    "creatingImg": "Recept afbeelding aan het creëren"
   }
 }

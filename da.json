@@ -64,10 +64,10 @@
     "header": "Ændr opskrift til dit behov",
     "dishType": "Rettype",
     "cuisine": "Region",
-    "diet": "Kost",
+    "diet": "Ernæring",
     "type": "Rettype",
     "quick": "Under 20 min",
-    "occasion": ""
+    "occasion": "Anledning"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Tilføj flere ingredienser",

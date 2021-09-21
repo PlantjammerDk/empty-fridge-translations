@@ -67,7 +67,7 @@
     "diet": "Régime",
     "type": "Type de plat",
     "quick": "Moins de 20 min",
-    "occasion": ""
+    "occasion": "Occasion"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Ajouter plus de saveurs",

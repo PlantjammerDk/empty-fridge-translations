@@ -64,10 +64,10 @@
     "header": "Pridėti filtrą",
     "dishType": "Patiekalo tipas",
     "cuisine": "Regionas",
-    "diet": "Speciali dieta",
+    "diet": "Dieta",
     "type": "Patiekalo tipas",
     "quick": "Iki 20 min.",
-    "occasion": ""
+    "occasion": "Proga"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pridėkite daugiau ingredientų",

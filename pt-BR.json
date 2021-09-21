@@ -64,10 +64,10 @@
     "header": "Adicionar filtro",
     "dishType": "",
     "cuisine": "",
-    "diet": "",
+    "diet": "Dieta",
     "type": "",
     "quick": "",
-    "occasion": ""
+    "occasion": "Ocasión"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Adicionar mais sabor",
