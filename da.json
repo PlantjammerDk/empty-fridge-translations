@@ -138,7 +138,7 @@
   },
   "animations": {
     "scanningIngredients": "Finder dynamiske opskrifter",
-    "creatingRecipe": "Vælg opskrift for at personalisere den",
+    "creatingRecipe": "Sortering efter popularitet",
     "findingSubstitutes": "",
     "ratingSubstitutes ": "",
     "findingFlavors": "",

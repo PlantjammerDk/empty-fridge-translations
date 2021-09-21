@@ -138,7 +138,7 @@
   },
   "animations": {
     "scanningIngredients": "Encontrar receitas dinâmicas",
-    "creatingRecipe": "Escolha a receita para personalizá-la",
+    "creatingRecipe": "Ordenar pela popularidade",
     "findingSubstitutes": "",
     "ratingSubstitutes ": "",
     "findingFlavors": "",

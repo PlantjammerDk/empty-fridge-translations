@@ -138,7 +138,7 @@
   },
   "animations": {
     "scanningIngredients": "Dünaamiliste retseptide leidmine",
-    "creatingRecipe": "Valige retsept, et seda isikupärastada",
+    "creatingRecipe": "Sorteerimine populaarsuse järgi",
     "findingSubstitutes": "",
     "ratingSubstitutes ": "",
     "findingFlavors": "",

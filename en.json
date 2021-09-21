@@ -137,8 +137,8 @@
     "shopIngredients": "Shop ingredients"
   },
   "animations": {
-    "scanningIngredients": "Matching dynamic recipes",
-    "creatingRecipe": "Choose recipe to personalize it",
+    "scanningIngredients": "Finding dynamic recipes",
+    "creatingRecipe": "Sorting by popularity",
     "findingSubstitutes": "Finding substitutes",
     "ratingSubstitutes ": "Rating substitutes",
     "findingFlavors": "Finding new flavours",
