@@ -145,6 +145,7 @@
     "findingFlavors": "Finding new flavours",
     "findingNewRecipes": "Finding new recipes",
     "preparingRecipe": "Preparing recipe",
-    "creatingImg": "Creating recipe image"
+    "creatingImg": "Creating recipe image",
+    "scanningIngredients1": "Scanning ingredients"
   }
 }
