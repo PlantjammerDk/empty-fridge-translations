@@ -19,7 +19,8 @@
     "noRecipeFound": "Sorry, wir konnten kein Rezept finden. Versuche eine weitere Zutat hinzuzufügen. ",
     "share": "Rezept teilen",
     "shareResult": "Link in Zwischenablage kopiert",
-    "fullscreenMode": "Versuche Vollbildmodus"
+    "fullscreenMode": "Versuche Vollbildmodus",
+    "addMore": "Suche weitere"
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -143,7 +144,7 @@
     "ratingSubstitutes ": "",
     "findingFlavors": "",
     "findingNewRecipes": "",
-    "preparingRecipe": "",
+    "preparingRecipe": "Rezeptvorbereitung",
     "creatingImg": ""
   }
 }
