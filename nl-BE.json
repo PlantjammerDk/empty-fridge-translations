@@ -19,7 +19,8 @@
     "noRecipeFound": "Sorry, geen recepten gevonden. Probeer een extra ingrediënt toe te voegen.",
     "share": "Deel",
     "shareResult": "Link gekopieerd naar klembord",
-    "fullscreenMode": "Probeer volledige scherm modus"
+    "fullscreenMode": "Probeer volledige scherm modus",
+    "addMore": ""
   },
   "recipeCard": {
     "seeMore": "Sneak peek",

@@ -19,7 +19,8 @@
     "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
     "share": "Del",
     "shareResult": "",
-    "fullscreenMode": "Prøv i fuldskærm"
+    "fullscreenMode": "Prøv i fuldskærm",
+    "addMore": "Tilføj"
   },
   "recipeCard": {
     "seeMore": "Se mere",
@@ -139,11 +140,11 @@
   "animations": {
     "scanningIngredients": "Finder dynamiske opskrifter",
     "creatingRecipe": "Sortering efter popularitet",
-    "findingSubstitutes": "",
+    "findingSubstitutes": "Finder substitutter",
     "ratingSubstitutes ": "",
     "findingFlavors": "",
     "findingNewRecipes": "",
-    "preparingRecipe": "",
+    "preparingRecipe": "Forbereder opskrift",
     "creatingImg": ""
   }
 }

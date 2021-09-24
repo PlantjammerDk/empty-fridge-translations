@@ -19,7 +19,8 @@
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
     "share": "Compartir",
     "shareResult": "",
-    "fullscreenMode": "Pruebe con pantalla completa"
+    "fullscreenMode": "Pruebe con pantalla completa",
+    "addMore": "Añadir más"
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -143,7 +144,7 @@
     "ratingSubstitutes ": "",
     "findingFlavors": "",
     "findingNewRecipes": "",
-    "preparingRecipe": "",
+    "preparingRecipe": "Preparando la receta ",
     "creatingImg": ""
   }
 }
