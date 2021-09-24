@@ -19,7 +19,8 @@
     "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient.",
     "share": "Share",
     "shareResult": "Link copied to clipboard",
-    "fullscreenMode": "Try fullscreen mode"
+    "fullscreenMode": "Try fullscreen mode",
+    "addMore": "Add more"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -112,7 +113,7 @@
     "yourFeedback": "We appreciate your feedback",
     "whatData": "What exactly do you track?",
     "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)",
-    "feedbackButton": "Leave feedback"
+    "feedbackButton": "Feedback"
   },
   "filters": {
     "sweet": "Sweet",
