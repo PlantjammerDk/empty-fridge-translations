@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Recomendamos utilizar como máximo dos frutas.",
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
     "share": "Compartir",
-    "shareResult": "",
+    "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Pruebe con pantalla completa",
     "addMore": "Añadir más"
   },
@@ -56,10 +56,10 @@
     "stepUrl": "clic aquí"
   },
   "saveRecipe": {
-    "unique": "",
-    "flavourMatches": "",
-    "qrCodeText": "",
-    "preparingImage": ""
+    "unique": "Your unique",
+    "flavourMatches": "Flavour matches",
+    "qrCodeText": "You created this unique recipe. Use the QR code to create more recipes to empty your fridge.",
+    "preparingImage": "Preparing recipe to download"
   },
   "filtersOverlay": {
     "header": "Añadir filtro",
@@ -67,8 +67,9 @@
     "cuisine": "Región",
     "diet": "Dieta",
     "type": "Tipo de plato",
-    "quick": "Menos de 20 min",
-    "occasion": "Ocasión"
+    "lessMinutes": "Under 20 Min",
+    "occasion": "Ocasión",
+    "quick": "Menos de 20 min"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Añadir más sabores",
@@ -81,8 +82,8 @@
     "tooltip": "Obtener nuevas combinaciones de sabores para tus nuevos ingredientes",
     "whatIsMatchShort": "¿Qué es una combinación?",
     "whatIsMatchLong": "¿Qué son las combinaciones de ingredientes?",
-    "whatIsMatchTextShort": "",
-    "whatIsMatchTextLong": "",
+    "whatIsMatchTextShort": "Ingredient matches are ingredients that fit well with the other selected ingredients to make a great tasting dish.",
+    "whatIsMatchTextLong": "The ingredient matches are proposed by our artificial intelligence, which has learned from millions of recipes what fits well together and what doesn’t. The best matches are always shown first.",
     "added": "añadió"
   },
   "substitutionOverlay": {
@@ -94,16 +95,16 @@
     "consentHeder": "Ayúdanos a entrenar la IA de las recetas",
     "consentText": "Utilizamos cookies estadísticas para recopilar datos anónimos con el fin de mejorar los resultados de las recetas. Consulta nuestra Política de cookies.",
     "consentTextAldi": "No capturamos ninguno de tus datos personales. Si tienes alguna pregunta o comentario sobre los datos personales, ponte en contacto con la empresa propietaria de la App: Plant Jammer.",
-    "typeformText": "",
+    "typeformText": "Want to get in touch with the people behind this app?",
     "dataPrivacytAldi": "Privacidad de los datos",
     "impressumAldi": "Autoría",
     "checkHere": "Política de Privacidad",
     "npsLikely": "Muy probable",
     "npsNotLikely": "Poco probable",
     "skip": "Saltar",
-    "no": "",
+    "no": "No, thanks",
     "submit": "Enviar",
-    "sure": "",
+    "sure": "Sure!",
     "accept": "Aceptar",
     "reject": "Rechazar",
     "npsQuestion": "¿Qué probabilidad hay de que recomiendes esta herramienta a un amigo o colega?",
@@ -130,21 +131,22 @@
     "diabetic": "Diabéticos"
   },
   "shoppingList": {
-    "shoppingList": "",
-    "items": "",
-    "youMightHave": "",
-    "buyOnAmazonFresh": "",
-    "back": "",
-    "shopIngredients": ""
+    "shoppingList": "Shopping List",
+    "items": "items",
+    "youMightHave": "You might have this at home",
+    "buyOnAmazonFresh": "Buy on Amazon Fresh",
+    "back": "Back to recipe",
+    "shopIngredients": "Shop ingredients"
   },
   "animations": {
     "scanningIngredients": "Buscar recetas dinámicas",
     "creatingRecipe": "Ordenar por popularidad",
-    "findingSubstitutes": "",
-    "ratingSubstitutes ": "",
-    "findingFlavors": "",
-    "findingNewRecipes": "",
+    "findingSubstitutes": "Finding substitutes",
+    "ratingSubstitutes ": "Rating substitutes",
+    "findingFlavors": "Finding new flavours",
+    "findingNewRecipes": "Finding new recipes",
     "preparingRecipe": "Preparando la receta ",
-    "creatingImg": ""
+    "creatingImg": "Creating recipe image",
+    "scanningIngredients1": "Scanning ingredients"
   }
 }

@@ -3,24 +3,24 @@
     "done": "Ieškoti receptų",
     "header1": "Pasirink ingredientus, iš kurių nori gaminti",
     "header2": "Pasirinkti receptą",
-    "headerOetker1": "",
+    "headerOetker1": "Select fruits",
     "headerOetker2": "Pasirinkti receptą",
     "headerTitle": "Gaminu, neišmetu",
-    "headerTitleOetker": "",
+    "headerTitleOetker": "Let's make jam",
     "selectedIngredients": "Pasirinkti ingredientai",
     "search": "Ingredientų paieška",
     "searchMore": "Ieškok daugiau ingredientų",
     "showMore": "Rodyti daugiau receptų",
     "searchRecipes": "Ieškoma receptų",
     "popularIngredients": "Populiarūs ingredientai",
-    "errorGeneral": "",
-    "errorNoIngredients": "",
-    "selectTwoIngredients": "",
-    "noRecipeFound": "",
+    "errorGeneral": "Something went wrong. Try again later.",
+    "errorNoIngredients": "Ingredient is not found",
+    "selectTwoIngredients": "We recommend using max two fruits.",
+    "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient.",
     "share": "Dalintis",
-    "shareResult": "",
+    "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Išbandykite visą ekraną",
-    "addMore": ""
+    "addMore": "Add more"
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -34,7 +34,7 @@
     "all": "visi",
     "yourIngredients": "ingredientai",
     "allIngredients": "visi ingredientai",
-    "or": "",
+    "or": "OR",
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
     "seeInstructions": "Žr. receptą",
@@ -53,7 +53,7 @@
     "matchOk": "Gerai tinka ",
     "matchBrave": "Tinka",
     "ingredients": "ingredientai",
-    "stepUrl": ""
+    "stepUrl": "click here"
   },
   "saveRecipe": {
     "unique": "Jūsų unikalus receptas",
@@ -67,8 +67,9 @@
     "cuisine": "Regionas",
     "diet": "Dieta",
     "type": "Patiekalo tipas",
-    "quick": "Iki 20 min.",
-    "occasion": "Proga"
+    "lessMinutes": "Under 20 Min",
+    "occasion": "Proga",
+    "quick": "Iki 20 min."
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pridėkite daugiau ingredientų",
@@ -93,17 +94,17 @@
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
     "consentText": "Mes naudojame statistinius slapukus anonimiškiems duomenims rinkti, kad pagerintume receptų rezultatus. Čia galite peržiūrėti mūsų slapukų politiką.",
-    "consentTextAldi": "",
-    "typeformText": "",
-    "dataPrivacytAldi": "",
-    "impressumAldi": "",
+    "consentTextAldi": "We do not capture any of your data. If you have any questions or comments about the data, reach out to the startup behind this app: Plant Jammer.",
+    "typeformText": "Want to get in touch with the people behind this app?",
+    "dataPrivacytAldi": "Data privacy",
+    "impressumAldi": "Imprint",
     "checkHere": "Čia",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",
-    "no": "",
+    "no": "No, thanks",
     "submit": "Pateikti",
-    "sure": "",
+    "sure": "Sure!",
     "accept": "Sutikti",
     "reject": "Nesutikti",
     "npsQuestion": "Ar rekomenduotum šį įrankį savo draugui ar kolegai?",
@@ -116,11 +117,11 @@
     "feedbackButton": "pateikite savo atsiliepimus"
   },
   "filters": {
-    "sweet": "",
-    "fruity": "",
-    "superFruity": "",
-    "jam": "",
-    "jelly": "",
+    "sweet": "Sweet",
+    "fruity": "Fruity",
+    "superFruity": "Super Fruity",
+    "jam": "Jam",
+    "jelly": "Jelly",
     "vegan": "Veganas",
     "vegeterian": "Vegetaras",
     "lactoseFree": "Be laktozės",
@@ -130,21 +131,22 @@
     "diabetic": "diabetikas"
   },
   "shoppingList": {
-    "shoppingList": "",
-    "items": "",
-    "youMightHave": "",
-    "buyOnAmazonFresh": "",
-    "back": "",
-    "shopIngredients": ""
+    "shoppingList": "Shopping List",
+    "items": "items",
+    "youMightHave": "You might have this at home",
+    "buyOnAmazonFresh": "Buy on Amazon Fresh",
+    "back": "Back to recipe",
+    "shopIngredients": "Shop ingredients"
   },
   "animations": {
     "scanningIngredients": "Dinaminių receptų paieška",
     "creatingRecipe": "Rūšiavimas pagal populiarumą",
-    "findingSubstitutes": "",
-    "ratingSubstitutes ": "",
-    "findingFlavors": "",
-    "findingNewRecipes": "",
-    "preparingRecipe": "",
-    "creatingImg": ""
+    "findingSubstitutes": "Finding substitutes",
+    "ratingSubstitutes ": "Rating substitutes",
+    "findingFlavors": "Finding new flavours",
+    "findingNewRecipes": "Finding new recipes",
+    "preparingRecipe": "Preparing recipe",
+    "creatingImg": "Creating recipe image",
+    "scanningIngredients1": "Scanning ingredients"
   }
 }

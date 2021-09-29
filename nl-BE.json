@@ -67,8 +67,9 @@
     "cuisine": "Regio",
     "diet": "Dieet",
     "type": "Type gerecht",
-    "quick": "Minder dan 20 minuten",
-    "occasion": "Gelegenheid"
+    "lessMinutes": "",
+    "occasion": "Gelegenheid",
+    "quick": "Minder dan 20 minuten"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Voeg meer smaak toe",
@@ -145,6 +146,7 @@
     "findingFlavors": "Nieuwe smaken aan het zoeken",
     "findingNewRecipes": "Nieuwe recepten aan het zoeken",
     "preparingRecipe": "Recept aan het voorbereiden",
-    "creatingImg": "Recept afbeelding aan het creëren"
+    "creatingImg": "Recept afbeelding aan het creëren",
+    "scanningIngredients1": ""
   }
 }

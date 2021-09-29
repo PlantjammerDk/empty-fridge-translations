@@ -12,7 +12,7 @@
     "searchMore": "Add more ingredients",
     "showMore": "Show more recipes",
     "searchRecipes": "Creating recipes with your ingredients",
-    "popularIngredients": "Pick ingredients",
+    "popularIngredients": "Popular ingredients",
     "errorGeneral": "Something went wrong. Try again later.",
     "errorNoIngredients": "Ingredient is not found",
     "selectTwoIngredients": "We recommend using max two fruits.",
@@ -67,8 +67,9 @@
     "cuisine": "Region",
     "diet": "Diet",
     "type": "Dish Type",
-    "quick": "Under 20 Min",
-    "occasion": "Occasion"
+    "lessMinutes": "",
+    "occasion": "Occasion",
+    "quick": "Under 20 Min"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add more flavor",
