@@ -12,7 +12,7 @@
     "searchMore": "Suche weitere Zutaten",
     "showMore": "Mehr Rezepte",
     "searchRecipes": "Erstellung von Rezepten mit ausgewählten Zutaten",
-    "popularIngredients": "Beliebte Zutaten",
+    "popularIngredients": "Vorgeschlagene Zutaten",
     "errorGeneral": "Da ging etwas schief. Versuche es später nochmal.",
     "errorNoIngredients": "Zutat nicht gefunden",
     "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen.",
@@ -67,7 +67,7 @@
     "cuisine": "Region",
     "diet": "Ernährung",
     "type": "Gerichtart",
-    "lessMinutes": "Under 20 Min",
+    "lessMinutes": "",
     "occasion": "Gelegenheit",
     "quick": "Unter 20 Min"
   },
@@ -141,12 +141,12 @@
   "animations": {
     "scanningIngredients": "Dynamische Rezepte finden",
     "creatingRecipe": "Sortieren nach Popularität",
-    "findingSubstitutes": "Finding substitutes",
-    "ratingSubstitutes ": "Rating substitutes",
-    "findingFlavors": "Finding new flavours",
-    "findingNewRecipes": "Finding new recipes",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
     "preparingRecipe": "Rezeptvorbereitung",
-    "creatingImg": "Creating recipe image",
-    "scanningIngredients1": "Scanning ingredients"
+    "creatingImg": "",
+    "scanningIngredients1": ""
   }
 }
