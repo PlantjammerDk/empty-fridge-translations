@@ -18,7 +18,7 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Kopīgojiet",
-    "shareResult": "",
+    "shareResult": "Kopēta saite",
     "fullscreenMode": "Izmēģiniet pilnekrāna režīmu",
     "addMore": ""
   },
@@ -67,9 +67,9 @@
     "cuisine": "Reģions",
     "diet": "Uzturs",
     "type": "Trauku tips",
-    "lessMinutes": "",
+    "lessMinutes": "Līdz 20 min.",
     "occasion": "Gadījums",
-    "quick": "Līdz 20 min."
+    "quick": "Ātri"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Meklēt vairāk sastāvdaļas",

@@ -18,7 +18,7 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Dalintis",
-    "shareResult": "",
+    "shareResult": "Nukopijuota nuoroda",
     "fullscreenMode": "Išbandykite visą ekraną",
     "addMore": ""
   },
@@ -67,9 +67,9 @@
     "cuisine": "Regionas",
     "diet": "Dieta",
     "type": "Patiekalo tipas",
-    "lessMinutes": "",
+    "lessMinutes": "Iki 20 min.",
     "occasion": "Proga",
-    "quick": "Iki 20 min."
+    "quick": "Greita"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pridėkite daugiau ingredientų",

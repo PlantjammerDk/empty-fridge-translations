@@ -67,9 +67,9 @@
     "cuisine": "Region",
     "diet": "Ernährung",
     "type": "Gerichtart",
-    "lessMinutes": "",
+    "lessMinutes": "Unter 20 Min",
     "occasion": "Gelegenheit",
-    "quick": "Unter 20 Min"
+    "quick": "Schnell"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Verfeinere dein Rezept",
@@ -114,7 +114,7 @@
     "yourFeedback": "Wir freuen uns über dein Feedback",
     "whatData": "Was genau speichert ihr?",
     "trackExplain": "Wir speichern anonymisierte Daten, statistische Daten darüber welche Zutaten, Rezepte und Filter wie häufig geklickt werden.",
-    "feedbackButton": "Gib dein Feedback"
+    "feedbackButton": "Feedback"
   },
   "filters": {
     "sweet": "Süß",
@@ -140,13 +140,13 @@
   },
   "animations": {
     "scanningIngredients": "Dynamische Rezepte finden",
-    "creatingRecipe": "Sortieren nach Popularität",
-    "findingSubstitutes": "",
-    "ratingSubstitutes ": "",
-    "findingFlavors": "",
-    "findingNewRecipes": "",
-    "preparingRecipe": "Rezeptvorbereitung",
-    "creatingImg": "",
-    "scanningIngredients1": ""
+    "creatingRecipe": "Nach Beliebtheit sortieren",
+    "findingSubstitutes": "Alternativen suchen",
+    "ratingSubstitutes ": "Alternativen bewerten",
+    "findingFlavors": "Suche passende Zutaten",
+    "findingNewRecipes": "Suche neue Rezepte",
+    "preparingRecipe": "Rezept erstellen",
+    "creatingImg": "Rezeptbild erstellen",
+    "scanningIngredients1": "Zutaten scannen"
   }
 }

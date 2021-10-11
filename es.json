@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Recomendamos utilizar como máximo dos frutas.",
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
     "share": "Compartir",
-    "shareResult": "",
+    "shareResult": "Enlace copiado en el portapapeles",
     "fullscreenMode": "Pruebe con pantalla completa",
     "addMore": "Añadir más"
   },
@@ -67,9 +67,9 @@
     "cuisine": "Región",
     "diet": "Dieta",
     "type": "Tipo de plato",
-    "lessMinutes": "",
+    "lessMinutes": "Menos de 20 min",
     "occasion": "Ocasión",
-    "quick": "Menos de 20 min"
+    "quick": "Rápido"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Añadir más sabores",

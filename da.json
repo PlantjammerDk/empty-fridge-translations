@@ -18,7 +18,7 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
     "share": "Del",
-    "shareResult": "",
+    "shareResult": "Link kopieret til udklipsholderen",
     "fullscreenMode": "Prøv i fuldskærm",
     "addMore": "Tilføj"
   },
@@ -67,9 +67,9 @@
     "cuisine": "Region",
     "diet": "Ernæring",
     "type": "Rettype",
-    "lessMinutes": "",
+    "lessMinutes": "Under 20 min",
     "occasion": "Anledning",
-    "quick": "Under 20 min"
+    "quick": "Hurtigt"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Tilføj flere ingredienser",
@@ -142,11 +142,11 @@
     "scanningIngredients": "Finder dynamiske opskrifter",
     "creatingRecipe": "Sortering efter popularitet",
     "findingSubstitutes": "Finder substitutter",
-    "ratingSubstitutes ": "",
-    "findingFlavors": "",
-    "findingNewRecipes": "",
+    "ratingSubstitutes ": "Vurdering af substitutter",
+    "findingFlavors": "Finde nye ingredienser",
+    "findingNewRecipes": "Finde nye opskrifter",
     "preparingRecipe": "Forbereder opskrift",
-    "creatingImg": "",
-    "scanningIngredients1": ""
+    "creatingImg": "Oprettelse af opskriftsbillede",
+    "scanningIngredients1": "Scanning af ingredienser"
   }
 }

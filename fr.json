@@ -67,7 +67,7 @@
     "cuisine": "Région",
     "diet": "Régime",
     "type": "Type de plat",
-    "lessMinutes": "",
+    "lessMinutes": "Moins de 20 min",
     "occasion": "Occasion",
     "quick": "Moins de 20 min"
   },

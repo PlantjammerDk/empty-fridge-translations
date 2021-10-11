@@ -18,7 +18,7 @@
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Jaga",
-    "shareResult": "",
+    "shareResult": "Link kopeeritud",
     "fullscreenMode": "Proovige täisekraani",
     "addMore": ""
   },
@@ -67,9 +67,9 @@
     "cuisine": "Piirkond",
     "diet": "Toitumine",
     "type": "Taldrikutüüp",
-    "lessMinutes": "",
+    "lessMinutes": "Alla 20 min",
     "occasion": "Võimalus",
-    "quick": "Alla 20 min"
+    "quick": "Kiire"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Lisage veel koostisosi",
