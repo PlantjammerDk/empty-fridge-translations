@@ -20,7 +20,8 @@
     "share": "Share",
     "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Try fullscreen mode",
-    "addMore": "Add more"
+    "addMore": "Add more",
+    "limitIngredients": "The AI works best when searching with less than 6 ingredients"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -89,7 +90,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": " The artificial intelligence is finding substitutes",
     "swapped": "swapped",
-    "swap": "Swap"
+    "swap": "Swap",
+    "removeIngredient": "Remove ingredient"
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
@@ -114,7 +116,9 @@
     "yourFeedback": "We appreciate your feedback",
     "whatData": "What exactly do you track?",
     "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)",
-    "feedbackButton": "Feedback"
+    "feedbackButton": "Feedback",
+    "fullscreenButton": "Open in fullscreen",
+    "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
   },
   "filters": {
     "sweet": "Sweet",
