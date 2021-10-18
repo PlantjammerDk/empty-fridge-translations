@@ -20,7 +20,8 @@
     "share": "Partager",
     "shareResult": "Lien copié dans le presse-papiers",
     "fullscreenMode": "",
-    "addMore": "Ajouter"
+    "addMore": "Ajouter",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -59,7 +60,8 @@
     "unique": "",
     "flavourMatches": "",
     "qrCodeText": "",
-    "preparingImage": ""
+    "preparingImage": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "L'intelligence artificielle trouve des substituts",
     "swapped": "échangé",
-    "swap": "Échanger"
+    "swap": "Échanger",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Aidez-nous à former l'IA des recettes",
@@ -114,7 +117,9 @@
     "yourFeedback": "Nous apprécions vos commentaires",
     "whatData": "Que suivez-vous exactement ?",
     "trackExplain": "Nous suivons des données statistiques sur vos sélections des éléments suivants : ingrédients, recettes et filtres (tels que les régimes ou la cuisine)",
-    "feedbackButton": "Laisser un commentaire"
+    "feedbackButton": "Laisser un commentaire",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "Sucré",

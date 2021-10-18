@@ -20,7 +20,8 @@
     "share": "",
     "shareResult": "",
     "fullscreenMode": "",
-    "addMore": ""
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -59,7 +60,8 @@
     "unique": "",
     "flavourMatches": "",
     "qrCodeText": "",
-    "preparingImage": ""
+    "preparingImage": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "",
     "swapped": "",
-    "swap": ""
+    "swap": "",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "",
@@ -114,7 +117,9 @@
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": "",
-    "feedbackButton": ""
+    "feedbackButton": "",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",

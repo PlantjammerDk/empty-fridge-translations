@@ -20,7 +20,8 @@
     "share": "Deel",
     "shareResult": "Link gekopieerd naar klembord",
     "fullscreenMode": "Probeer volledige scherm modus",
-    "addMore": ""
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -59,7 +60,8 @@
     "unique": "Jouw unieke",
     "flavourMatches": "Smaak matches",
     "qrCodeText": "Je hebt dit uniek recept gecreëerd. Gebruik de QR code om meer recepten te creëren om je koelkast te legen.",
-    "preparingImage": "Recept aan het voorbereiden voor downloaden"
+    "preparingImage": "Recept aan het voorbereiden voor downloaden",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Voeg filter toe",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "De artificiële intelligentie is vervangproducten aan het zoeken",
     "swapped": "ingewisseld",
-    "swap": "Inwisselen"
+    "swap": "Inwisselen",
+    "removeIngredient": "Ingrediënt verwijderen"
   },
   "survey": {
     "consentHeder": "Help ons om de recept AI te trainen",
@@ -114,7 +117,9 @@
     "yourFeedback": "We waarderen je feedback!",
     "whatData": "Wat houdt je precies bij?",
     "trackExplain": "Wij houden statistische data bij van jouw selecties van volgende zaken: ingrediënten, recepten en filters (zoals dieet of keuken)",
-    "feedbackButton": "Laat feedback achter"
+    "feedbackButton": "Geef feedback",
+    "fullscreenButton": "Openen in vol scherm",
+    "fullscreenText": "De gebruikerservaring is nog beter in volledige schermmodus. Wil je het uitproberen?"
   },
   "filters": {
     "sweet": "Zoet",
@@ -147,6 +152,6 @@
     "findingNewRecipes": "Nieuwe recepten aan het zoeken",
     "preparingRecipe": "Recept aan het voorbereiden",
     "creatingImg": "Recept afbeelding aan het creëren",
-    "scanningIngredients1": ""
+    "scanningIngredients1": "Ingrediënten scannen"
   }
 }

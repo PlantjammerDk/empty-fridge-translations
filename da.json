@@ -20,7 +20,8 @@
     "share": "Del",
     "shareResult": "Link kopieret til udklipsholderen",
     "fullscreenMode": "Prøv i fuldskærm",
-    "addMore": "Tilføj"
+    "addMore": "Tilføj",
+    "limitIngredients": "Tip: AI fungerer bedst med 2-5 ingredienser"
   },
   "recipeCard": {
     "seeMore": "Se mere",
@@ -59,7 +60,8 @@
     "unique": "Din unikke",
     "flavourMatches": "Flere ingredienser der matcher",
     "qrCodeText": "Du har skabt denne unikke opskrift. Brug QR-koden til at lave flere opskrifter, så du kan tømme dit køleskab.",
-    "preparingImage": "Forberedelse af opskrift til download"
+    "preparingImage": "Forberedelse af opskrift til download",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "Den kunstige intelligens finder substituter",
     "swapped": "byttet",
-    "swap": "Byt"
+    "swap": "Byt",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Hjælp os med at træne vores AI",
@@ -114,7 +117,9 @@
     "yourFeedback": "Vi sætter pris på din feedback.",
     "whatData": "Hvad tracker I?",
     "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger.",
-    "feedbackButton": "Giv din feedback"
+    "feedbackButton": "Giv din feedback",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",

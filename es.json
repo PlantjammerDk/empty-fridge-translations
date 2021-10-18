@@ -20,7 +20,8 @@
     "share": "Compartir",
     "shareResult": "Enlace copiado en el portapapeles",
     "fullscreenMode": "Pruebe con pantalla completa",
-    "addMore": "Añadir más"
+    "addMore": "Añadir más",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -59,7 +60,8 @@
     "unique": "",
     "flavourMatches": "",
     "qrCodeText": "",
-    "preparingImage": ""
+    "preparingImage": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Añadir filtro",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": " La inteligencia artificial está encontrando sustitutos",
     "swapped": "cambiado",
-    "swap": "Cambiar"
+    "swap": "Cambiar",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Ayúdanos a entrenar la IA de las recetas",
@@ -114,7 +117,9 @@
     "yourFeedback": "Agradecemos sus comentarios",
     "whatData": "¿Qué es exactamente lo que rastrea?",
     "trackExplain": "Hacemos un seguimiento de los datos estadísticos sobre tus selecciones de los siguientes elementos: ingredientes, recetas y filtros (como dietas o cocina)",
-    "feedbackButton": "Dejar un comentario"
+    "feedbackButton": "Dejar un comentario",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "Dulce",

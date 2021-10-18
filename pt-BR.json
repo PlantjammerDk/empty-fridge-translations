@@ -20,7 +20,8 @@
     "share": "",
     "shareResult": "",
     "fullscreenMode": "",
-    "addMore": ""
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -59,7 +60,8 @@
     "unique": "",
     "flavourMatches": "",
     "qrCodeText": "",
-    "preparingImage": ""
+    "preparingImage": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Adicionar filtro",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "",
     "swapped": "Mudado",
-    "swap": "Mudar"
+    "swap": "Mudar",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "",
@@ -114,7 +117,9 @@
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": "",
-    "feedbackButton": "Dar feedback"
+    "feedbackButton": "Dar feedback",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",

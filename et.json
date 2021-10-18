@@ -20,7 +20,8 @@
     "share": "Jaga",
     "shareResult": "Link kopeeritud",
     "fullscreenMode": "Proovige täisekraani",
-    "addMore": ""
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -59,7 +60,8 @@
     "unique": "Teie unikaalne retsept",
     "flavourMatches": "Veel võimalikke koostisosi",
     "qrCodeText": "Sa lõid selle ainulaadse retsepti. Kasutage QR-koodi, et luua rohkem retsepte oma külmiku tühjendamiseks.\nJūs izveidojāt šo unikālo recepti. Izmantojiet QR kodu, lai radītu vairāk recepšu, kas iztukšos jūsu ledusskapi.",
-    "preparingImage": "Retsepti ettevalmistamine allalaadimiseks"
+    "preparingImage": "Retsepti ettevalmistamine allalaadimiseks",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Lisa filter",
@@ -89,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "Tehisintellekt leiab asendajaid",
     "swapped": "vahetatud",
-    "swap": "Vahetus"
+    "swap": "Vahetus",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
@@ -114,7 +117,9 @@
     "yourFeedback": "Me hindame sinu tagasisidet",
     "whatData": "Mida täpsemalt te jälgite?",
     "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)",
-    "feedbackButton": "Andke oma tagasiside"
+    "feedbackButton": "Andke oma tagasiside",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",
