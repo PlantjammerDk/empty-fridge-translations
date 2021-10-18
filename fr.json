@@ -12,14 +12,16 @@
     "searchMore": "Ajouter plus d'ingrédients",
     "showMore": "Afficher plus de recettes",
     "searchRecipes": "Créer des recettes avec vos ingrédients",
-    "popularIngredients": "Choisir les ingrédients",
+    "popularIngredients": "Ingrédients proposés",
     "errorGeneral": "Un problème est survenu. Essayez à nouveau plus tard.",
     "errorNoIngredients": "Ingrédient introuvable",
     "selectTwoIngredients": "Nous recommandons d'utiliser deux fruits maximum.",
     "noRecipeFound": "Désolé, aucune recette trouvée. Essayez d'ajouter un ingrédient supplémentaire.",
     "share": "Partager",
     "shareResult": "Lien copié dans le presse-papiers",
-    "fullscreenMode": ""
+    "fullscreenMode": "",
+    "addMore": "Ajouter",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -36,7 +38,7 @@
     "or": "OU",
     "mandatory": "Obligatoire",
     "swap": "Échanger",
-    "seeInstructions": "Voir les instructions",
+    "seeInstructions": "Voir la recette",
     "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs à votre recette",
     "loaderText": "Associer vos ingrédients avec des recettes",
     "loaderTextFilter": "Actualisation des filtres"
@@ -54,11 +56,21 @@
     "ingredients": "Ingrédients",
     "stepUrl": "cliquer ici"
   },
+  "saveRecipe": {
+    "unique": "",
+    "flavourMatches": "",
+    "qrCodeText": "",
+    "preparingImage": "",
+    "saveTooltip": ""
+  },
   "filtersOverlay": {
     "header": "Ajouter un filtre",
     "dishType": "Type de plat",
     "cuisine": "Région",
     "diet": "Régime",
+    "type": "Type de plat",
+    "lessMinutes": "Moins de 20 min",
+    "occasion": "Occasion",
     "quick": "Moins de 20 min"
   },
   "flavorOverlay": {
@@ -79,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "L'intelligence artificielle trouve des substituts",
     "swapped": "échangé",
-    "swap": "Échanger"
+    "swap": "Échanger",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Aidez-nous à former l'IA des recettes",
@@ -104,7 +117,9 @@
     "yourFeedback": "Nous apprécions vos commentaires",
     "whatData": "Que suivez-vous exactement ?",
     "trackExplain": "Nous suivons des données statistiques sur vos sélections des éléments suivants : ingrédients, recettes et filtres (tels que les régimes ou la cuisine)",
-    "feedbackButton": "Laisser un commentaire"
+    "feedbackButton": "Laisser un commentaire",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "Sucré",
@@ -119,5 +134,24 @@
     "nut-free": "Sans noix",
     "glutenFree": "Sans gluten",
     "diabetic": "Diabétique"
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Trouver des recettes dynamiques",
+    "creatingRecipe": "Tri par popularité",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "Préparation de recette",
+    "creatingImg": "",
+    "scanningIngredients1": ""
   }
 }

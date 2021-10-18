@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Encontrar receitas",
+    "done": "Encontrar receitas dinâmicas",
     "header1": "Escolha os ingredientes que você gosta",
     "header2": "Veja a receita",
     "headerOetker1": "",
@@ -12,14 +12,16 @@
     "searchMore": "Pesquise mais ingredientes",
     "showMore": "Mostre mais ingredientes",
     "searchRecipes": "Criando receitas com seus ingredientes",
-    "popularIngredients": "Escolha os ingredientes que você gosta",
+    "popularIngredients": "Ingredientes propostos",
     "errorGeneral": "",
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "",
     "shareResult": "",
-    "fullscreenMode": ""
+    "fullscreenMode": "",
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -54,11 +56,21 @@
     "ingredients": "Ingredients",
     "stepUrl": ""
   },
+  "saveRecipe": {
+    "unique": "",
+    "flavourMatches": "",
+    "qrCodeText": "",
+    "preparingImage": "",
+    "saveTooltip": ""
+  },
   "filtersOverlay": {
     "header": "Adicionar filtro",
     "dishType": "",
     "cuisine": "",
-    "diet": "",
+    "diet": "Dieta",
+    "type": "",
+    "lessMinutes": "",
+    "occasion": "Ocasión",
     "quick": ""
   },
   "flavorOverlay": {
@@ -79,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "",
     "swapped": "Mudado",
-    "swap": "Mudar"
+    "swap": "Mudar",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "",
@@ -104,7 +117,9 @@
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": "",
-    "feedbackButton": "Dar feedback"
+    "feedbackButton": "Dar feedback",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",
@@ -119,5 +134,24 @@
     "nut-free": "",
     "glutenFree": "",
     "diabetic": ""
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Encontrar receitas dinâmicas",
+    "creatingRecipe": "Ordenar pela popularidade",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": "",
+    "scanningIngredients1": ""
   }
 }

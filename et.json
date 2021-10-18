@@ -12,14 +12,16 @@
     "searchMore": "Otsi rohkem koostisosi",
     "showMore": "Näita rohkem retsepte",
     "searchRecipes": "Otsi retsepte",
-    "popularIngredients": "Populaarsed koostisosad",
+    "popularIngredients": "Kavandatud koostisained",
     "errorGeneral": "",
     "errorNoIngredients": "Koostisosa ei leitud",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Jaga",
-    "shareResult": "",
-    "fullscreenMode": "Proovige täisekraani"
+    "shareResult": "Link kopeeritud",
+    "fullscreenMode": "Proovige täisekraani",
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -36,7 +38,7 @@
     "or": "",
     "mandatory": "Kohustuslik",
     "swap": "Vahetus",
-    "seeInstructions": "Vaata juhiseid",
+    "seeInstructions": "Vaata retsepti",
     "tooltipOnNoAction": "Proovige vahetada koostisosi või lisada oma retseptile rohkem koostisosi.",
     "loaderText": "Koostisosade sobitamine retseptidega",
     "loaderTextFilter": "Filtrite uuendamine"
@@ -54,12 +56,22 @@
     "ingredients": "koostisosi",
     "stepUrl": ""
   },
+  "saveRecipe": {
+    "unique": "Teie unikaalne retsept",
+    "flavourMatches": "Veel võimalikke koostisosi",
+    "qrCodeText": "Sa lõid selle ainulaadse retsepti. Kasutage QR-koodi, et luua rohkem retsepte oma külmiku tühjendamiseks.\nJūs izveidojāt šo unikālo recepti. Izmantojiet QR kodu, lai radītu vairāk recepšu, kas iztukšos jūsu ledusskapi.",
+    "preparingImage": "Retsepti ettevalmistamine allalaadimiseks",
+    "saveTooltip": ""
+  },
   "filtersOverlay": {
     "header": "Lisa filter",
     "dishType": "Taldrikutüüp",
     "cuisine": "Piirkond",
     "diet": "Toitumine",
-    "quick": "Alla 20 min"
+    "type": "Taldrikutüüp",
+    "lessMinutes": "Alla 20 min",
+    "occasion": "Võimalus",
+    "quick": "Kiire"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Lisage veel koostisosi",
@@ -79,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "Tehisintellekt leiab asendajaid",
     "swapped": "vahetatud",
-    "swap": "Vahetus"
+    "swap": "Vahetus",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
@@ -104,7 +117,9 @@
     "yourFeedback": "Me hindame sinu tagasisidet",
     "whatData": "Mida täpsemalt te jälgite?",
     "trackExplain": "Me jälgime statistilisi andmeid sinu järgmiste valikute puhul: koostisosad, retseptid ja filtrid (nagu näiteks dieet või köök)",
-    "feedbackButton": "Andke oma tagasiside"
+    "feedbackButton": "Andke oma tagasiside",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",
@@ -119,5 +134,24 @@
     "nut-free": "Pähklivaba",
     "glutenFree": "Gluteenivaba",
     "diabetic": "diabeetik"
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Dünaamiliste retseptide leidmine",
+    "creatingRecipe": "Sorteerimine populaarsuse järgi",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": "",
+    "scanningIngredients1": ""
   }
 }

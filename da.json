@@ -1,6 +1,6 @@
 {
   "general": {
-    "done": "Find opskrifter",
+    "done": "Find dynamiske opskrifter",
     "header1": "Vælg dine ingredienser",
     "header2": "Vælg opskrift",
     "headerOetker1": "Vælg frugter",
@@ -12,14 +12,16 @@
     "searchMore": "Søg flere ingredienser",
     "showMore": "Vis flere opskrifter",
     "searchRecipes": "Skaber opskrifter med dine ingredienser",
-    "popularIngredients": "Vælg ingredienser",
+    "popularIngredients": "Foreslåede ingredienser",
     "errorGeneral": "Noget gik galt. Prøv igen senere",
     "errorNoIngredients": "Ingrediens findes ikke",
     "selectTwoIngredients": "",
     "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
     "share": "Del",
-    "shareResult": "",
-    "fullscreenMode": "Prøv i fuldskærm"
+    "shareResult": "Link kopieret til udklipsholderen",
+    "fullscreenMode": "Prøv i fuldskærm",
+    "addMore": "Tilføj",
+    "limitIngredients": "Tip: AI fungerer bedst med 2-5 ingredienser"
   },
   "recipeCard": {
     "seeMore": "Se mere",
@@ -54,12 +56,22 @@
     "ingredients": "Ingredienser",
     "stepUrl": "klik her"
   },
+  "saveRecipe": {
+    "unique": "Din unikke",
+    "flavourMatches": "Flere ingredienser der matcher",
+    "qrCodeText": "Du har skabt denne unikke opskrift. Brug QR-koden til at lave flere opskrifter, så du kan tømme dit køleskab.",
+    "preparingImage": "Forberedelse af opskrift til download",
+    "saveTooltip": ""
+  },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov",
-    "dishType": "Type ret",
+    "dishType": "Rettype",
     "cuisine": "Region",
-    "diet": "Kost",
-    "quick": "Under 20 min"
+    "diet": "Ernæring",
+    "type": "Rettype",
+    "lessMinutes": "Under 20 min",
+    "occasion": "Anledning",
+    "quick": "Hurtigt"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Tilføj flere ingredienser",
@@ -79,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "Den kunstige intelligens finder substituter",
     "swapped": "byttet",
-    "swap": "Byt"
+    "swap": "Byt",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Hjælp os med at træne vores AI",
@@ -104,7 +117,9 @@
     "yourFeedback": "Vi sætter pris på din feedback.",
     "whatData": "Hvad tracker I?",
     "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger.",
-    "feedbackButton": "Giv din feedback"
+    "feedbackButton": "Giv din feedback",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",
@@ -119,5 +134,24 @@
     "nut-free": "Nøddefri",
     "glutenFree": "Glutenfri",
     "diabetic": "Diabetiker"
+  },
+  "shoppingList": {
+    "shoppingList": "Indkøbsliste",
+    "items": "Varer",
+    "youMightHave": "Du har måske dette derhjemme",
+    "buyOnAmazonFresh": "Køb på Amazon Fresh",
+    "back": "Tilbage til opskrift",
+    "shopIngredients": "Køb ingredienser"
+  },
+  "animations": {
+    "scanningIngredients": "Finder dynamiske opskrifter",
+    "creatingRecipe": "Sortering efter popularitet",
+    "findingSubstitutes": "Finder substitutter",
+    "ratingSubstitutes ": "Vurdering af substitutter",
+    "findingFlavors": "Finde nye ingredienser",
+    "findingNewRecipes": "Finde nye opskrifter",
+    "preparingRecipe": "Forbereder opskrift",
+    "creatingImg": "Oprettelse af opskriftsbillede",
+    "scanningIngredients1": "Scanning af ingredienser"
   }
 }

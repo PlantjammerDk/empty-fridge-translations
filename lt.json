@@ -12,14 +12,16 @@
     "searchMore": "Ieškok daugiau ingredientų",
     "showMore": "Rodyti daugiau receptų",
     "searchRecipes": "Ieškoma receptų",
-    "popularIngredients": "Populiarūs ingredientai",
+    "popularIngredients": "Siūlomi ingredientai",
     "errorGeneral": "",
     "errorNoIngredients": "",
     "selectTwoIngredients": "",
     "noRecipeFound": "",
     "share": "Dalintis",
-    "shareResult": "",
-    "fullscreenMode": "Išbandykite visą ekraną"
+    "shareResult": "Nukopijuota nuoroda",
+    "fullscreenMode": "Išbandykite visą ekraną",
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -36,7 +38,7 @@
     "or": "",
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
-    "seeInstructions": "Žr. gaminimo eigą",
+    "seeInstructions": "Žr. receptą",
     "tooltipOnNoAction": "Pabandykite sukeisti ingredientus vietomis arba į receptą įtraukti daugiau ingredientų.",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
     "loaderTextFilter": "Filtrų atnaujinimas"
@@ -54,12 +56,22 @@
     "ingredients": "ingredientai",
     "stepUrl": ""
   },
+  "saveRecipe": {
+    "unique": "Jūsų unikalus receptas",
+    "flavourMatches": "Daugiau galimų ingredientų",
+    "qrCodeText": "Sukūrėte šį unikalų receptą. Naudokite QR kodą ir sukurkite daugiau receptų, kad ištuštintumėte savo šaldytuvą.",
+    "preparingImage": "Paruošti receptą atsisiųsti",
+    "saveTooltip": ""
+  },
   "filtersOverlay": {
     "header": "Pridėti filtrą",
     "dishType": "Patiekalo tipas",
     "cuisine": "Regionas",
-    "diet": "Speciali dieta",
-    "quick": "Iki 20 min."
+    "diet": "Dieta",
+    "type": "Patiekalo tipas",
+    "lessMinutes": "Iki 20 min.",
+    "occasion": "Proga",
+    "quick": "Greita"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pridėkite daugiau ingredientų",
@@ -79,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": " Dirbtinis intelektas randa pakaitalų",
     "swapped": "pakeistas",
-    "swap": "Pakeisti"
+    "swap": "Pakeisti",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
@@ -104,7 +117,9 @@
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "whatData": "Ką tiksliai stebite?",
     "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus ",
-    "feedbackButton": "pateikite savo atsiliepimus"
+    "feedbackButton": "pateikite savo atsiliepimus",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",
@@ -119,5 +134,24 @@
     "nut-free": "Be riešutų",
     "glutenFree": "Be glitimo",
     "diabetic": "diabetikas"
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "Dinaminių receptų paieška",
+    "creatingRecipe": "Rūšiavimas pagal populiarumą",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": "",
+    "scanningIngredients1": ""
   }
 }

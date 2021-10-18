@@ -19,7 +19,9 @@
     "noRecipeFound": "",
     "share": "",
     "shareResult": "",
-    "fullscreenMode": ""
+    "fullscreenMode": "",
+    "addMore": "",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -54,11 +56,21 @@
     "ingredients": "",
     "stepUrl": ""
   },
+  "saveRecipe": {
+    "unique": "",
+    "flavourMatches": "",
+    "qrCodeText": "",
+    "preparingImage": "",
+    "saveTooltip": ""
+  },
   "filtersOverlay": {
     "header": "",
     "dishType": "",
     "cuisine": "",
     "diet": "",
+    "type": "",
+    "lessMinutes": "",
+    "occasion": "",
     "quick": ""
   },
   "flavorOverlay": {
@@ -79,7 +91,8 @@
   "substitutionOverlay": {
     "findingSubstitutes": "",
     "swapped": "",
-    "swap": ""
+    "swap": "",
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "",
@@ -104,7 +117,9 @@
     "yourFeedback": "",
     "whatData": "",
     "trackExplain": "",
-    "feedbackButton": ""
+    "feedbackButton": "",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "",
@@ -119,5 +134,24 @@
     "nut-free": "",
     "glutenFree": "",
     "diabetic": ""
+  },
+  "shoppingList": {
+    "shoppingList": "",
+    "items": "",
+    "youMightHave": "",
+    "buyOnAmazonFresh": "",
+    "back": "",
+    "shopIngredients": ""
+  },
+  "animations": {
+    "scanningIngredients": "",
+    "creatingRecipe": "Sortering efter popularitet",
+    "findingSubstitutes": "",
+    "ratingSubstitutes ": "",
+    "findingFlavors": "",
+    "findingNewRecipes": "",
+    "preparingRecipe": "",
+    "creatingImg": "",
+    "scanningIngredients1": ""
   }
 }

@@ -12,7 +12,7 @@
     "searchMore": "Add more ingredients",
     "showMore": "Show more recipes",
     "searchRecipes": "Creating recipes with your ingredients",
-    "popularIngredients": "Proposed ingredients",
+    "popularIngredients": "Popular ingredients",
     "errorGeneral": "Something went wrong. Try again later.",
     "errorNoIngredients": "Ingredient is not found",
     "selectTwoIngredients": "We recommend using max two fruits.",
@@ -20,8 +20,8 @@
     "share": "Share",
     "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Try fullscreen mode",
-    "addMore": "Add more",
-    "limitIngredients": "Tip: The AI works best if you use 2-5 ingredients"
+    "addMore": "Tilføj",
+    "limitIngredients": ""
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -61,7 +61,7 @@
     "flavourMatches": "Flavour matches",
     "qrCodeText": "You created this unique recipe. Use the QR code to create more recipes to empty your fridge.",
     "preparingImage": "Preparing recipe to download",
-    "saveTooltip": "Save your recipe"
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Add filter",
@@ -69,9 +69,9 @@
     "cuisine": "Region",
     "diet": "Diet",
     "type": "Dish Type",
-    "lessMinutes": "Under 20 Min",
+    "lessMinutes": "",
     "occasion": "Occasion",
-    "quick": "Quick"
+    "quick": "Under 20 Min"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add more flavor",
@@ -92,7 +92,7 @@
     "findingSubstitutes": " The artificial intelligence is finding substitutes",
     "swapped": "swapped",
     "swap": "Swap",
-    "removeIngredient": "Remove ingredient"
+    "removeIngredient": ""
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
@@ -117,9 +117,9 @@
     "yourFeedback": "We appreciate your feedback",
     "whatData": "What exactly do you track?",
     "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)",
-    "feedbackButton": "Feedback",
-    "fullscreenButton": "Open in fullscreen",
-    "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
+    "feedbackButton": "Leave feedback",
+    "fullscreenButton": "",
+    "fullscreenText": ""
   },
   "filters": {
     "sweet": "Sweet",
