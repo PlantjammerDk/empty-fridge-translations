@@ -144,8 +144,8 @@
     "shopIngredients": ""
   },
   "animations": {
-    "scanningIngredients": "Dinaminių receptų paieška",
-    "creatingRecipe": "Rūšiavimas pagal populiarumą",
+    "scanningIngredients": "",
+    "creatingRecipe": "",
     "findingSubstitutes": "",
     "ratingSubstitutes ": "",
     "findingFlavors": "",

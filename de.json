@@ -61,7 +61,7 @@
     "flavourMatches": "Mehr passende Zutaten",
     "qrCodeText": "Du hast dieses individuelle Rezept erstellt. Nutze den QR Code um weitere Rezepte nach deinem Geschmack zu erstellen.",
     "preparingImage": "Rezept vorbereiten zum Herunterladen",
-    "saveTooltip": ""
+    "saveTooltip": "Speicher dein Rezept"
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen",
@@ -144,12 +144,12 @@
     "shopIngredients": "Zutaten kaufen"
   },
   "animations": {
-    "scanningIngredients": "Dynamische Rezepte finden",
-    "creatingRecipe": "Nach Beliebtheit sortieren",
+    "scanningIngredients": "Zutaten scannen",
+    "creatingRecipe": "Rezepte erstellen",
     "findingSubstitutes": "Alternativen suchen",
     "ratingSubstitutes ": "Alternativen bewerten",
     "findingFlavors": "Suche passende Zutaten",
-    "findingNewRecipes": "Suche neue Rezepte",
+    "findingNewRecipes": "Neue Rezepte erstellen",
     "preparingRecipe": "Rezept erstellen",
     "creatingImg": "Rezeptbild erstellen",
     "scanningIngredients1": "Zutaten scannen"

@@ -144,8 +144,8 @@
     "shopIngredients": ""
   },
   "animations": {
-    "scanningIngredients": "Dinamisko recepšu meklēšana",
-    "creatingRecipe": "Šķirošana pēc popularitātes",
+    "scanningIngredients": "",
+    "creatingRecipe": "",
     "findingSubstitutes": "",
     "ratingSubstitutes ": "",
     "findingFlavors": "",

@@ -144,12 +144,12 @@
     "shopIngredients": "Shop ingredients"
   },
   "animations": {
-    "scanningIngredients": "Finding dynamic recipes",
-    "creatingRecipe": "Sorting by popularity",
+    "scanningIngredients": "Scanning ingredients",
+    "creatingRecipe": "Creating recipes",
     "findingSubstitutes": "Finding substitutes",
     "ratingSubstitutes ": "Rating substitutes",
     "findingFlavors": "Finding new flavours",
-    "findingNewRecipes": "Finding new recipes",
+    "findingNewRecipes": "Creating new recipes",
     "preparingRecipe": "Preparing recipe",
     "creatingImg": "Creating recipe image",
     "scanningIngredients1": "Scanning ingredients"

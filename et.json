@@ -144,8 +144,8 @@
     "shopIngredients": ""
   },
   "animations": {
-    "scanningIngredients": "Dünaamiliste retseptide leidmine",
-    "creatingRecipe": "Sorteerimine populaarsuse järgi",
+    "scanningIngredients": "",
+    "creatingRecipe": "",
     "findingSubstitutes": "",
     "ratingSubstitutes ": "",
     "findingFlavors": "",
