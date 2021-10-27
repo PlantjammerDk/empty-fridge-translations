@@ -93,7 +93,9 @@
     "findingSubstitutes": " The artificial intelligence is finding substitutes",
     "swapped": "swapped",
     "swap": "Swap",
-    "removeIngredient": "Remove"
+    "removeIngredient": "Remove",
+    "moreSubstitutes": "See more substitutes",
+    "noMoreSubstitutes": "No more substitutes"
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
