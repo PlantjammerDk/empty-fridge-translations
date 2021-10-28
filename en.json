@@ -21,7 +21,9 @@
     "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Try fullscreen mode",
     "addMore": "Add more",
-    "limitIngredients": "Tip: The AI works best if you use 2-5 ingredients"
+    "limitIngredients": "Tip: The AI works best if you use 2-5 ingredient",
+    "help": "Need help?",
+    "write": "Write us on"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -112,6 +114,7 @@
     "submit": "Submit",
     "sure": "Sure!",
     "accept": "Accept",
+    "start": "Get started",
     "reject": "Reject",
     "npsQuestion": "How likely are you to recommend this tool to a friend or colleague?",
     "howImprove": "How can we improve?",
@@ -123,6 +126,16 @@
     "feedbackButton": "Feedback",
     "fullscreenButton": "Open in fullscreen",
     "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
+  },
+  "homeScreen": {
+    "question": "Want to use this app in the future?",
+    "introTitle": "Get it on your phone",
+    "introSubTitle": "It only takes 2 clicks, and you’ll have it on your homepage acting like an app.",
+    "stepsTitle": "Just two steps",
+    "stepsSubTitle": "Follow these 2 steps to get the app on your phone homescreen.",
+    "step1": "Click on this symbol in bottom bar",
+    "step2": "Then scroll down to find",
+    "actionButton": "Add to Home screen"
   },
   "filters": {
     "sweet": "Sweet",
