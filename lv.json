@@ -21,7 +21,9 @@
     "shareResult": "Kopēta saite",
     "fullscreenMode": "Izmēģini pilnekrāna režīmu",
     "addMore": "Pievienot vēl",
-    "limitIngredients": "Padoms: automātiskā intelekta funkcija darbosies vislabāk, ja būsi pievienojis 2-5 sastāvdaļas"
+    "limitIngredients": "Padoms: automātiskā intelekta funkcija darbosies vislabāk, ja būsi pievienojis 2-5 sastāvdaļas",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -41,7 +43,8 @@
     "seeInstructions": "Skatīt recepti",
     "tooltipOnNoAction": "Mainiet receptes sastāvdaļas vai pievieno papildu sastāvdaļas",
     "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
-    "loaderTextFilter": "Filtra atjaunināšana"
+    "loaderTextFilter": "Filtra atjaunināšana",
+    "bringBack": "Pievienot"
   },
   "recipePage": {
     "back": "Visi rezultāti",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "Mākslīgais intelekts atrod aizstājējus",
     "swapped": "apmainīts",
     "swap": "Mainīt",
-    "removeIngredient": "Noņemt sastāvdaļu"
+    "removeIngredient": "Noņemt sastāvdaļu",
+    "moreSubstitutes": "Skatīt vairāk aizvietotājus",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "Palīdzi mums apmācīt recepšu mākslīgo intelektu!",
@@ -109,6 +114,7 @@
     "submit": "Iesniegt",
     "sure": "Protams!",
     "accept": "Apstiprināt",
+    "start": "",
     "reject": "Noraidīt",
     "npsQuestion": "Vai tu ieteiktu šo lietotni draugiem vai kolēģiem?",
     "howImprove": "Kā mēs varētu uzlabot šo lietotni?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Atsauksme",
     "fullscreenButton": "Atvērt pilnu ekrānu",
     "fullscreenText": "Lietošana būs daudz ērtāka pilna ekrāna versijā. Vai vēlies izmēģināt?"
+  },
+  "homeScreen": {
+    "question": "Vai vēlaties šo lietotni izmantot arī turpmāk?",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "Tikai divi soļi",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
   },
   "filters": {
     "sweet": "Salds",

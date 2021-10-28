@@ -21,7 +21,9 @@
     "shareResult": "Link in Zwischenablage kopiert",
     "fullscreenMode": "Versuche Vollbildmodus",
     "addMore": "Suche weitere",
-    "limitIngredients": "Tipp: Die KI funktioniert am besten mit 2-5 Zutaten"
+    "limitIngredients": "Tipp: Die KI funktioniert am besten mit 2-5 Zutaten",
+    "help": "Brauchst du Hilfe?",
+    "write": "Schreibe uns an"
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -41,7 +43,8 @@
     "seeInstructions": "Rezept sehen",
     "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
-    "loaderTextFilter": "Filter anpassen"
+    "loaderTextFilter": "Filter anpassen",
+    "bringBack": "Hinzufügen"
   },
   "recipePage": {
     "back": "Zurück zur Rezeptauswahl",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "Die KI sucht nach alternativen Zutaten",
     "swapped": "getauscht",
     "swap": "tauschen",
-    "removeIngredient": "Zutat entfernen"
+    "removeIngredient": "Zutat entfernen",
+    "moreSubstitutes": "Mehr Alternativen zeigen",
+    "noMoreSubstitutes": "Keine weiteren Alternativen"
   },
   "survey": {
     "consentHeder": "Hilf uns das Nutzererlebnis zu verbessern",
@@ -109,6 +114,7 @@
     "submit": "Fertig",
     "sure": "Klar! ",
     "accept": "Zustimmen",
+    "start": "Los geht's",
     "reject": "Ablehnen",
     "npsQuestion": "Wie wahrscheinlich ist es, dass du dieses Tool an einen Freund/Bekannten weiterempfiehlst?",
     "howImprove": "Was können wir verbessern?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Feedback",
     "fullscreenButton": "In Vollbildmodus öffnen",
     "fullscreenText": "Das Nutzererlebnis ist im Vollbildmodus noch besser. Möchtest du es ausprobieren?"
+  },
+  "homeScreen": {
+    "question": "Willst du die App auch zukünftig verwenden?",
+    "introTitle": "Speicher sie auf deinem Handy",
+    "introSubTitle": "Nur zwei Klicks und du hast sie als App auf deinem Handy.",
+    "stepsTitle": "Nur zwei Schritte",
+    "stepsSubTitle": "Folge den 2 Schritten um die App auf deinem Handy zu speichern.",
+    "step1": "Klicke dieses Symbol in deinem Browser",
+    "step2": "Dann scrolle nach unten und wähle",
+    "actionButton": "Zum Startbildschirm hinzufügen "
   },
   "filters": {
     "sweet": "Süß",

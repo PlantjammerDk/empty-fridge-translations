@@ -21,7 +21,9 @@
     "shareResult": "",
     "fullscreenMode": "",
     "addMore": "",
-    "limitIngredients": ""
+    "limitIngredients": "",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -41,7 +43,8 @@
     "seeInstructions": "Ver receita",
     "tooltipOnNoAction": "",
     "loaderText": "",
-    "loaderTextFilter": ""
+    "loaderTextFilter": "",
+    "bringBack": ""
   },
   "recipePage": {
     "back": "Veja todos os resultados",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "",
     "swapped": "Mudado",
     "swap": "Mudar",
-    "removeIngredient": ""
+    "removeIngredient": "",
+    "moreSubstitutes": "",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "",
@@ -109,6 +114,7 @@
     "submit": "",
     "sure": "",
     "accept": "",
+    "start": "",
     "reject": "",
     "npsQuestion": "Qual é a probabilidade de você recomendar esta ferramenta a um amigo ou colega?",
     "howImprove": "",
@@ -120,6 +126,16 @@
     "feedbackButton": "Dar feedback",
     "fullscreenButton": "",
     "fullscreenText": ""
+  },
+  "homeScreen": {
+    "question": "",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
   },
   "filters": {
     "sweet": "",

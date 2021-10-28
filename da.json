@@ -21,7 +21,9 @@
     "shareResult": "Link kopieret til udklipsholderen",
     "fullscreenMode": "Prøv i fuldskærm",
     "addMore": "Tilføj",
-    "limitIngredients": "Tip: AI fungerer bedst med 2-5 ingredienser"
+    "limitIngredients": "Tip: AI fungerer bedst med 2-5 ingredienser",
+    "help": "Brug for hjælp?",
+    "write": "Skriv til os på"
   },
   "recipeCard": {
     "seeMore": "Se mere",
@@ -41,7 +43,8 @@
     "seeInstructions": "Se opskriften",
     "tooltipOnNoAction": "Prøv at bytte ingredienser eller tilføje flere ingredienser til din opskrift",
     "loaderText": "Afstemning af dine ingredienser med opskrifter",
-    "loaderTextFilter": "Opdatere filtre"
+    "loaderTextFilter": "Opdatere filtre",
+    "bringBack": "tilføj"
   },
   "recipePage": {
     "back": "Se alle resultater",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "Den kunstige intelligens finder substituter",
     "swapped": "byttet",
     "swap": "Byt",
-    "removeIngredient": ""
+    "removeIngredient": "",
+    "moreSubstitutes": "se flere substitutter",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "Hjælp os med at træne vores AI",
@@ -109,6 +114,7 @@
     "submit": "Indsend",
     "sure": "Selvfølgelig!",
     "accept": "Acceptér",
+    "start": "Ja tak!",
     "reject": "Afvis",
     "npsQuestion": "Hvor sandsynligt er det, at du anbefaler denne oplevelse til en ven eller kollega?",
     "howImprove": "Hvordan kan vi blive bedre?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Giv din feedback",
     "fullscreenButton": "",
     "fullscreenText": ""
+  },
+  "homeScreen": {
+    "question": "Vil du bruge appen i fremtiden?",
+    "introTitle": "Få det på din telefon",
+    "introSubTitle": "Med blot to klik har du det som en app på din mobiltelefon.",
+    "stepsTitle": "Kun to skridt",
+    "stepsSubTitle": "Følg disse 2 skridt for at få appen på telefonens startskærm.",
+    "step1": "Klik på dette symbol i dit browservindue",
+    "step2": "Rul derefter ned og vælg",
+    "actionButton": "Tilføj til startskærm"
   },
   "filters": {
     "sweet": "",

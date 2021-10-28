@@ -21,7 +21,9 @@
     "shareResult": "",
     "fullscreenMode": "",
     "addMore": "",
-    "limitIngredients": ""
+    "limitIngredients": "",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -41,7 +43,8 @@
     "seeInstructions": "",
     "tooltipOnNoAction": "",
     "loaderText": "",
-    "loaderTextFilter": ""
+    "loaderTextFilter": "",
+    "bringBack": ""
   },
   "recipePage": {
     "back": "",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "",
     "swapped": "",
     "swap": "",
-    "removeIngredient": ""
+    "removeIngredient": "",
+    "moreSubstitutes": "",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "",
@@ -109,6 +114,7 @@
     "submit": "",
     "sure": "",
     "accept": "",
+    "start": "",
     "reject": "",
     "npsQuestion": "",
     "howImprove": "",
@@ -120,6 +126,16 @@
     "feedbackButton": "",
     "fullscreenButton": "",
     "fullscreenText": ""
+  },
+  "homeScreen": {
+    "question": "",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
   },
   "filters": {
     "sweet": "",

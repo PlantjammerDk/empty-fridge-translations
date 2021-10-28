@@ -15,13 +15,15 @@
     "popularIngredients": "Siūlomi ingredientai",
     "errorGeneral": "Kažkas nepavyko. Bandykite dar kartą vėliau.",
     "errorNoIngredients": "Ingredientai nerasti",
-    "selectTwoIngredients": "Rekomenduojame naudoti dažniausiai du vaisius.",
+    "selectTwoIngredients": "Rekomenduojame naudoti daugiausiai du vaisius.",
     "noRecipeFound": "Atsiprašome, neradome jokių receptų. Pabandykite pridėti daugiau ingredientų.",
     "share": "Dalintis",
     "shareResult": "Nuoroda nukopijuota į iškarpinę",
     "fullscreenMode": "Išbandykite viso ekrano vaizdą",
     "addMore": "Pridėti daugiau",
-    "limitIngredients": "Patarimas: AI geriausiai veikia, jei naudojate 2-5 ingredientus."
+    "limitIngredients": "Patarimas: AI geriausiai veikia, jei naudojate 2-5 ingredientus.",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -41,7 +43,8 @@
     "seeInstructions": "Žr. receptą",
     "tooltipOnNoAction": "Pabandykite sukeisti ingredientus vietomis arba į receptą įtraukti daugiau ingredientų.",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
-    "loaderTextFilter": "Filtrų atnaujinimas"
+    "loaderTextFilter": "Filtrų atnaujinimas",
+    "bringBack": "Pridėti"
   },
   "recipePage": {
     "back": "Visi rezultatai",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "Dirbtinis intelektas randa pakaitalų",
     "swapped": "pakeistas",
     "swap": "Pakeisti",
-    "removeIngredient": "Pašalinti ingredientą"
+    "removeIngredient": "Pašalinti ingredientą",
+    "moreSubstitutes": "Žiūrėti daugiau pakaitalų",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "Padėkite mums treniruoti dirbtinį intelektą",
@@ -109,6 +114,7 @@
     "submit": "Pateikti",
     "sure": "Žinoma!",
     "accept": "Sutikti",
+    "start": "",
     "reject": "Nesutikti",
     "npsQuestion": "Ar rekomenduotum šį įrankį savo draugui ar kolegai?",
     "howImprove": "Kaip galėtume patobulėti?",
@@ -121,10 +127,20 @@
     "fullscreenButton": "Atidaryti per visą ekraną",
     "fullscreenText": "Viso ekrano režimo patirtis yra daug geresnė. Norite išbandyti?"
   },
+  "homeScreen": {
+    "question": "Norite naudoti šią programėlę ateityje?",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "Tik du žingsniai",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
+  },
   "filters": {
     "sweet": "Saldu",
-    "fruity": "Vaisinis",
-    "superFruity": "Labai vaisinis",
+    "fruity": "Vaisiška",
+    "superFruity": "Labai vaisiška",
     "jam": "Džemas",
     "jelly": "Želė",
     "vegan": "Veganiška",
@@ -133,7 +149,7 @@
     "eggFree": "Be kiaušinių",
     "nut-free": "Be riešutų",
     "glutenFree": "Be glitimo",
-    "diabetic": "diabetinis"
+    "diabetic": "Diabetinė"
   },
   "shoppingList": {
     "shoppingList": "Pirkinių sąrašas",

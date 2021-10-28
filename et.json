@@ -21,7 +21,9 @@
     "shareResult": "Link kopeeritud",
     "fullscreenMode": "Proovi täisekraani",
     "addMore": "Lisa juurde",
-    "limitIngredients": "Nõuanne: Tehisintellekt toimib kõige paremini, kui kasutad 2-5 koostisosa"
+    "limitIngredients": "Nõuanne: Tehisintellekt toimib kõige paremini, kui kasutad 2-5 koostisosa",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -41,7 +43,8 @@
     "seeInstructions": "Vaata retsepti",
     "tooltipOnNoAction": "Proovi vahetada koostisosi või lisada oma retseptile rohkem maitseid",
     "loaderText": "Koostisosade sobitamine retseptidega",
-    "loaderTextFilter": "Filtrite uuendamine"
+    "loaderTextFilter": "Filtrite uuendamine",
+    "bringBack": "Lisa"
   },
   "recipePage": {
     "back": "Näita kõiki tulemusi",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "Tehisintellekt otsib asendajaid",
     "swapped": "vahetatud",
     "swap": "Vaheta",
-    "removeIngredient": "Eemalda koostisosa"
+    "removeIngredient": "Eemalda koostisosa",
+    "moreSubstitutes": "Vaata rohkem asendajaid",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "Aita meil treenida retsepti tehisintellekti",
@@ -109,6 +114,7 @@
     "submit": "Esita",
     "sure": "Sobib!",
     "accept": "Nõustu",
+    "start": "",
     "reject": "Keeldu",
     "npsQuestion": "Kui tõenäoline on, et soovitad seda vahendit sõbrale?",
     "howImprove": "Mida saaksime paremaks muuta?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Tagasiside",
     "fullscreenButton": "Ava täisekraanil",
     "fullscreenText": "Kogemus on täisekraanil märksa parem. Soovid proovida?"
+  },
+  "homeScreen": {
+    "question": "Kas soovite seda rakendust tulevikus kasutada?",
+    "introTitle": "Hangi see oma telefoni",
+    "introSubTitle": "",
+    "stepsTitle": "Ainult kaks sammu",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": "Avakuvale lisamine "
   },
   "filters": {
     "sweet": "Magus",

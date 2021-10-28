@@ -21,7 +21,9 @@
     "shareResult": "Enlace copiado en el portapapeles",
     "fullscreenMode": "Pruebe con pantalla completa",
     "addMore": "Añadir más",
-    "limitIngredients": ""
+    "limitIngredients": "",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -41,7 +43,8 @@
     "seeInstructions": "Ver receta",
     "tooltipOnNoAction": "Prueba a cambiar los ingredientes o añadir más sabores a tu receta",
     "loaderText": "Combinando tus ingredientes con recetas",
-    "loaderTextFilter": "Actualizando filtros"
+    "loaderTextFilter": "Actualizando filtros",
+    "bringBack": ""
   },
   "recipePage": {
     "back": "Ver todos los resultados",
@@ -92,7 +95,9 @@
     "findingSubstitutes": " La inteligencia artificial está encontrando sustitutos",
     "swapped": "cambiado",
     "swap": "Cambiar",
-    "removeIngredient": ""
+    "removeIngredient": "",
+    "moreSubstitutes": "",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "Ayúdanos a entrenar la IA de las recetas",
@@ -109,6 +114,7 @@
     "submit": "Enviar",
     "sure": "",
     "accept": "Aceptar",
+    "start": "",
     "reject": "Rechazar",
     "npsQuestion": "¿Qué probabilidad hay de que recomiendes esta herramienta a un amigo o colega?",
     "howImprove": "¿Cómo podemos mejorar?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Dejar un comentario",
     "fullscreenButton": "",
     "fullscreenText": ""
+  },
+  "homeScreen": {
+    "question": "",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
   },
   "filters": {
     "sweet": "Dulce",

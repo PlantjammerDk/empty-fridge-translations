@@ -21,7 +21,9 @@
     "shareResult": "Lien copié dans le presse-papiers",
     "fullscreenMode": "",
     "addMore": "Ajouter",
-    "limitIngredients": ""
+    "limitIngredients": "",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -41,7 +43,8 @@
     "seeInstructions": "Voir la recette",
     "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs à votre recette",
     "loaderText": "Associer vos ingrédients avec des recettes",
-    "loaderTextFilter": "Actualisation des filtres"
+    "loaderTextFilter": "Actualisation des filtres",
+    "bringBack": ""
   },
   "recipePage": {
     "back": "Afficher tous les résultats",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "L'intelligence artificielle trouve des substituts",
     "swapped": "échangé",
     "swap": "Échanger",
-    "removeIngredient": ""
+    "removeIngredient": "",
+    "moreSubstitutes": "",
+    "noMoreSubstitutes": ""
   },
   "survey": {
     "consentHeder": "Aidez-nous à former l'IA des recettes",
@@ -109,6 +114,7 @@
     "submit": "Soumettre",
     "sure": "",
     "accept": "Accepter",
+    "start": "",
     "reject": "Refuser",
     "npsQuestion": "Quelles sont les chances que vous recommandiez cet outil à un ami ou un collègue?",
     "howImprove": "Comment pouvons nous nous améliorer?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Laisser un commentaire",
     "fullscreenButton": "",
     "fullscreenText": ""
+  },
+  "homeScreen": {
+    "question": "Tu veux utiliser cette application à l'avenir ?",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "Deux étapes seulement",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
   },
   "filters": {
     "sweet": "Sucré",

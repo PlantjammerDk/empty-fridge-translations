@@ -12,7 +12,7 @@
     "searchMore": "Add more ingredients",
     "showMore": "Show more recipes",
     "searchRecipes": "Creating recipes with your ingredients",
-    "popularIngredients": "Popular ingredients",
+    "popularIngredients": "Proposed ingredients",
     "errorGeneral": "Something went wrong. Try again later.",
     "errorNoIngredients": "Ingredient is not found",
     "selectTwoIngredients": "We recommend using max two fruits.",
@@ -21,7 +21,9 @@
     "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Try fullscreen mode",
     "addMore": "Add more",
-    "limitIngredients": ""
+    "limitIngredients": "Tip: The AI works best if you use 2-5 ingredients",
+    "help": "",
+    "write": ""
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -41,7 +43,8 @@
     "seeInstructions": "See recipe",
     "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
     "loaderText": "Matching your ingredients with recipes",
-    "loaderTextFilter": "Updating filters"
+    "loaderTextFilter": "Updating filters",
+    "bringBack": "Bring back"
   },
   "recipePage": {
     "back": "See all results",
@@ -61,7 +64,7 @@
     "flavourMatches": "Flavour matches",
     "qrCodeText": "You created this unique recipe. Use the QR code to create more recipes to empty your fridge.",
     "preparingImage": "Preparing recipe to download",
-    "saveTooltip": ""
+    "saveTooltip": "Save your recipe"
   },
   "filtersOverlay": {
     "header": "Add filter",
@@ -69,9 +72,9 @@
     "cuisine": "Region",
     "diet": "Diet",
     "type": "Dish Type",
-    "lessMinutes": "",
+    "lessMinutes": "Under 20 Min",
     "occasion": "Occasion",
-    "quick": "Under 20 Min"
+    "quick": "Quick"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add more flavor",
@@ -92,7 +95,9 @@
     "findingSubstitutes": " The artificial intelligence is finding substitutes",
     "swapped": "swapped",
     "swap": "Swap",
-    "removeIngredient": ""
+    "removeIngredient": "Remove",
+    "moreSubstitutes": "See more substitutes",
+    "noMoreSubstitutes": "No more substitutes"
   },
   "survey": {
     "consentHeder": "Help us train the recipe AI",
@@ -109,6 +114,7 @@
     "submit": "Submit",
     "sure": "Sure!",
     "accept": "Accept",
+    "start": "",
     "reject": "Reject",
     "npsQuestion": "How likely are you to recommend this tool to a friend or colleague?",
     "howImprove": "How can we improve?",
@@ -118,8 +124,18 @@
     "whatData": "What exactly do you track?",
     "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)",
     "feedbackButton": "Leave feedback",
-    "fullscreenButton": "",
-    "fullscreenText": ""
+    "fullscreenButton": "Open in fullscreen",
+    "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
+  },
+  "homeScreen": {
+    "question": "",
+    "introTitle": "",
+    "introSubTitle": "",
+    "stepsTitle": "",
+    "stepsSubTitle": "",
+    "step1": "",
+    "step2": "",
+    "actionButton": ""
   },
   "filters": {
     "sweet": "Sweet",
@@ -144,12 +160,12 @@
     "shopIngredients": "Shop ingredients"
   },
   "animations": {
-    "scanningIngredients": "Finding dynamic recipes",
-    "creatingRecipe": "Sorting by popularity",
+    "scanningIngredients": "Scanning ingredients",
+    "creatingRecipe": "Creating recipes",
     "findingSubstitutes": "Finding substitutes",
     "ratingSubstitutes ": "Rating substitutes",
     "findingFlavors": "Finding new flavours",
-    "findingNewRecipes": "Finding new recipes",
+    "findingNewRecipes": "Creating new recipes",
     "preparingRecipe": "Preparing recipe",
     "creatingImg": "Creating recipe image",
     "scanningIngredients1": "Scanning ingredients"

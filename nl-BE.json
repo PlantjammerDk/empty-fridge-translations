@@ -20,8 +20,10 @@
     "share": "Deel",
     "shareResult": "Link gekopieerd naar klembord",
     "fullscreenMode": "Probeer volledige scherm modus",
-    "addMore": "",
-    "limitIngredients": ""
+    "addMore": "Meer toevoegen",
+    "limitIngredients": "Tip: De AI werkt het best als je 2-5 ingrediënten gebruikt",
+    "help": "Hulp nodig?",
+    "write": "Schrijf ons op"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -41,7 +43,8 @@
     "seeInstructions": "Zie recept",
     "tooltipOnNoAction": "Probeer ingrediënten te wisselen of meer smaken toe te voegen aan je recept",
     "loaderText": "Je ingrediënten aan het matchen met recepten",
-    "loaderTextFilter": "Filters aan het updaten"
+    "loaderTextFilter": "Filters aan het updaten",
+    "bringBack": "Toevoegen"
   },
   "recipePage": {
     "back": "Zie alle resultaten",
@@ -61,7 +64,7 @@
     "flavourMatches": "Smaak matches",
     "qrCodeText": "Je hebt dit uniek recept gecreëerd. Gebruik de QR code om meer recepten te creëren om je koelkast te legen.",
     "preparingImage": "Recept aan het voorbereiden voor downloaden",
-    "saveTooltip": ""
+    "saveTooltip": "Bewaar je recept"
   },
   "filtersOverlay": {
     "header": "Voeg filter toe",
@@ -69,9 +72,9 @@
     "cuisine": "Regio",
     "diet": "Dieet",
     "type": "Type gerecht",
-    "lessMinutes": "",
+    "lessMinutes": "Minder dan 20 minuten",
     "occasion": "Gelegenheid",
-    "quick": "Minder dan 20 minuten"
+    "quick": "Snel"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Voeg meer smaak toe",
@@ -92,7 +95,9 @@
     "findingSubstitutes": "De artificiële intelligentie is vervangproducten aan het zoeken",
     "swapped": "ingewisseld",
     "swap": "Inwisselen",
-    "removeIngredient": "Ingrediënt verwijderen"
+    "removeIngredient": "Ingrediënt verwijderen",
+    "moreSubstitutes": "Zie meer vervangproducten",
+    "noMoreSubstitutes": "Geen vervangproducten meer"
   },
   "survey": {
     "consentHeder": "Help ons om de recept AI te trainen",
@@ -109,6 +114,7 @@
     "submit": "Dien in",
     "sure": "Jazeker!",
     "accept": "Accepteer",
+    "start": "Ja, graag",
     "reject": "Weiger",
     "npsQuestion": "Hoe groot is de kans dat je deze tool aanbeveelt aan een vriend of collega?",
     "howImprove": "Hoe kunnen we verbeteren?",
@@ -120,6 +126,16 @@
     "feedbackButton": "Geef feedback",
     "fullscreenButton": "Openen in vol scherm",
     "fullscreenText": "De gebruikerservaring is nog beter in volledige schermmodus. Wil je het uitproberen?"
+  },
+  "homeScreen": {
+    "question": "Wil je deze app in de toekomst gebruiken?",
+    "introTitle": "Zet het op je telefoon",
+    "introSubTitle": "Twee klikken en je hebt het als een app op je mobiele telefoon.",
+    "stepsTitle": "Slechts twee stappen",
+    "stepsSubTitle": "Volg deze 2 stappen om de app op het beginscherm van je telefoon te krijgen.",
+    "step1": "Klik op dit symbool in uw browservenster",
+    "step2": "Scroll dan naar beneden en kies",
+    "actionButton": "Toevoegen aan startscherm"
   },
   "filters": {
     "sweet": "Zoet",
@@ -144,12 +160,12 @@
     "shopIngredients": "Shop ingrediënten"
   },
   "animations": {
-    "scanningIngredients": "Dynamische recepten aan het zoeken",
-    "creatingRecipe": "Aan het sorteren op populariteit",
+    "scanningIngredients": "Ingrediënten scannen",
+    "creatingRecipe": "Recepten maken",
     "findingSubstitutes": "Vervangproducten aan het zoeken",
     "ratingSubstitutes ": "Vervangproducten aan het beoordelen",
     "findingFlavors": "Nieuwe smaken aan het zoeken",
-    "findingNewRecipes": "Nieuwe recepten aan het zoeken",
+    "findingNewRecipes": "Nieuwe recepten maken",
     "preparingRecipe": "Recept aan het voorbereiden",
     "creatingImg": "Recept afbeelding aan het creëren",
     "scanningIngredients1": "Ingrediënten scannen"
