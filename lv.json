@@ -77,11 +77,11 @@
     "quick": "Ātri"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Pievienot citas garšas",
+    "addFlavorsButton": "Pievienot sastāvdaļas",
     "newFlavors": "Izveidot jaunas sastāvdaļas",
     "done": "Pabeigts",
     "moreMatches": "Skatīt vairāk ieteikumu",
-    "addFlavorsText": "Pievienot citas garšas",
+    "addFlavorsText": "Pievienot sastāvdaļas",
     "loaderTextFlavor": "Mākslīgais intelekts atrod jaunas sastāvdaļas, kas atbilst tavai receptei",
     "noMatches": "Ieteikumu vairs nav",
     "tooltip": "Saņemt ieteikumus jaunām sastāvdaļām",
