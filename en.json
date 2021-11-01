@@ -133,6 +133,7 @@
     "introSubTitle": "It only takes 2 clicks, and you’ll have it on your homepage acting like an app.",
     "stepsTitle": "Just two steps",
     "stepsSubTitle": "Follow these 2 steps to get the app on your phone homescreen.",
+    "step": "step",
     "step1": "Click on this symbol in your browser window",
     "step2": "Then scroll down to find",
     "actionButton": "Add to Home screen"
