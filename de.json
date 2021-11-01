@@ -131,8 +131,9 @@
     "question": "Willst du die App auch zukünftig verwenden?",
     "introTitle": "Speicher sie auf deinem Handy",
     "introSubTitle": "Nur zwei Klicks und du hast sie als App auf deinem Handy.",
-    "stepsTitle": "Nur zwei Schritte",
+    "stepsTitle": "So speicherst du die App ",
     "stepsSubTitle": "Folge den 2 Schritten um die App auf deinem Handy zu speichern.",
+    "step": "",
     "step1": "Klicke dieses Symbol in deinem Browser",
     "step2": "Dann scrolle nach unten und wähle",
     "actionButton": "Zum Startbildschirm hinzufügen "

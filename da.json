@@ -131,8 +131,9 @@
     "question": "Vil du bruge appen i fremtiden?",
     "introTitle": "Få det på din telefon",
     "introSubTitle": "Med blot to klik har du det som en app på din mobiltelefon.",
-    "stepsTitle": "Kun to skridt",
+    "stepsTitle": "Sådan får du appen",
     "stepsSubTitle": "Følg disse 2 skridt for at få appen på telefonens startskærm.",
+    "step": "",
     "step1": "Klik på dette symbol i dit browservindue",
     "step2": "Rul derefter ned og vælg",
     "actionButton": "Tilføj til startskærm"
