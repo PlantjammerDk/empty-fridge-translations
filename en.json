@@ -44,7 +44,8 @@
     "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
-    "bringBack": "Bring back"
+    "bringBack": "Bring back",
+    "clickDynamicRecipe": "Click to see dynamic recipe"
   },
   "recipePage": {
     "back": "See all results",
