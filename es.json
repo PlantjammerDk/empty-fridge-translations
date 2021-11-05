@@ -23,7 +23,8 @@
     "addMore": "Añadir más",
     "limitIngredients": "",
     "help": "",
-    "write": ""
+    "write": "",
+    "download": "descargar"
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "Prueba a cambiar los ingredientes o añadir más sabores a tu receta",
     "loaderText": "Combinando tus ingredientes con recetas",
     "loaderTextFilter": "Actualizando filtros",
-    "bringBack": "Devuelve"
+    "bringBack": "Devuelve",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Ver todos los resultados",

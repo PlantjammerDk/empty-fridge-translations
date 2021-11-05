@@ -23,7 +23,8 @@
     "addMore": "Pridėti daugiau",
     "limitIngredients": "Patarimas: AI geriausiai veikia, jei naudojate 2-5 ingredientus.",
     "help": "",
-    "write": ""
+    "write": "",
+    "download": "atsisiųsti"
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "Pabandykite sukeisti ingredientus vietomis arba į receptą įtraukti daugiau ingredientų.",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
     "loaderTextFilter": "Filtrų atnaujinimas",
-    "bringBack": "Pridėti"
+    "bringBack": "Pridėti",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Visi rezultatai",

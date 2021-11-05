@@ -23,7 +23,8 @@
     "addMore": "",
     "limitIngredients": "",
     "help": "",
-    "write": ""
+    "write": "",
+    "download": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "",
     "loaderText": "",
     "loaderTextFilter": "",
-    "bringBack": ""
+    "bringBack": "",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Veja todos os resultados",

@@ -23,7 +23,8 @@
     "addMore": "Meer toevoegen",
     "limitIngredients": "Tip: De AI werkt het best als je 2-5 ingrediënten gebruikt",
     "help": "Hulp nodig?",
-    "write": "Schrijf ons op"
+    "write": "Schrijf ons op",
+    "download": "Download"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "Probeer ingrediënten te wisselen of meer smaken toe te voegen aan je recept",
     "loaderText": "Je ingrediënten aan het matchen met recepten",
     "loaderTextFilter": "Filters aan het updaten",
-    "bringBack": "Toevoegen"
+    "bringBack": "Toevoegen",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Zie alle resultaten",

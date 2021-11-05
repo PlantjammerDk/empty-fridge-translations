@@ -23,7 +23,8 @@
     "addMore": "Suche weitere",
     "limitIngredients": "Tipp: Die KI funktioniert am besten mit 2-5 Zutaten",
     "help": "Brauchst du Hilfe?",
-    "write": "Schreibe uns an"
+    "write": "Schreibe uns an",
+    "download": "Herunterladen"
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
     "loaderTextFilter": "Filter anpassen",
-    "bringBack": "Hinzufügen"
+    "bringBack": "Hinzufügen",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Zurück zur Rezeptauswahl",

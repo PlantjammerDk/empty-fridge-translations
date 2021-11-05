@@ -23,7 +23,8 @@
     "addMore": "Pievienot vēl",
     "limitIngredients": "Padoms: automātiskā intelekta funkcija darbosies vislabāk, ja būsi pievienojis 2-5 sastāvdaļas",
     "help": "",
-    "write": ""
+    "write": "",
+    "download": "lejupielādēt"
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "Mainiet receptes sastāvdaļas vai pievieno papildu sastāvdaļas",
     "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
     "loaderTextFilter": "Filtra atjaunināšana",
-    "bringBack": "Pievienot"
+    "bringBack": "Pievienot",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Visi rezultāti",

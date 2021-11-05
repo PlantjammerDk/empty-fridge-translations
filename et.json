@@ -23,7 +23,8 @@
     "addMore": "Lisa juurde",
     "limitIngredients": "Nõuanne: Tehisintellekt toimib kõige paremini, kui kasutad 2-5 koostisosa",
     "help": "",
-    "write": ""
+    "write": "",
+    "download": "lae alla"
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -44,7 +45,8 @@
     "tooltipOnNoAction": "Proovi vahetada koostisosi või lisada oma retseptile rohkem maitseid",
     "loaderText": "Koostisosade sobitamine retseptidega",
     "loaderTextFilter": "Filtrite uuendamine",
-    "bringBack": "Lisa"
+    "bringBack": "Lisa",
+    "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Näita kõiki tulemusi",
