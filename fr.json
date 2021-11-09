@@ -6,7 +6,7 @@
     "headerOetker1": "Sélectionner des fruits",
     "headerOetker2": "Sélectionner la recette",
     "headerTitle": "Vider le frigo",
-    "headerTitleOetker": "Faites de la confiture",
+    "headerTitleOetker": "Faisons de la confiture",
     "selectedIngredients": "Sélectionner des ingrédients",
     "search": "Rechercher des ingrédients",
     "searchMore": "Ajouter plus d'ingrédients",
@@ -19,38 +19,38 @@
     "noRecipeFound": "Désolé, aucune recette trouvée. Essayez d'ajouter un ingrédient supplémentaire.",
     "share": "Partager",
     "shareResult": "Lien copié dans le presse-papiers",
-    "fullscreenMode": "",
+    "fullscreenMode": "Essayer le mode plein écran",
     "addMore": "Ajouter ingrédients",
-    "limitIngredients": "",
-    "help": "",
-    "write": "",
+    "limitIngredients": "Astuce : l'IA fonctionne mieux si vous sélectionnez 2 à 5 ingrédients",
+    "help": "Besoin d'aide ?",
+    "write": "Écrivez-nous à ",
     "download": "télécharger"
   },
   "recipeCard": {
     "seeMore": "Aperçu",
     "customizeRecipe": "Personnaliser la recette",
     "seeLess": "Afficher moins",
-    "includes": "Comport",
+    "includes": "Comporte",
     "mustHave": "Doit avoir",
-    "substitute": "Modifiable dans la recette",
+    "substitute": "Ingrédient modifiable dans la recette",
     "select": "Afficher la recette",
     "howMany": "vos ingrédients",
     "all": "tout ",
-    "yourIngredients": "de vos ingrédients",
-    "allIngredients": "tout de vos ingrédients",
+    "yourIngredients": "vos ingrédients",
+    "allIngredients": "tous les ingrédients",
     "or": "OU",
     "mandatory": "Obligatoire",
     "swap": "Échanger",
-    "seeInstructions": "Voir la recette",
+    "seeInstructions": "Cuisine maintenant",
     "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs à votre recette",
-    "loaderText": "Associer vos ingrédients avec des recettes",
+    "loaderText": "Associer vos ingrédients à des recettes",
     "loaderTextFilter": "Actualisation des filtres",
-    "bringBack": "",
+    "bringBack": "Ramener",
     "clickDynamicRecipe": ""
   },
   "recipePage": {
     "back": "Afficher tous les résultats",
-    "tip": "Astuce: Cliquez sur l'ingrédient pour voir les substituts",
+    "tip": "Astuce : Cliquez sur l'ingrédient pour voir les substituts",
     "grams": "Afficher en grammes",
     "instructions": "Instructions",
     "noSubstitution": "Pas de substituts disponibles",
@@ -62,11 +62,11 @@
     "stepUrl": "cliquer ici"
   },
   "saveRecipe": {
-    "unique": "",
-    "flavourMatches": "",
-    "qrCodeText": "",
-    "preparingImage": "",
-    "saveTooltip": ""
+    "unique": "Votre unique",
+    "flavourMatches": "Association de saveurs",
+    "qrCodeText": "Vous avez créé cette recette unique. Utilisez le QR code pour créer d'autres recettes afin de vider votre frigo.",
+    "preparingImage": "Préparation de la recette à télécharger",
+    "saveTooltip": "Sauvegarder votre recette"
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre",
@@ -76,7 +76,7 @@
     "type": "Type de plat",
     "lessMinutes": "Moins de 20 min",
     "occasion": "Occasion",
-    "quick": "Moins de 20 min"
+    "quick": "Rapide"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Ajouter les ingrédients",
@@ -89,8 +89,8 @@
     "tooltip": "Obtenez de nouvelles associations de saveurs pour vos nouveaux ingrédients",
     "whatIsMatchShort": "Qu'est-ce qu'une combinaison?",
     "whatIsMatchLong": "Que sont les correspondances d'ingrédients ?",
-    "whatIsMatchTextShort": "",
-    "whatIsMatchTextLong": "",
+    "whatIsMatchTextShort": "Les correspondances d'ingrédients sont des ingrédients qui se marient bien avec les autres ingrédients sélectionnés pour donner un plat savoureux.",
+    "whatIsMatchTextLong": "Les associations d'ingrédients sont proposées par notre intelligence artificielle, qui a appris de millions de recettes ce qui va bien ensemble et ce qui ne va pas. Les meilleures associations sont toujours affichées en premier.",
     "added": "ajouté"
   },
   "substitutionOverlay": {
@@ -98,25 +98,25 @@
     "swapped": "échangé",
     "swap": "Échanger",
     "removeIngredient": "Supprimer",
-    "moreSubstitutes": "",
-    "noMoreSubstitutes": ""
+    "moreSubstitutes": "Voir plus de substituts",
+    "noMoreSubstitutes": "Plus de substituts"
   },
   "survey": {
     "consentHeder": "Aidez-nous à former l'IA des recettes",
     "consentText": "Nous utilisons des cookies statistiques pour collecter des données anonymisées afin d'améliorer les résultats des recettes. Consultez notre politique en matière de cookies.",
     "consentTextAldi": "Nous ne collectons aucune de vos données personnelles. Si vous avez des questions ou des commentaires sur les données, contactez la startup à l'origine de cette application : Plant Jammer.",
-    "typeformText": "",
+    "typeformText": "Vous souhaitez créer votre propre profil d'utilisateur pour bénéficier d'une expérience plus personnalisée ?",
     "dataPrivacytAldi": "Confidentialité des données",
     "impressumAldi": "Mentions légales",
     "checkHere": "politique de confidentialité",
     "npsLikely": "Trés probable",
     "npsNotLikely": "Très improbable",
     "skip": "Passer",
-    "no": "",
-    "submit": "Soumettre",
-    "sure": "",
+    "no": "Non, merci",
+    "submit": "Envoyer",
+    "sure": "Bien sûr ! ",
     "accept": "Accepter",
-    "start": "",
+    "start": "Commencer",
     "reject": "Refuser",
     "npsQuestion": "Quelles sont les chances que vous recommandiez cet outil à un ami ou un collègue?",
     "howImprove": "Comment pouvons nous nous améliorer?",
@@ -126,19 +126,19 @@
     "whatData": "Que suivez-vous exactement ?",
     "trackExplain": "Nous suivons des données statistiques sur vos sélections des éléments suivants : ingrédients, recettes et filtres (tels que les régimes ou la cuisine)",
     "feedbackButton": "Laisser un commentaire",
-    "fullscreenButton": "",
-    "fullscreenText": ""
+    "fullscreenButton": "Afficher en plein écran",
+    "fullscreenText": "L'expérience est bien meilleure en mode plein écran. Vous voulez l'essayer ?"
   },
   "homeScreen": {
-    "question": "Tu veux utiliser cette application à l'avenir ?",
-    "introTitle": "",
-    "introSubTitle": "",
+    "question": "Voulez-vous utiliser cette application à l'avenir ?",
+    "introTitle": "Obtenez-le sur votre téléphone",
+    "introSubTitle": "Il suffit de deux clics pour qu'il apparaisse sur votre page d'accueil comme une application.",
     "stepsTitle": "Deux étapes seulement",
-    "stepsSubTitle": "",
-    "step": "",
-    "step1": "",
-    "step2": "",
-    "actionButton": ""
+    "stepsSubTitle": "Suivez ces 2 étapes pour obtenir l'application sur l'écran d'accueil de votre téléphone.",
+    "step": "étape",
+    "step1": "Cliquez sur ce symbole dans la fenêtre de votre navigateur",
+    "step2": "Puis faites défiler la page pour trouver",
+    "actionButton": "Ajouter à l'écran d'accueil"
   },
   "filters": {
     "sweet": "Sucré",
@@ -155,22 +155,22 @@
     "diabetic": "Diabétique"
   },
   "shoppingList": {
-    "shoppingList": "",
-    "items": "",
-    "youMightHave": "",
-    "buyOnAmazonFresh": "",
-    "back": "",
-    "shopIngredients": ""
+    "shoppingList": "Liste de courses",
+    "items": "Articles",
+    "youMightHave": "Vous avez peut-être ceci à la maison",
+    "buyOnAmazonFresh": "Acheter sur Amazon Fresh",
+    "back": "Retour à la recette",
+    "shopIngredients": "Acheter les ingrédients"
   },
   "animations": {
-    "scanningIngredients": "Trouver des recettes dynamiques",
-    "creatingRecipe": "Tri par popularité",
-    "findingSubstitutes": "",
-    "ratingSubstitutes ": "",
-    "findingFlavors": "",
-    "findingNewRecipes": "",
+    "scanningIngredients": "Scanner les ingrédients",
+    "creatingRecipe": "Création de recettes",
+    "findingSubstitutes": "Trouver des substituts",
+    "ratingSubstitutes ": "Évaluation des substituts",
+    "findingFlavors": "Trouver de nouvelles saveurs",
+    "findingNewRecipes": "Créer de nouvelles recettes",
     "preparingRecipe": "Préparation de recette",
-    "creatingImg": "",
-    "scanningIngredients1": ""
+    "creatingImg": "Création d'une image de recette",
+    "scanningIngredients1": "Scanner les ingrédients"
   }
 }
