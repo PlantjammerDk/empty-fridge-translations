@@ -41,7 +41,7 @@
     "or": "O",
     "mandatory": "Obligatorio",
     "swap": "Cambiar",
-    "seeInstructions": "Cocine ahora",
+    "seeInstructions": "Finalizar la receta",
     "tooltipOnNoAction": "Prueba a cambiar los ingredientes o añadir más sabores a tu receta",
     "loaderText": "Combinando tus ingredientes con recetas",
     "loaderTextFilter": "Actualizando filtros",

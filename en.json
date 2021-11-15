@@ -41,7 +41,7 @@
     "or": "OR",
     "mandatory": "Mandatory",
     "swap": "Swap",
-    "seeInstructions": "Cook now",
+    "seeInstructions": "Finalize recipe",
     "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
