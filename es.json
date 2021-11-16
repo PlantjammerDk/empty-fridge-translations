@@ -66,7 +66,9 @@
     "flavourMatches": "Combinaciones de sabores",
     "qrCodeText": "Has creado esta receta única. Utiliza el código QR para crear más recetas para vaciar tu nevera.",
     "preparingImage": "Preparando receta para descargarla",
-    "saveTooltip": "Guardar la receta"
+    "saveTooltip": "Guardar la receta",
+    "modalButton": "Abrir receta",
+    "modalText": "La receta está descargada. ¿Quiere verla ahora?"
   },
   "filtersOverlay": {
     "header": "Añadir filtro",

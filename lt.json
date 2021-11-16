@@ -66,7 +66,9 @@
     "flavourMatches": "Daugiau galimų ingredientų",
     "qrCodeText": "Sukūrėte šį unikalų receptą. Naudokite QR kodą ir sukurkite daugiau receptų, kad ištuštintumėte savo šaldytuvą.",
     "preparingImage": "Paruošti receptą atsisiųsti",
-    "saveTooltip": "Išsaugoti receptą"
+    "saveTooltip": "Išsaugoti receptą",
+    "modalButton": "Atviras receptas",
+    "modalText": "Receptas atsisiųstas. Norite jį pamatyti dabar?"
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",

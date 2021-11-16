@@ -46,7 +46,8 @@
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
-    "clickDynamicRecipe": "Click to see dynamic recipe"
+    "clickDynamicRecipe": "Click to see dynamic recipe",
+    "_clickDynamicRecipe.comment": "Shows on recipe card when no ingredients were selected"
   },
   "recipePage": {
     "back": "See all results",

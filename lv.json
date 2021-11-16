@@ -66,7 +66,9 @@
     "flavourMatches": "Vairāk iespējamo sastāvdaļu",
     "qrCodeText": "Tu izveidoji šo unikālo recepti. Izmanto QR kodu un apskati vairāk recepšu, kas palīdzēs iztukšot tavu ledusskapi.",
     "preparingImage": "Receptes sagatavošana lejupielādei",
-    "saveTooltip": "Saglabāt recepti"
+    "saveTooltip": "Saglabāt recepti",
+    "modalButton": "Atvērt recepti",
+    "modalText": "Recepte ir lejupielādēta. Vai vēlaties to apskatīt tagad?"
   },
   "filtersOverlay": {
     "header": "Pievienot filtru",

@@ -66,7 +66,9 @@
     "flavourMatches": "Flere ingredienser der matcher",
     "qrCodeText": "Du har skabt denne unikke opskrift. Brug QR-koden til at lave flere opskrifter, så du kan tømme dit køleskab.",
     "preparingImage": "Forberedelse af opskrift til download",
-    "saveTooltip": ""
+    "saveTooltip": "",
+    "modalButton": "Åbn opskriften",
+    "modalText": "Opskriften er downloadet til din enhed. Vil du se den nu?"
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov",
