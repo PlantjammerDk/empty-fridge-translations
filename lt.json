@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Ieškoti receptų",
-    "header1": "Pasirink ingredientus, iš kurių nori gaminti",
+    "header1": "Pasirinkite ingredientus",
     "header2": "Pasirinkti receptą",
+    "header3": "",
+    "header4": "Pasirink ingredientus, iš kurių nori gaminti",
     "headerOetker1": "Pasirinkti vaisius",
     "headerOetker2": "Pasirinkti receptą",
     "headerTitle": "Ištuštinti šaldytuvą",

@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Vind recepten",
-    "header1": "Kies ingrediënten om mee te koken",
+    "header1": "Kies ingrediënten",
     "header2": "Selecteer recept",
+    "header3": "",
+    "header4": "Kies ingrediënten om mee te koken",
     "headerOetker1": "Selecteer fruit",
     "headerOetker2": "Selecteer recept",
     "headerTitle": "Leeg je koelkast",

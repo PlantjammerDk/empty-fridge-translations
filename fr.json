@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Créer des recettes",
-    "header1": "Choisir les ingrédients à cuisiner",
+    "header1": "Choisir des ingrédients",
     "header2": "Sélectionner la recette",
+    "header3": "",
+    "header4": "Choisir les ingrédients à cuisiner",
     "headerOetker1": "Sélectionner des fruits",
     "headerOetker2": "Sélectionner la recette",
     "headerTitle": "Vider le frigo",

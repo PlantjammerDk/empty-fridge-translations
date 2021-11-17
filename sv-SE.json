@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "",
-    "header1": "",
+    "header1": "Välj ingredienser",
     "header2": "",
+    "header3": "",
+    "header4": "Välj ingredienser som du vill laga mat med",
     "headerOetker1": "",
     "headerOetker2": "",
     "headerTitle": "",

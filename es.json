@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Buscar recetas dinámicas",
-    "header1": "Elige ingredientes para cocinar",
+    "header1": "Elige ingredientes",
     "header2": "Seleccionar receta",
+    "header3": "",
+    "header4": "Elige ingredientes con que te gustaría cocinar",
     "headerOetker1": "Seleccionar frutas",
     "headerOetker2": "Seleccionar receta",
     "headerTitle": "Vaciar la nevera",

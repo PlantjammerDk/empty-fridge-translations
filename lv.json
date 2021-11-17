@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Apskatīt receptes",
-    "header1": "Ieraksti un izvēlies sastāvdaļas, ko izmantosi",
+    "header1": "Izvēlies sastāvdaļas",
     "header2": "Izvēlies recepti",
+    "header3": "",
+    "header4": "Ieraksti un izvēlies sastāvdaļas, ko izmantosi",
     "headerOetker1": "Izvēlies augļus",
     "headerOetker2": "Izvēlies recepti",
     "headerTitle": "Iztukšo ledusskapi",

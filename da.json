@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Find dynamiske opskrifter",
-    "header1": "Vælg dine ingredienser",
+    "header1": "Vælg ingredienser",
     "header2": "Vælg opskrift",
+    "header3": "",
+    "header4": "Vælg ingredienser, du gerne vil lave mad med",
     "headerOetker1": "Vælg frugter",
     "headerOetker2": "Vælg opskrift",
     "headerTitle": "Tøm køleskabet",

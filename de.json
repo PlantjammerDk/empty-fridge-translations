@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Dynamische Rezepte finden",
-    "header1": "Wähle deine Zutaten",
+    "header1": "Wähle Zutaten",
     "header2": "Wähle ein Rezept",
+    "header3": "",
+    "header4": "Wähle Zutaten mit denen du kochen möchtest",
     "headerOetker1": "Früchte auswählen",
     "headerOetker2": "Wähle dein Rezept",
     "headerTitle": "Leere deinen Kühlschrank",

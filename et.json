@@ -1,8 +1,10 @@
 {
   "general": {
     "done": "Vaata retsepte",
-    "header1": "Vali koostisosad, millest soovid söögi valmistada",
+    "header1": "Vali koostisosad",
     "header2": "Vali retsept",
+    "header3": "",
+    "header4": "Vali koostisosad, millest soovid söögi valmistada",
     "headerOetker1": "Vali puuviljad",
     "headerOetker2": "Vali retsept",
     "headerTitle": "Tühjenda oma külmik",
