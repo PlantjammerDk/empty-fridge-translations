@@ -17,7 +17,7 @@
     "popularIngredients": "Foreslåede ingredienser",
     "errorGeneral": "Noget gik galt. Prøv igen senere",
     "errorNoIngredients": "Ingrediens findes ikke",
-    "selectTwoIngredients": "",
+    "selectTwoIngredients": "Vi anbefaler, at bruge højst to frugter.",
     "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
     "share": "Del",
     "shareResult": "Link kopieret til udklipsholderen",
@@ -68,7 +68,7 @@
     "flavourMatches": "Flere ingredienser der matcher",
     "qrCodeText": "Du har skabt denne unikke opskrift. Brug QR-koden til at lave flere opskrifter, så du kan tømme dit køleskab.",
     "preparingImage": "Forberedelse af opskrift til download",
-    "saveTooltip": "",
+    "saveTooltip": "Gem din opskrift",
     "modalButton": "Åbn opskriften",
     "modalText": "Opskriften er downloadet til din enhed. Vil du se den nu?"
   },
@@ -130,8 +130,8 @@
     "whatData": "Hvad tracker I?",
     "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger.",
     "feedbackButton": "Giv din feedback",
-    "fullscreenButton": "",
-    "fullscreenText": ""
+    "fullscreenButton": "Åbn i fuld skærm",
+    "fullscreenText": "Oplevelsen er meget bedre i fuldskærmstilstand. Vil du prøve det?"
   },
   "homeScreen": {
     "question": "Vil du bruge appen i fremtiden?",
