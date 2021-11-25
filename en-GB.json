@@ -44,7 +44,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "See recipe",
-    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
+    "tooltipOnNoAction": "Swap ingredients or add more flavor to your recipe",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
