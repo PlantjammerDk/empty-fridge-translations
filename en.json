@@ -177,5 +177,8 @@
     "preparingRecipe": "Preparing recipe",
     "creatingImg": "Creating recipe image",
     "scanningIngredients1": "Scanning ingredients"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Select a filter that suits your preferences the best"
   }
 }
