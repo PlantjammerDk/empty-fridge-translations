@@ -43,8 +43,8 @@
     "or": "OR",
     "mandatory": "Mandatory",
     "swap": "Swap",
-    "seeInstructions": "Finalize recipe",
-    "tooltipOnNoAction": "Swap ingredients or add more flavor to your recipe",
+    "seeInstructions": "Next",
+    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
@@ -81,8 +81,7 @@
     "type": "Dish Type",
     "lessMinutes": "Under 20 Min",
     "occasion": "Occasion",
-    "quick": "Quick",
-    "nutrition": "Nutrition"
+    "quick": "Quick"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add ingredients",
