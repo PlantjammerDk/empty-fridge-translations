@@ -81,7 +81,8 @@
     "type": "Dish Type",
     "lessMinutes": "Under 20 Min",
     "occasion": "Occasion",
-    "quick": "Quick"
+    "quick": "Quick",
+    "nutrition": "Nutrition"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add ingredients",
