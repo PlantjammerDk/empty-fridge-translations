@@ -26,7 +26,8 @@
     "limitIngredients": "Tip: The AI works best if you use 2-5 ingredient",
     "help": "Need help?",
     "write": "Write us on",
-    "download": "Download"
+    "download": "Download",
+    "applyingFilters": "Applying filters"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
