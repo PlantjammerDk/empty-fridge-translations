@@ -4,7 +4,7 @@
     "header1": "Pick ingredients",
     "header2": "Select recipe",
     "header3": "Pick ingredients",
-    "header4": "Select ingredients you'd like to cook with",
+    "header4": "What's in your fridge?",
     "headerOetker1": "Select fruits",
     "headerOetker2": "Select recipe",
     "headerTitle": "Empty your fridge",
@@ -45,7 +45,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "Next",
-    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
+    "tooltipOnNoAction": "Try the magic: Swap out ingredients you don't have, and add more flavors with our foodpairing",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
@@ -70,11 +70,9 @@
     "flavourMatches": "Flavour matches",
     "qrCodeText": "You created this unique recipe. Use the QR code to create more recipes to empty your fridge.",
     "preparingImage": "Preparing recipe to download",
-    "saveTooltipIphone": "Press down on recipe image to save it",
-    "saveTooltipAndroid": "Press down on recipe image to share it",
-    "modalButton": "Create New Recipe",
-    "modalText": "Recipe is downloaded to your device. Want to see it now?",
-    "button": "Save Recipe"
+    "saveTooltip": "Save your recipe",
+    "modalButton": "Open recipe",
+    "modalText": "Recipe is downloaded to your device. Want to see it now?"
   },
   "filtersOverlay": {
     "header": "Add filter",
@@ -183,6 +181,6 @@
     "scanningIngredients1": "Scanning ingredients"
   },
   "tooltipText": {
-    "filtersTooltip": "Select a filter that suits your preferences the best"
+    "filtersTooltip": "Select a filter to find your recipe"
   }
 }

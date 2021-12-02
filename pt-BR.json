@@ -26,7 +26,8 @@
     "limitIngredients": "",
     "help": "",
     "write": "",
-    "download": ""
+    "download": "",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Espiada",
@@ -44,7 +45,7 @@
     "mandatory": "",
     "swap": "Mudar",
     "seeInstructions": "Ver sua receita",
-    "tooltipOnNoAction": "",
+    "tooltipOnNoAction": "Experimente a magia: Troque os ingredientes que você não tem, e acrescente mais sabores com nosso preparo de alimentos.",
     "loaderText": "",
     "loaderTextFilter": "",
     "bringBack": "",
@@ -80,7 +81,8 @@
     "type": "",
     "lessMinutes": "",
     "occasion": "Ocasión",
-    "quick": ""
+    "quick": "",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Adicionar ingredientes",
@@ -176,5 +178,8 @@
     "preparingRecipe": "",
     "creatingImg": "",
     "scanningIngredients1": ""
+  },
+  "tooltipText": {
+    "filtersTooltip": "Selecione um filtro para encontrar sua receita"
   }
 }

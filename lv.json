@@ -26,7 +26,8 @@
     "limitIngredients": "Padoms: automātiskā intelekta funkcija darbosies vislabāk, ja būsi pievienojis 2-5 sastāvdaļas",
     "help": "",
     "write": "",
-    "download": "lejupielādēt"
+    "download": "lejupielādēt",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",
@@ -44,7 +45,7 @@
     "mandatory": "Obligāti",
     "swap": "Mainīt",
     "seeInstructions": "skatīt savu recepti",
-    "tooltipOnNoAction": "Mainiet receptes sastāvdaļas vai pievieno papildu sastāvdaļas",
+    "tooltipOnNoAction": "Izmēģiniet burvību: nomainiet sastāvdaļas, kuru jums nav, un pievienojiet vairāk garšu, izmantojot mūsu pārtikas pāri.",
     "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
     "loaderTextFilter": "Filtra atjaunināšana",
     "bringBack": "Pievienot",
@@ -80,7 +81,8 @@
     "type": "Ēdiena veids",
     "lessMinutes": "Līdz 20 min.",
     "occasion": "Gadījums",
-    "quick": "Ātri"
+    "quick": "Ātri",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pievienot sastāvdaļas",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Sagatavo recepti",
     "creatingImg": "Veidot receptes attēlu",
     "scanningIngredients1": "Skenē sastāvdaļas"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Izvēlieties filtru, lai atrastu savu recepti"
   }
 }

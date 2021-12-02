@@ -26,7 +26,8 @@
     "limitIngredients": "Consejo: la IA funciona mejor si se utilizan de 2 a 5 ingredientes",
     "help": "¿Necesitas ayuda?",
     "write": "Escríbenos a",
-    "download": "descargar"
+    "download": "descargar",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
@@ -44,7 +45,7 @@
     "mandatory": "Obligatorio",
     "swap": "Cambiar",
     "seeInstructions": "Ver su receta",
-    "tooltipOnNoAction": "Prueba a cambiar los ingredientes o añadir más sabores a tu receta",
+    "tooltipOnNoAction": "Prueba la magia: Cambia los ingredientes que no tienes y añade más sabores con nuestro foodpairing",
     "loaderText": "Combinando tus ingredientes con recetas",
     "loaderTextFilter": "Actualizando filtros",
     "bringBack": "Recuperar",
@@ -80,7 +81,8 @@
     "type": "Tipo de plato",
     "lessMinutes": "Menos de 20 min",
     "occasion": "Ocasión",
-    "quick": "Rápido"
+    "quick": "Rápido",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Añadir ingredientes",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Preparando la receta ",
     "creatingImg": "Creando la imagen de la receta",
     "scanningIngredients1": "Escaneando ingredientes"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Seleccione un filtro para encontrar su receta"
   }
 }

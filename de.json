@@ -4,7 +4,7 @@
     "header1": "Wähle Zutaten",
     "header2": "Wähle ein Rezept",
     "header3": "",
-    "header4": "Wähle Zutaten mit denen du kochen möchtest",
+    "header4": "Was ist in deinem Kühlschrank?",
     "headerOetker1": "Früchte auswählen",
     "headerOetker2": "Wähle dein Rezept",
     "headerTitle": "Leere deinen Kühlschrank",
@@ -26,7 +26,8 @@
     "limitIngredients": "Tipp: Die KI funktioniert am besten mit 2-5 Zutaten",
     "help": "Brauchst du Hilfe?",
     "write": "Schreibe uns an",
-    "download": "Herunterladen"
+    "download": "Herunterladen",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -44,7 +45,7 @@
     "mandatory": "Benötigt",
     "swap": "Tauschen",
     "seeInstructions": "Siehe dein Rezept",
-    "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
+    "tooltipOnNoAction": "Probiere die Magie: Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
     "loaderTextFilter": "Filter anpassen",
     "bringBack": "Hinzufügen",
@@ -80,7 +81,8 @@
     "type": "Gerichtart",
     "lessMinutes": "Unter 20 Min",
     "occasion": "Gelegenheit",
-    "quick": "Schnell"
+    "quick": "Schnell",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Zutaten hinzufügen",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Rezept erstellen",
     "creatingImg": "Rezeptbild erstellen",
     "scanningIngredients1": "Zutaten scannen"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Wähle einen Filter, um dein Rezept zu finden"
   }
 }

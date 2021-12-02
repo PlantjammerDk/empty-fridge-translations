@@ -26,7 +26,8 @@
     "limitIngredients": "Astuce : l'IA fonctionne mieux si vous sélectionnez 2 à 5 ingrédients",
     "help": "Besoin d'aide ?",
     "write": "Écrivez-nous à ",
-    "download": "télécharger"
+    "download": "télécharger",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Aperçu",
@@ -80,7 +81,8 @@
     "type": "Type de plat",
     "lessMinutes": "Moins de 20 min",
     "occasion": "Occasion",
-    "quick": "Rapide"
+    "quick": "Rapide",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Ajouter les ingrédients",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Préparation de recette",
     "creatingImg": "Création d'une image de recette",
     "scanningIngredients1": "Scanner les ingrédients"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Sélectionnez un filtre pour trouver votre recette"
   }
 }

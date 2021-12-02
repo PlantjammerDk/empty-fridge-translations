@@ -26,7 +26,8 @@
     "limitIngredients": "Patarimas: AI geriausiai veikia, jei naudojate 2-5 ingredientus.",
     "help": "",
     "write": "",
-    "download": "atsisiųsti"
+    "download": "atsisiųsti",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Žiūrėti receptą",
@@ -44,7 +45,7 @@
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
     "seeInstructions": "žr. jūsų receptą",
-    "tooltipOnNoAction": "Pabandykite sukeisti ingredientus vietomis arba į receptą įtraukti daugiau ingredientų.",
+    "tooltipOnNoAction": "Išbandykite magiją: pakeiskite ingredientus, kurių neturite, ir suteikite daugiau skonių, naudodami mūsų maisto poravimą.",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
     "loaderTextFilter": "Filtrų atnaujinimas",
     "bringBack": "Pridėti",
@@ -80,7 +81,8 @@
     "type": "Patiekalo tipas",
     "lessMinutes": "Iki 20 min.",
     "occasion": "Proga",
-    "quick": "Greita"
+    "quick": "Greita",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Pridėti ingredientų",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Receptų ruošimas",
     "creatingImg": "Receptų paveikslėlio kūrimas",
     "scanningIngredients1": "Ingredientų skanavimas"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Pasirinkite filtrą, kad rastumėte savo receptą"
   }
 }

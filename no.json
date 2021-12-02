@@ -26,7 +26,8 @@
     "limitIngredients": "",
     "help": "",
     "write": "",
-    "download": ""
+    "download": "",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -80,7 +81,8 @@
     "type": "",
     "lessMinutes": "",
     "occasion": "",
-    "quick": ""
+    "quick": "",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "",
@@ -176,5 +178,8 @@
     "preparingRecipe": "",
     "creatingImg": "",
     "scanningIngredients1": ""
+  },
+  "tooltipText": {
+    "filtersTooltip": ""
   }
 }

@@ -26,7 +26,8 @@
     "limitIngredients": "Nõuanne: Tehisintellekt toimib kõige paremini, kui kasutad 2-5 koostisosa",
     "help": "",
     "write": "",
-    "download": "lae alla"
+    "download": "lae alla",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
@@ -44,7 +45,7 @@
     "mandatory": "Kohustuslik",
     "swap": "Vahetus",
     "seeInstructions": "Vt oma retsepti",
-    "tooltipOnNoAction": "Proovi vahetada koostisosi või lisada oma retseptile rohkem maitseid",
+    "tooltipOnNoAction": "Proovige maagiat: vahetage välja koostisosad, mida teil ei ole, ja lisage rohkem maitseid meie toidupaaride abil.",
     "loaderText": "Koostisosade sobitamine retseptidega",
     "loaderTextFilter": "Filtrite uuendamine",
     "bringBack": "Lisa",
@@ -80,7 +81,8 @@
     "type": "Toidutüüp",
     "lessMinutes": "Alla 20 min",
     "occasion": "Sündmus",
-    "quick": "Kiire"
+    "quick": "Kiire",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Lisada koostisosi",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Retsepti valmistamine",
     "creatingImg": "Retsepti pildi loomine",
     "scanningIngredients1": "Koostisosade skaneerimine"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Valige oma retsepti leidmiseks filter"
   }
 }

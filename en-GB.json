@@ -26,7 +26,8 @@
     "limitIngredients": "Tip: The AI works best if you use 2-5 ingredients",
     "help": "",
     "write": "",
-    "download": ""
+    "download": "",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -44,7 +45,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "See your recipe",
-    "tooltipOnNoAction": "Try swapping ingredients or adding more flavors to your recipe",
+    "tooltipOnNoAction": "Try the magic: Swap out ingredients you don't have, and add more flavours with our foodpairing",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
@@ -80,7 +81,8 @@
     "type": "Dish Type",
     "lessMinutes": "Under 20 Min",
     "occasion": "Occasion",
-    "quick": "Quick"
+    "quick": "Quick",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Add ingredients",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Preparing recipe",
     "creatingImg": "Creating recipe image",
     "scanningIngredients1": "Scanning ingredients"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Select a filter to find your recipe"
   }
 }

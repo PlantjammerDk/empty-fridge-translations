@@ -26,7 +26,8 @@
     "limitIngredients": "Tip: De AI werkt het best als je 2-5 ingrediënten gebruikt",
     "help": "Hulp nodig?",
     "write": "Schrijf ons op",
-    "download": "Download"
+    "download": "Download",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -80,7 +81,8 @@
     "type": "Type gerecht",
     "lessMinutes": "Minder dan 20 minuten",
     "occasion": "Gelegenheid",
-    "quick": "Snel"
+    "quick": "Snel",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Voeg meer smaak toe",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Recept aan het voorbereiden",
     "creatingImg": "Recept afbeelding aan het creëren",
     "scanningIngredients1": "Ingrediënten scannen"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Kies een filter om uw recept te vinden"
   }
 }

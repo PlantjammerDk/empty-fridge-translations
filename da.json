@@ -4,7 +4,7 @@
     "header1": "Vælg ingredienser",
     "header2": "Vælg opskrift",
     "header3": "",
-    "header4": "Vælg ingredienser, du gerne vil lave mad med",
+    "header4": "Hvad har du i køleskabet?",
     "headerOetker1": "Vælg frugter",
     "headerOetker2": "Vælg opskrift",
     "headerTitle": "Tøm køleskabet",
@@ -26,7 +26,8 @@
     "limitIngredients": "Tip: AI fungerer bedst med 2-5 ingredienser",
     "help": "Brug for hjælp?",
     "write": "Skriv til os på",
-    "download": "Download"
+    "download": "Download",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "Se mere",
@@ -44,7 +45,7 @@
     "mandatory": "Påkrævet",
     "swap": "Byt",
     "seeInstructions": "Se din opskrift",
-    "tooltipOnNoAction": "Prøv at bytte ingredienser eller tilføje flere ingredienser til din opskrift",
+    "tooltipOnNoAction": "Prøv magien: Udskift ingredienser du ikke har, og tilføj nye smage med vores foodpairing",
     "loaderText": "Afstemning af dine ingredienser med opskrifter",
     "loaderTextFilter": "Opdatere filtre",
     "bringBack": "tilføj",
@@ -80,7 +81,8 @@
     "type": "Rettype",
     "lessMinutes": "Under 20 min",
     "occasion": "Anledning",
-    "quick": "Hurtigt"
+    "quick": "Hurtigt",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "Tilføj ingredienser",
@@ -176,5 +178,8 @@
     "preparingRecipe": "Forbereder opskrift",
     "creatingImg": "Oprettelse af opskriftsbillede",
     "scanningIngredients1": "Scanning af ingredienser"
+  },
+  "tooltipText": {
+    "filtersTooltip": "Vælg et filter for at finde din opskrift"
   }
 }

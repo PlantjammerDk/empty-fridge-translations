@@ -26,7 +26,8 @@
     "limitIngredients": "",
     "help": "",
     "write": "",
-    "download": ""
+    "download": "",
+    "applyingFilter": ""
   },
   "recipeCard": {
     "seeMore": "",
@@ -44,7 +45,7 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "vedi la tua ricetta",
-    "tooltipOnNoAction": "",
+    "tooltipOnNoAction": "Prova la magia: sostituisci gli ingredienti che non hai e aggiungi più sapori con il nostro foodpairing",
     "loaderText": "",
     "loaderTextFilter": "",
     "bringBack": "",
@@ -80,7 +81,8 @@
     "type": "",
     "lessMinutes": "",
     "occasion": "",
-    "quick": ""
+    "quick": "",
+    "nutrition": ""
   },
   "flavorOverlay": {
     "addFlavorsButton": "",
@@ -176,5 +178,8 @@
     "preparingRecipe": "",
     "creatingImg": "",
     "scanningIngredients1": ""
+  },
+  "tooltipText": {
+    "filtersTooltip": "Seleziona un filtro per trovare la tua ricetta"
   }
 }
