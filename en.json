@@ -74,7 +74,8 @@
     "saveTooltipAndroid": "Press down on recipe image to share it",
     "modalButton": "Create New Recipe",
     "modalText": "Recipe is downloaded to your device. Want to see it now?",
-    "button": "Save Recipe"
+    "button": "Save Recipe",
+    "saveTooltip": "Save your recipe"
   },
   "filtersOverlay": {
     "header": "Add filter",
