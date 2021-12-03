@@ -45,7 +45,7 @@
     "mandatory": "",
     "swap": "Mudar",
     "seeInstructions": "Ver sua receita",
-    "tooltipOnNoAction": "Experimente a magia: Troque os ingredientes que você não tem, e acrescente mais sabores com nosso preparo de alimentos.",
+    "tooltipOnNoAction": "Troque os ingredientes, e acrescente mais sabores.",
     "loaderText": "",
     "loaderTextFilter": "",
     "bringBack": "",
@@ -69,9 +69,12 @@
     "flavourMatches": "",
     "qrCodeText": "",
     "preparingImage": "",
-    "saveTooltip": "",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "",
-    "modalText": ""
+    "modalText": "",
+    "button": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Adicionar filtro",

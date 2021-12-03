@@ -45,7 +45,7 @@
     "mandatory": "Obligatorio",
     "swap": "Cambiar",
     "seeInstructions": "Ver su receta",
-    "tooltipOnNoAction": "Prueba la magia: Cambia los ingredientes que no tienes y añade más sabores con nuestro foodpairing",
+    "tooltipOnNoAction": "Cambia los ingredientes o añade más sabores.",
     "loaderText": "Combinando tus ingredientes con recetas",
     "loaderTextFilter": "Actualizando filtros",
     "bringBack": "Recuperar",
@@ -69,9 +69,12 @@
     "flavourMatches": "Combinaciones de sabores",
     "qrCodeText": "Has creado esta receta única. Utiliza el código QR para crear más recetas para vaciar tu nevera.",
     "preparingImage": "Preparando receta para descargarla",
-    "saveTooltip": "Guardar la receta",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Abrir receta",
-    "modalText": "La receta está descargada. ¿Quiere verla ahora?"
+    "modalText": "La receta está descargada. ¿Quiere verla ahora?",
+    "button": "",
+    "saveTooltip": "Guardar la receta"
   },
   "filtersOverlay": {
     "header": "Añadir filtro",

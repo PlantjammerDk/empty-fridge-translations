@@ -45,7 +45,7 @@
     "mandatory": "Obligāti",
     "swap": "Mainīt",
     "seeInstructions": "skatīt savu recepti",
-    "tooltipOnNoAction": "Izmēģiniet burvību: nomainiet sastāvdaļas, kuru jums nav, un pievienojiet vairāk garšu, izmantojot mūsu pārtikas pāri.",
+    "tooltipOnNoAction": "Nomainiet sastāvdaļas, kuru jums nav, un pievienojiet vairāk garšu.",
     "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
     "loaderTextFilter": "Filtra atjaunināšana",
     "bringBack": "Pievienot",
@@ -69,9 +69,12 @@
     "flavourMatches": "Vairāk iespējamo sastāvdaļu",
     "qrCodeText": "Tu izveidoji šo unikālo recepti. Izmanto QR kodu un apskati vairāk recepšu, kas palīdzēs iztukšot tavu ledusskapi.",
     "preparingImage": "Receptes sagatavošana lejupielādei",
-    "saveTooltip": "Saglabāt recepti",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Atvērt recepti",
-    "modalText": "Recepte ir lejupielādēta. Vai vēlaties to apskatīt tagad?"
+    "modalText": "Recepte ir lejupielādēta. Vai vēlaties to apskatīt tagad?",
+    "button": "",
+    "saveTooltip": "Saglabāt recepti"
   },
   "filtersOverlay": {
     "header": "Pievienot filtru",

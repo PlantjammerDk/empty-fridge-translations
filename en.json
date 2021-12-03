@@ -45,7 +45,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "Next",
-    "tooltipOnNoAction": "Try the magic: Swap out ingredients you don't have, and add more flavors with our foodpairing",
+    "tooltipOnNoAction": "Substitute ingredients or add more flavors.",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",

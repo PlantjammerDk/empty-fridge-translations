@@ -45,7 +45,7 @@
     "mandatory": "Benötigt",
     "swap": "Tauschen",
     "seeInstructions": "Siehe dein Rezept",
-    "tooltipOnNoAction": "Probiere die Magie: Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
+    "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
     "loaderTextFilter": "Filter anpassen",
     "bringBack": "Hinzufügen",
@@ -69,9 +69,12 @@
     "flavourMatches": "Mehr passende Zutaten",
     "qrCodeText": "Du hast dieses individuelle Rezept erstellt. Nutze den QR Code um weitere Rezepte nach deinem Geschmack zu erstellen.",
     "preparingImage": "Rezept vorbereiten zum Herunterladen",
-    "saveTooltip": "Speicher dein Rezept",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Rezept öffnen",
-    "modalText": "Rezept wurde heruntergeladen. Willst du es jetzt sehen?"
+    "modalText": "Rezept wurde heruntergeladen. Willst du es jetzt sehen?",
+    "button": "",
+    "saveTooltip": "Speicher dein Rezept"
   },
   "filtersOverlay": {
     "header": "Filter hinzufügen",

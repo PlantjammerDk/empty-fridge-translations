@@ -45,7 +45,7 @@
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
     "seeInstructions": "žr. jūsų receptą",
-    "tooltipOnNoAction": "Išbandykite magiją: pakeiskite ingredientus, kurių neturite, ir suteikite daugiau skonių, naudodami mūsų maisto poravimą.",
+    "tooltipOnNoAction": "Pakeiskite ingredientus ir suteikite daugiau skonių.",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
     "loaderTextFilter": "Filtrų atnaujinimas",
     "bringBack": "Pridėti",
@@ -69,9 +69,12 @@
     "flavourMatches": "Daugiau galimų ingredientų",
     "qrCodeText": "Sukūrėte šį unikalų receptą. Naudokite QR kodą ir sukurkite daugiau receptų, kad ištuštintumėte savo šaldytuvą.",
     "preparingImage": "Paruošti receptą atsisiųsti",
-    "saveTooltip": "Išsaugoti receptą",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Atviras receptas",
-    "modalText": "Receptas atsisiųstas. Norite jį pamatyti dabar?"
+    "modalText": "Receptas atsisiųstas. Norite jį pamatyti dabar?",
+    "button": "",
+    "saveTooltip": "Išsaugoti receptą"
   },
   "filtersOverlay": {
     "header": "Pridėti filtrą",

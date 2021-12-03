@@ -45,7 +45,7 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "vedi la tua ricetta",
-    "tooltipOnNoAction": "Prova la magia: sostituisci gli ingredienti che non hai e aggiungi più sapori con il nostro foodpairing",
+    "tooltipOnNoAction": "Sostituisci gli ingredienti che non hai e aggiungi più sapori.",
     "loaderText": "",
     "loaderTextFilter": "",
     "bringBack": "",
@@ -69,9 +69,12 @@
     "flavourMatches": "",
     "qrCodeText": "",
     "preparingImage": "",
-    "saveTooltip": "",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "",
-    "modalText": ""
+    "modalText": "",
+    "button": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "",

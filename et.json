@@ -45,7 +45,7 @@
     "mandatory": "Kohustuslik",
     "swap": "Vahetus",
     "seeInstructions": "Vt oma retsepti",
-    "tooltipOnNoAction": "Proovige maagiat: vahetage välja koostisosad, mida teil ei ole, ja lisage rohkem maitseid meie toidupaaride abil.",
+    "tooltipOnNoAction": "Vahetage välja koostisosad, mida teil ei ole, ja lisage rohkem maitseid meie toidupaaride abil.",
     "loaderText": "Koostisosade sobitamine retseptidega",
     "loaderTextFilter": "Filtrite uuendamine",
     "bringBack": "Lisa",
@@ -69,9 +69,12 @@
     "flavourMatches": "Maitse sobivused",
     "qrCodeText": "Sa lõid selle ainulaadse retsepti. Kasuta QR-koodi, et luua rohkem retsepte oma külmiku tühjendamiseks.",
     "preparingImage": "Retsepti ettevalmistamine allalaadimiseks",
-    "saveTooltip": "Salvesta enda retsept",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Avatud retsept",
-    "modalText": "Retsept on alla laaditud. Kas soovite seda nüüd näha?"
+    "modalText": "Retsept on alla laaditud. Kas soovite seda nüüd näha?",
+    "button": "",
+    "saveTooltip": "Salvesta enda retsept"
   },
   "filtersOverlay": {
     "header": "Lisa filter",

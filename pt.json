@@ -69,9 +69,12 @@
     "flavourMatches": "",
     "qrCodeText": "",
     "preparingImage": "",
-    "saveTooltip": "",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "",
-    "modalText": ""
+    "modalText": "",
+    "button": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "Adicionar filtro",

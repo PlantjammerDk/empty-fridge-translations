@@ -45,7 +45,7 @@
     "mandatory": "Obligatoire",
     "swap": "Échanger",
     "seeInstructions": "Finaliser la recette",
-    "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs à votre recette",
+    "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs.",
     "loaderText": "Associer vos ingrédients à des recettes",
     "loaderTextFilter": "Actualisation des filtres",
     "bringBack": "Ramener",
@@ -69,9 +69,12 @@
     "flavourMatches": "Association de saveurs",
     "qrCodeText": "Vous avez créé cette recette unique. Utilisez le QR code pour créer d'autres recettes afin de vider votre frigo.",
     "preparingImage": "Préparation de la recette à télécharger",
-    "saveTooltip": "Sauvegarder votre recette",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Ouvrir la recette",
-    "modalText": "La recette est téléchargée. Tu veux la voir maintenant?"
+    "modalText": "La recette est téléchargée. Tu veux la voir maintenant?",
+    "button": "",
+    "saveTooltip": "Sauvegarder votre recette"
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre",

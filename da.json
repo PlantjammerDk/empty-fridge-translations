@@ -45,7 +45,7 @@
     "mandatory": "Påkrævet",
     "swap": "Byt",
     "seeInstructions": "Se din opskrift",
-    "tooltipOnNoAction": "Prøv magien: Udskift ingredienser du ikke har, og tilføj nye smage med vores foodpairing",
+    "tooltipOnNoAction": "Udskift eller tilføj ingredienser.",
     "loaderText": "Afstemning af dine ingredienser med opskrifter",
     "loaderTextFilter": "Opdatere filtre",
     "bringBack": "tilføj",
@@ -69,9 +69,12 @@
     "flavourMatches": "Flere ingredienser der matcher",
     "qrCodeText": "Du har skabt denne unikke opskrift. Brug QR-koden til at lave flere opskrifter, så du kan tømme dit køleskab.",
     "preparingImage": "Forberedelse af opskrift til download",
-    "saveTooltip": "Gem din opskrift",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Åbn opskriften",
-    "modalText": "Opskriften er downloadet til din enhed. Vil du se den nu?"
+    "modalText": "Opskriften er downloadet til din enhed. Vil du se den nu?",
+    "button": "",
+    "saveTooltip": "Gem din opskrift"
   },
   "filtersOverlay": {
     "header": "Ændr opskrift til dit behov",

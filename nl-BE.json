@@ -69,9 +69,12 @@
     "flavourMatches": "Smaak matches",
     "qrCodeText": "Je hebt dit uniek recept gecreëerd. Gebruik de QR code om meer recepten te creëren om je koelkast te legen.",
     "preparingImage": "Recept aan het voorbereiden voor downloaden",
-    "saveTooltip": "Bewaar je recept",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Open recept",
-    "modalText": "Recept is gedownload. Wil je het nu zien?"
+    "modalText": "Recept is gedownload. Wil je het nu zien?",
+    "button": "",
+    "saveTooltip": "Bewaar je recept"
   },
   "filtersOverlay": {
     "header": "Voeg filter toe",

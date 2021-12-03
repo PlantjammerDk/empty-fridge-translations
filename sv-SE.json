@@ -45,7 +45,7 @@
     "mandatory": "",
     "swap": "",
     "seeInstructions": "Se ditt recept",
-    "tooltipOnNoAction": "Prova magin: Byt ut ingredienser som du inte har och lägg till fler smaker med vår foodpairing.",
+    "tooltipOnNoAction": "Byt ut ingredienser och lägg till fler smaker.",
     "loaderText": "",
     "loaderTextFilter": "",
     "bringBack": "",
@@ -69,9 +69,12 @@
     "flavourMatches": "",
     "qrCodeText": "",
     "preparingImage": "",
-    "saveTooltip": "",
+    "saveTooltipIphone": "",
+    "saveTooltipAndroid": "",
     "modalButton": "Öppna receptet",
-    "modalText": "Receptet har laddats ner. Vill du se den nu?"
+    "modalText": "Receptet har laddats ner. Vill du se den nu?",
+    "button": "",
+    "saveTooltip": ""
   },
   "filtersOverlay": {
     "header": "",
