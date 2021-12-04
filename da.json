@@ -45,7 +45,7 @@
     "mandatory": "Påkrævet",
     "swap": "Byt",
     "seeInstructions": "Se din opskrift",
-    "tooltipOnNoAction": "Udskift eller tilføj ingredienser.",
+    "tooltipOnNoAction": "Er der nogen ingredienser, du ikke har? Byt dem!",
     "loaderText": "Afstemning af dine ingredienser med opskrifter",
     "loaderTextFilter": "Opdatere filtre",
     "bringBack": "tilføj",
@@ -183,6 +183,6 @@
     "scanningIngredients1": "Scanning af ingredienser"
   },
   "tooltipText": {
-    "filtersTooltip": "Vælg et filter for at finde din opskrift"
+    "filtersTooltip": "Opskrifterne tilpasser sig til dine valg."
   }
 }

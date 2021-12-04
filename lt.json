@@ -45,7 +45,7 @@
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
     "seeInstructions": "žr. jūsų receptą",
-    "tooltipOnNoAction": "Pakeiskite ingredientus ir suteikite daugiau skonių.",
+    "tooltipOnNoAction": "Kokių nors ingredientų neturite? Pakeiskite juos!",
     "loaderText": "Sudedamųjų dalių derinimas su receptais",
     "loaderTextFilter": "Filtrų atnaujinimas",
     "bringBack": "Pridėti",
@@ -183,6 +183,6 @@
     "scanningIngredients1": "Ingredientų skanavimas"
   },
   "tooltipText": {
-    "filtersTooltip": "Pasirinkite filtrą, kad rastumėte savo receptą"
+    "filtersTooltip": "Receptai pritaikomi pagal jūsų pageidavimus."
   }
 }

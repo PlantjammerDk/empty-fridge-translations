@@ -45,7 +45,7 @@
     "mandatory": "Obligatorio",
     "swap": "Cambiar",
     "seeInstructions": "Ver su receta",
-    "tooltipOnNoAction": "Cambia los ingredientes o añade más sabores.",
+    "tooltipOnNoAction": "¿Hay algún ingrediente que no tengas? ¡Cámbialos!",
     "loaderText": "Combinando tus ingredientes con recetas",
     "loaderTextFilter": "Actualizando filtros",
     "bringBack": "Recuperar",
@@ -183,6 +183,6 @@
     "scanningIngredients1": "Escaneando ingredientes"
   },
   "tooltipText": {
-    "filtersTooltip": "Seleccione un filtro para encontrar su receta"
+    "filtersTooltip": "Las recetas se adaptan a sus preferencias."
   }
 }

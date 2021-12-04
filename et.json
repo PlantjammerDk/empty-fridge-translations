@@ -45,7 +45,7 @@
     "mandatory": "Kohustuslik",
     "swap": "Vahetus",
     "seeInstructions": "Vt oma retsepti",
-    "tooltipOnNoAction": "Vahetage välja koostisosad, mida teil ei ole, ja lisage rohkem maitseid meie toidupaaride abil.",
+    "tooltipOnNoAction": "Kas teil on mingeid koostisosi, mida ei ole? Vahetage need välja!",
     "loaderText": "Koostisosade sobitamine retseptidega",
     "loaderTextFilter": "Filtrite uuendamine",
     "bringBack": "Lisa",
@@ -183,6 +183,6 @@
     "scanningIngredients1": "Koostisosade skaneerimine"
   },
   "tooltipText": {
-    "filtersTooltip": "Valige oma retsepti leidmiseks filter"
+    "filtersTooltip": "Retseptid kohanduvad vastavalt teie eelistustele."
   }
 }

@@ -45,7 +45,7 @@
     "mandatory": "Benötigt",
     "swap": "Tauschen",
     "seeInstructions": "Siehe dein Rezept",
-    "tooltipOnNoAction": "Versuche Zutaten zu tauschen oder dein Rezept zu verfeinern!",
+    "tooltipOnNoAction": "Gibt es Zutaten, die du nicht hast? Tausche sie aus!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
     "loaderTextFilter": "Filter anpassen",
     "bringBack": "Hinzufügen",
@@ -183,6 +183,6 @@
     "scanningIngredients1": "Zutaten scannen"
   },
   "tooltipText": {
-    "filtersTooltip": "Wähle einen Filter, um dein Rezept zu finden"
+    "filtersTooltip": "Die Rezepte passen sich deinen Vorlieben an."
   }
 }

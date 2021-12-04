@@ -45,7 +45,7 @@
     "mandatory": "Obligāti",
     "swap": "Mainīt",
     "seeInstructions": "skatīt savu recepti",
-    "tooltipOnNoAction": "Nomainiet sastāvdaļas, kuru jums nav, un pievienojiet vairāk garšu.",
+    "tooltipOnNoAction": "Kādas sastāvdaļas, kuru jums nav? Apmainiet tās!",
     "loaderText": "Sastāvdaļu saskaņošana ar receptēm",
     "loaderTextFilter": "Filtra atjaunināšana",
     "bringBack": "Pievienot",
@@ -183,6 +183,6 @@
     "scanningIngredients1": "Skenē sastāvdaļas"
   },
   "tooltipText": {
-    "filtersTooltip": "Izvēlieties filtru, lai atrastu savu recepti"
+    "filtersTooltip": "Receptes pielāgojas jūsu izvēlei."
   }
 }

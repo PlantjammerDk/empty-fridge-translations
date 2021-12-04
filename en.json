@@ -45,7 +45,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "Next",
-    "tooltipOnNoAction": "Substitute ingredients or add more flavors.",
+    "tooltipOnNoAction": "Any ingredients you don't have? Swap them!",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
@@ -184,6 +184,6 @@
     "scanningIngredients1": "Scanning ingredients"
   },
   "tooltipText": {
-    "filtersTooltip": "Select a filter to find your recipe"
+    "filtersTooltip": "The recipes adapt to your choices."
   }
 }

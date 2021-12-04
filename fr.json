@@ -45,7 +45,7 @@
     "mandatory": "Obligatoire",
     "swap": "Échanger",
     "seeInstructions": "Finaliser la recette",
-    "tooltipOnNoAction": "Essayez d'échanger des ingrédients ou d'ajouter plus de saveurs.",
+    "tooltipOnNoAction": "Des ingrédients que vous n'avez pas ? Échangez-les!",
     "loaderText": "Associer vos ingrédients à des recettes",
     "loaderTextFilter": "Actualisation des filtres",
     "bringBack": "Ramener",
