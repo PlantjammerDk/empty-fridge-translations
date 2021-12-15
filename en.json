@@ -27,7 +27,9 @@
     "help": "Need help?",
     "write": "Write us on",
     "download": "Download",
-    "applyingFilter": "Applying filter"
+    "applyingFilter": "Applying filter",
+    "copyRecipeLink": "Copy Recipe Link",
+    "copied": "Copied!"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
