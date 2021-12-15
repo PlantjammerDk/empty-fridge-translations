@@ -90,7 +90,7 @@
   "flavorOverlay": {
     "addFlavorsButton": "Add ingredients",
     "newFlavors": "Generate new flavors",
-    "done": "Done",
+    "done": "Back to recipe",
     "moreMatches": "See more matches",
     "addFlavorsText": "Add more flavor to",
     "loaderTextFlavor": "AI is finding new flavors that match your recipe",
@@ -140,8 +140,8 @@
   },
   "homeScreen": {
     "question": "",
-    "introTitle": "",
-    "introSubTitle": "",
+    "introTitle": "Get the free app",
+    "introSubTitle": "Just 2 clicks. No appstore.",
     "stepsTitle": "",
     "stepsSubTitle": "",
     "step": "",

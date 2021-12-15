@@ -27,9 +27,7 @@
     "help": "Need help?",
     "write": "Write us on",
     "download": "Download",
-    "applyingFilter": "Applying filter",
-    "copyRecipeLink": "Copy Recipe Link",
-    "copied": "Copied!"
+    "applyingFilter": "Applying filter"
   },
   "recipeCard": {
     "seeMore": "Sneak peek",
@@ -91,9 +89,9 @@
     "nutrition": "Nutrition"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Add ingredients",
+    "addFlavorsButton": "Add spices (foodpairing)",
     "newFlavors": "Generate new flavors",
-    "done": "Done",
+    "done": "Back to recipe",
     "moreMatches": "See more matches",
     "addFlavorsText": "Add more flavor to",
     "loaderTextFlavor": "AI is finding new flavors that match your recipe",
@@ -128,7 +126,7 @@
     "submit": "Submit",
     "sure": "Sure!",
     "accept": "Accept",
-    "start": "Get started",
+    "start": "Get app",
     "reject": "Reject",
     "npsQuestion": "How likely are you to recommend this tool to a friend or colleague?",
     "howImprove": "How can we improve?",
@@ -143,13 +141,13 @@
   },
   "homeScreen": {
     "question": "Want to use this app in the future?",
-    "introTitle": "Get it on your phone",
-    "introSubTitle": "It only takes 2 clicks, and you’ll have it on your homepage acting like an app.",
+    "introTitle": "Get the free app",
+    "introSubTitle": "Just 2 clicks. No appstore.",
     "stepsTitle": "How to get the app",
     "stepsSubTitle": "Follow these 2 steps to get the app on your phone homescreen.",
     "step": "step",
-    "step1": "Click on this symbol in your browser window",
-    "step2": "Then scroll down to find",
+    "step1": "Click on this symbol on your screen.",
+    "step2": "Scroll down and click...",
     "actionButton": "Add to Home screen"
   },
   "filters": {

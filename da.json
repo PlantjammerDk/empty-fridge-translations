@@ -88,9 +88,9 @@
     "nutrition": ""
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Tilføj ingredienser",
+    "addFlavorsButton": "Tilføj krydderier (foodpairing",
     "newFlavors": "Generere nye ingredienser",
-    "done": "Færdig",
+    "done": "Tilbage til opskrift",
     "moreMatches": "Se flere matches",
     "addFlavorsText": "Tilføj flere ingredienser til ",
     "loaderTextFlavor": "AI finder nye ingredienser, der passer til din opskrift",
@@ -125,7 +125,7 @@
     "submit": "Indsend",
     "sure": "Selvfølgelig!",
     "accept": "Acceptér",
-    "start": "Ja tak!",
+    "start": "OK",
     "reject": "Afvis",
     "npsQuestion": "Hvor sandsynligt er det, at du anbefaler denne oplevelse til en ven eller kollega?",
     "howImprove": "Hvordan kan vi blive bedre?",
@@ -140,13 +140,13 @@
   },
   "homeScreen": {
     "question": "Vil du bruge appen i fremtiden?",
-    "introTitle": "Få det på din telefon",
-    "introSubTitle": "Med blot to klik har du det som en app på din mobiltelefon.",
+    "introTitle": "Få din gratis app",
+    "introSubTitle": "Bare to klik. Ingen appstore.",
     "stepsTitle": "Sådan får du appen",
     "stepsSubTitle": "Følg disse 2 skridt for at få appen på telefonens startskærm.",
     "step": "",
-    "step1": "Klik på dette symbol i dit browservindue",
-    "step2": "Rul derefter ned og vælg",
+    "step1": "Klik på dette symbol på din skærm.",
+    "step2": "Scroll ned og tryk...",
     "actionButton": "Tilføj til startskærm"
   },
   "filters": {
