@@ -27,7 +27,9 @@
     "help": "",
     "write": "",
     "download": "lejupielādēt",
-    "applyingFilter": ""
+    "applyingFilter": "",
+    "copyRecipeLink": "",
+    "copied": ""
   },
   "recipeCard": {
     "seeMore": "Apskatīt",

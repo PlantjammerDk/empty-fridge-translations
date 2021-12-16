@@ -27,7 +27,9 @@
     "help": "¿Necesitas ayuda?",
     "write": "Escríbenos a",
     "download": "descargar",
-    "applyingFilter": ""
+    "applyingFilter": "",
+    "copyRecipeLink": "",
+    "copied": ""
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
