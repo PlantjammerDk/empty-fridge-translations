@@ -27,9 +27,9 @@
     "help": "Brauchst du Hilfe?",
     "write": "Schreibe uns an",
     "download": "Herunterladen",
-    "applyingFilter": "",
-    "copyRecipeLink": "",
-    "copied": ""
+    "applyingFilter": "Filter anwenden",
+    "copyRecipeLink": "Rezeptlink kopieren",
+    "copied": "Link kopiert!"
   },
   "recipeCard": {
     "seeMore": "Vorschau",
@@ -71,11 +71,11 @@
     "flavourMatches": "Mehr passende Zutaten",
     "qrCodeText": "Du hast dieses individuelle Rezept erstellt. Nutze den QR Code um weitere Rezepte nach deinem Geschmack zu erstellen.",
     "preparingImage": "Rezept vorbereiten zum Herunterladen",
-    "saveTooltipIphone": "",
-    "saveTooltipAndroid": "",
+    "saveTooltipIphone": "Halte das Rezeptbild gedrückt um es zu speichern",
+    "saveTooltipAndroid": "Halte das Rezeptbild gedrückt um es zu teilen",
     "modalButton": "Neues Rezept erstellen",
     "modalText": "Rezept wurde heruntergeladen. Willst du es jetzt sehen?",
-    "button": "",
+    "button": "Rezept speichern",
     "saveTooltip": "Speicher dein Rezept"
   },
   "filtersOverlay": {
@@ -87,7 +87,7 @@
     "lessMinutes": "Unter 20 Min",
     "occasion": "Gelegenheit",
     "quick": "Schnell",
-    "nutrition": ""
+    "nutrition": "Ernährungsweisen"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Zutaten hinzufügen",
