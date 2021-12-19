@@ -47,7 +47,7 @@
     "mandatory": "Påkrævet",
     "swap": "Byt",
     "seeInstructions": "Se din opskrift",
-    "tooltipOnNoAction": "Er der nogen ingredienser, du ikke har? Byt dem!",
+    "tooltipOnNoAction": "Før du får din opskrift - vil du tilføje eller udskifte en ingrediens?",
     "loaderText": "Afstemning af dine ingredienser med opskrifter",
     "loaderTextFilter": "Opdatere filtre",
     "bringBack": "tilføj",
