@@ -92,7 +92,7 @@
   "flavorOverlay": {
     "addFlavorsButton": "Tilføj krydderier (foodpairing",
     "newFlavors": "Generere nye ingredienser",
-    "done": "Tilbage til opskrift",
+    "done": "Færdig",
     "moreMatches": "Se flere matches",
     "addFlavorsText": "Tilføj flere ingredienser til ",
     "loaderTextFlavor": "AI finder nye ingredienser, der passer til din opskrift",

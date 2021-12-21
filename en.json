@@ -93,7 +93,7 @@
   "flavorOverlay": {
     "addFlavorsButton": "Add spices (foodpairing)",
     "newFlavors": "Generate new flavors",
-    "done": "Back to recipe",
+    "done": "Done",
     "moreMatches": "See more matches",
     "addFlavorsText": "Add more flavor to",
     "loaderTextFlavor": "AI is finding new flavors that match your recipe",
