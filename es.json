@@ -27,6 +27,7 @@
     "help": "¿Necesitas ayuda?",
     "write": "Escríbenos a",
     "download": "descargar",
+    "downloadApp": "",
     "applyingFilter": "",
     "copyRecipeLink": "",
     "copied": ""
@@ -138,7 +139,7 @@
     "yourFeedback": "Agradecemos sus comentarios",
     "whatData": "¿Qué es exactamente lo que rastrea?",
     "trackExplain": "Hacemos un seguimiento de los datos estadísticos sobre tus selecciones de los siguientes elementos: ingredientes, recetas y filtros (como dietas o cocina)",
-    "feedbackButton": "Deja un comentario",
+    "feedbackButton": "personalizar",
     "fullscreenButton": "Pantalla completa",
     "fullscreenText": "La experiencia es mucho mejor a pantalla completa. ¿Quieres probarlo?"
   },

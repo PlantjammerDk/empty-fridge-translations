@@ -27,6 +27,7 @@
     "help": "",
     "write": "",
     "download": "atsisiųsti",
+    "downloadApp": "",
     "applyingFilter": "",
     "copyRecipeLink": "",
     "copied": ""
@@ -138,7 +139,7 @@
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "whatData": "Ką tiksliai stebite?",
     "trackExplain": "Mes renkame statistinius duomenis apie jūsų ingredientų, receptų ir filtrų (tokių, kaip mityba arba virtuvė) pasirinkimus ",
-    "feedbackButton": "pateikite savo atsiliepimus",
+    "feedbackButton": "suasmeninti",
     "fullscreenButton": "Atidaryti per visą ekraną",
     "fullscreenText": "Viso ekrano režimo patirtis yra daug geresnė. Norite išbandyti?"
   },

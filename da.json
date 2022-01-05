@@ -27,6 +27,7 @@
     "help": "Brug for hjælp?",
     "write": "Skriv til os på",
     "download": "Download",
+    "downloadApp": "",
     "applyingFilter": "",
     "copyRecipeLink": "",
     "copied": ""
@@ -138,7 +139,7 @@
     "yourFeedback": "Vi sætter pris på din feedback.",
     "whatData": "Hvad tracker I?",
     "trackExplain": "Vi tracker statistisk anonymiseret data på hvad gennemsnittet vælger.",
-    "feedbackButton": "Giv din feedback",
+    "feedbackButton": "Personalisér",
     "fullscreenButton": "Åbn i fuld skærm",
     "fullscreenText": "Oplevelsen er meget bedre i fuldskærmstilstand. Vil du prøve det?"
   },
