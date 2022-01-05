@@ -95,6 +95,7 @@
     "done": "Hecho",
     "moreMatches": "Ver más combinaciones",
     "addFlavorsText": "Añadir más sabor a tu",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "La IA está buscando nuevos sabores para tu receta",
     "noMatches": "No hay más combinaciones",
     "tooltip": "Obtener nuevas combinaciones de sabores para tus nuevos ingredientes",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "¿Qué son las combinaciones de ingredientes?",
     "whatIsMatchTextShort": "Ingredient que combinan son ingredientes que encajan bien con los otros ingredientes seleccionados para hacer un plato con un gran sabor.",
     "whatIsMatchTextLong": "Las combinaciones de ingredientes son propuestas por nuestra inteligencia artificial, que ha aprendido de millones de recetas lo que combina bien y lo que no. Las mejores combinaciones se muestran siempre en primer lugar.",
-    "added": "añadido"
+    "added": "añadido",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": " La inteligencia artificial está encontrando sustitutos",

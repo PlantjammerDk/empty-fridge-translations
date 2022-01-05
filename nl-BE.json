@@ -95,6 +95,7 @@
     "done": "Klaar",
     "moreMatches": "Zie meer matches",
     "addFlavorsText": "Voeg meer smaak toe aan",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "AI zoekt nieuwe smaken die matchen met jouw recept",
     "noMatches": "Geen matches meer",
     "tooltip": "Krijg nieuwe smaakmatches voor je nieuwe ingrediënten",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "Wat zijn ingrediënt matches?",
     "whatIsMatchTextShort": "Ingredient matches zijn ingrediënten die goed samengaan met de andere geselecteerde ingrediënten om een goed smakend gerecht te creëren.",
     "whatIsMatchTextLong": "De ingrediënt matches worden voorgesteld door onze artificiële intelligentie, die uit miljoenen recepten heeft geleerd wat wel en niet samengaat. De beste matches worden altijd eerst getoond.",
-    "added": "toegevoegd"
+    "added": "toegevoegd",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "De artificiële intelligentie is vervangproducten aan het zoeken",

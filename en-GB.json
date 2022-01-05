@@ -95,6 +95,7 @@
     "done": "Done",
     "moreMatches": "See more matches",
     "addFlavorsText": "Add more flavor to",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "AI is finding new flavors that match your recipe",
     "noMatches": "No more matches",
     "tooltip": "Get new flavor matches for your new ingredients",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "What are ingredient matches?",
     "whatIsMatchTextShort": "Ingredient matches are ingredients that fit well with the other selected ingredients to make a great tasting dish.",
     "whatIsMatchTextLong": "The ingredient matches are proposed by our artificial intelligence, which has learned from millions of recipes what fits well together and what doesn’t. The best matches are always shown first.",
-    "added": "added"
+    "added": "added",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": " The artificial intelligence is finding substitutes",

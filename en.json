@@ -91,7 +91,7 @@
     "nutrition": "Nutrition"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Add spices (foodpairing)",
+    "addFlavorsButton": "Add ingredients",
     "newFlavors": "Generate new flavors",
     "done": "Done",
     "moreMatches": "See more matches",

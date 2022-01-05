@@ -95,6 +95,7 @@
     "done": "Pabeigts",
     "moreMatches": "Skatīt vairāk ieteikumu",
     "addFlavorsText": "Pievienot sastāvdaļas",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "Mākslīgais intelekts atrod jaunas sastāvdaļas, kas atbilst tavai receptei",
     "noMatches": "Ieteikumu vairs nav",
     "tooltip": "Saņemt ieteikumus jaunām sastāvdaļām",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "Kas ir sastāvdaļu saderība?",
     "whatIsMatchTextShort": "Ingredient saderība ir tad, kas sastāvdaļas savstarpēji ir saderīgas un ļauj pagatavot garšīgu ēdienu.",
     "whatIsMatchTextLong": "Sastāvdaļu saderību nosaka mūsu mākslīgā intelekta funkcija, kas miljonos recepšu ir apguvusi savstarpēji saderīgas un nesaderīgas sastāvdaļas. Labākā saderība vienmēr tiks rādīta pirmā.",
-    "added": "pievienots"
+    "added": "pievienots",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Mākslīgais intelekts atrod aizstājējus",

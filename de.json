@@ -95,6 +95,7 @@
     "done": "Fertig",
     "moreMatches": "Mehr Vorschläge zeigen",
     "addFlavorsText": "Verfeinere dein Rezept",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "Die KI sucht weitere Zutaten die zu deinem Rezept passen",
     "noMatches": "Keine weiteren Treffer",
     "tooltip": "Neue Vorschläge für deine neuen Zutaten",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "Was sind passende Zutaten?",
     "whatIsMatchTextShort": "Passende Zutaten sind Vorschläge die gut zu deinen anderen Zutaten passen um ein leckeres Rezept zu erstellen.",
     "whatIsMatchTextLong": "Die passenden Zutaten werden von unserer künstlichen Intelligenz vorgeschlagen die anhand von Millionen von Rezepte gelernt hat was gut zusammen passt und was nicht. Die besten Treffer werden immer zu erst angezeigt.",
-    "added": "hinzugefügt"
+    "added": "hinzugefügt",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Die KI sucht nach alternativen Zutaten",

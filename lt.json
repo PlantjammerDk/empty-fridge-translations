@@ -95,6 +95,7 @@
     "done": "Baigta",
     "moreMatches": "Žiūrėti daugiau atitikmenų",
     "addFlavorsText": "Pridėkite daugiau ingredientų",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "Dirbtinis intelektas randa naujus ingredientus, atitinkančius jūsų receptą",
     "noMatches": "Daugiau atitikmenų nėra",
     "tooltip": "Gaukite naujų pasiūlymų su naujais ingredientais",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "Kas yra ingredientų atitikimas?",
     "whatIsMatchTextShort": "Ingredientų atitikimas reiškia kaip labai ingredientas tinka, kad pagamintumėte skanų patiekalą.",
     "whatIsMatchTextLong": "Ingredientai yra parenkami dirbtinio intelekto įrankio, kuris mokosi analizuodamas milijonus receptų, ten kur ingredientai tinka vienas su kitu geriausiai. Geriausiai derantys pasirinkimai visuomet yra rodomi pirmiausia.",
-    "added": "pridėta"
+    "added": "pridėta",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "Dirbtinis intelektas randa pakaitalų",

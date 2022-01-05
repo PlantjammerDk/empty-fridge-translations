@@ -95,6 +95,7 @@
     "done": "Fait",
     "moreMatches": "Voir plus de combinaisons",
     "addFlavorsText": "Ajoutez plus de saveur à votre",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "L'IA recherche de nouvelles saveurs correspondant à votre recette",
     "noMatches": "Plus de correspondance",
     "tooltip": "Obtenez de nouvelles associations de saveurs pour vos nouveaux ingrédients",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "Que sont les correspondances d'ingrédients ?",
     "whatIsMatchTextShort": "Les correspondances d'ingrédients sont des ingrédients qui se marient bien avec les autres ingrédients sélectionnés pour donner un plat savoureux.",
     "whatIsMatchTextLong": "Les associations d'ingrédients sont proposées par notre intelligence artificielle, qui a appris de millions de recettes ce qui va bien ensemble et ce qui ne va pas. Les meilleures associations sont toujours affichées en premier.",
-    "added": "ajouté"
+    "added": "ajouté",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "L'intelligence artificielle trouve des substituts",

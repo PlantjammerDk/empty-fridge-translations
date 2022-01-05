@@ -95,6 +95,7 @@
     "done": "Feito",
     "moreMatches": "",
     "addFlavorsText": "Adicionar mais sabor a",
+    "addFlavorsTitle": "",
     "loaderTextFlavor": "",
     "noMatches": "",
     "tooltip": "",
@@ -102,7 +103,8 @@
     "whatIsMatchLong": "",
     "whatIsMatchTextShort": "",
     "whatIsMatchTextLong": "",
-    "added": ""
+    "added": "",
+    "allFlavors": ""
   },
   "substitutionOverlay": {
     "findingSubstitutes": "",
