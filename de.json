@@ -48,7 +48,7 @@
     "mandatory": "Benötigt",
     "swap": "Tauschen",
     "seeInstructions": "Siehe dein Rezept",
-    "tooltipOnNoAction": "Bevor Sie Ihr Rezept erhalten - möchten Sie eine Zutat hinzufügen oder austauschen?",
+    "tooltipOnNoAction": "Gibt es eine Zutat, die du nicht hast? Klicke auf die Zutat, um Alternativen zu finden!",
     "loaderText": "Rezepten auf deine Zutaten abstimmen",
     "loaderTextFilter": "Filter anpassen",
     "bringBack": "Hinzufügen",

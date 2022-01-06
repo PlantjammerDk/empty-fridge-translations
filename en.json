@@ -48,7 +48,7 @@
     "mandatory": "Mandatory",
     "swap": "Swap",
     "seeInstructions": "See your recipe",
-    "tooltipOnNoAction": "Before you get your recipe - want to add or swap an ingredient?",
+    "tooltipOnNoAction": "Is there's an ingredient you don't have? Click 'swap' to get substitutes!",
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
