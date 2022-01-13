@@ -140,6 +140,7 @@
     "whatData": "What exactly do you track?",
     "trackExplain": "We track statistical data on your selections of the following: ingredients, recipes and filters (such as diets or cuisine)",
     "feedbackButton": "Personalize",
+    "surveyButton": "Personalize",
     "fullscreenButton": "Open in fullscreen",
     "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
   },
