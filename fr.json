@@ -52,7 +52,7 @@
     "loaderText": "Associer vos ingrédients à des recettes",
     "loaderTextFilter": "Actualisation des filtres",
     "bringBack": "Ramener",
-    "clickDynamicRecipe": ""
+    "clickDynamicRecipe": "Cliquez pour voir cette recette dynamique"
   },
   "recipePage": {
     "back": "Afficher tous les résultats",

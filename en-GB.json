@@ -52,7 +52,7 @@
     "loaderText": "Matching your ingredients with recipes",
     "loaderTextFilter": "Updating filters",
     "bringBack": "Bring back",
-    "clickDynamicRecipe": ""
+    "clickDynamicRecipe": "Click to see this dynamic recipe"
   },
   "recipePage": {
     "back": "See all results",
