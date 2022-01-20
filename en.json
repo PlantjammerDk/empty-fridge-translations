@@ -23,6 +23,7 @@
     "shareResult": "Link copied to clipboard",
     "fullscreenMode": "Try fullscreen mode",
     "addMore": "Ingredients",
+    "_addMore.comment": "\"+ Ingredients\" button on the recipe results page to get back to the first page and add more ingredients",
     "limitIngredients": "Tip: The AI works best if you use 2-5 ingredient",
     "help": "Need help?",
     "write": "Write us on",
