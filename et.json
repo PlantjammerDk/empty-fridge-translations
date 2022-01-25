@@ -29,7 +29,7 @@
     "download": "lae alla",
     "downloadApp": "",
     "applyingFilter": "",
-    "copyRecipeLink": "",
+    "copyRecipeLink": "Kopeeri link",
     "copied": ""
   },
   "recipeCard": {
@@ -76,7 +76,7 @@
     "saveTooltipAndroid": "",
     "modalButton": "Loo uus retsept",
     "modalText": "Retsept on alla laaditud. Kas soovite seda nüüd näha?",
-    "button": "",
+    "button": "salvesta retsept",
     "saveTooltip": "Salvesta enda retsept"
   },
   "filtersOverlay": {
@@ -151,8 +151,8 @@
     "stepsTitle": "Ainult kaks sammu",
     "stepsSubTitle": "",
     "step": "",
-    "step1": "",
-    "step2": "",
+    "step1": "Klõpsake sellel sümbolil ekraanil.",
+    "step2": "Kerige alla ja klõpsake",
     "actionButton": "Avakuvale lisamine "
   },
   "filters": {

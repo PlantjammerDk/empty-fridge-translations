@@ -29,7 +29,7 @@
     "download": "",
     "downloadApp": "",
     "applyingFilter": "",
-    "copyRecipeLink": "",
+    "copyRecipeLink": "Kopiera länk",
     "copied": ""
   },
   "recipeCard": {
@@ -76,7 +76,7 @@
     "saveTooltipAndroid": "",
     "modalButton": "Skapa nytt recept",
     "modalText": "Receptet har laddats ner. Vill du se den nu?",
-    "button": "",
+    "button": "Spara receptet",
     "saveTooltip": ""
   },
   "filtersOverlay": {
@@ -146,7 +146,7 @@
   },
   "homeScreen": {
     "question": "",
-    "introTitle": "",
+    "introTitle": "Ladda ner appen",
     "introSubTitle": "",
     "stepsTitle": "",
     "stepsSubTitle": "",

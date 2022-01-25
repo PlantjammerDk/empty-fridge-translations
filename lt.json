@@ -29,7 +29,7 @@
     "download": "atsisiųsti",
     "downloadApp": "",
     "applyingFilter": "",
-    "copyRecipeLink": "",
+    "copyRecipeLink": "Kopijuoti nuorodą",
     "copied": ""
   },
   "recipeCard": {
@@ -76,7 +76,7 @@
     "saveTooltipAndroid": "",
     "modalButton": "Sukurti naują receptą",
     "modalText": "Receptas atsisiųstas. Norite jį pamatyti dabar?",
-    "button": "",
+    "button": "išsaugoti receptą",
     "saveTooltip": "Išsaugoti receptą"
   },
   "filtersOverlay": {
@@ -146,12 +146,12 @@
   },
   "homeScreen": {
     "question": "Norite naudoti šią programėlę ateityje?",
-    "introTitle": "",
+    "introTitle": "Atsisiųsti programėlę",
     "introSubTitle": "",
     "stepsTitle": "Tik du žingsniai",
     "stepsSubTitle": "",
     "step": "",
-    "step1": "",
+    "step1": "Spustelėkite šį simbolį",
     "step2": "",
     "actionButton": ""
   },

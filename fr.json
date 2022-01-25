@@ -29,7 +29,7 @@
     "download": "télécharger",
     "downloadApp": "",
     "applyingFilter": "",
-    "copyRecipeLink": "",
+    "copyRecipeLink": "Copier le lien",
     "copied": ""
   },
   "recipeCard": {
@@ -76,7 +76,7 @@
     "saveTooltipAndroid": "",
     "modalButton": "Créer nouvelle recette",
     "modalText": "La recette est téléchargée. Tu veux la voir maintenant?",
-    "button": "",
+    "button": "sauver recette",
     "saveTooltip": "Sauvegarder votre recette"
   },
   "filtersOverlay": {

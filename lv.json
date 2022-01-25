@@ -29,7 +29,7 @@
     "download": "lejupielādēt",
     "downloadApp": "",
     "applyingFilter": "",
-    "copyRecipeLink": "",
+    "copyRecipeLink": "Kopēt saiti",
     "copied": ""
   },
   "recipeCard": {
@@ -76,7 +76,7 @@
     "saveTooltipAndroid": "",
     "modalButton": "Izveidot jaunu recepti",
     "modalText": "Recepte ir lejupielādēta. Vai vēlaties to apskatīt tagad?",
-    "button": "",
+    "button": "saglabāt recepti",
     "saveTooltip": "Saglabāt recepti"
   },
   "filtersOverlay": {
@@ -146,14 +146,14 @@
   },
   "homeScreen": {
     "question": "Vai vēlaties šo lietotni izmantot arī turpmāk?",
-    "introTitle": "",
+    "introTitle": "Lejupielādēt lietotni",
     "introSubTitle": "",
     "stepsTitle": "Tikai divi soļi",
     "stepsSubTitle": "",
     "step": "",
-    "step1": "",
-    "step2": "",
-    "actionButton": ""
+    "step1": "Noklikšķiniet uz šī simbola",
+    "step2": "ritiniet uz leju un noklikšķiniet uz",
+    "actionButton": "Pievienot sākuma ekrānam"
   },
   "filters": {
     "sweet": "Salds",
