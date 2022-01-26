@@ -76,7 +76,7 @@
   "filtersOverlay": {
     "header": "Add filter",
     "dishType": "Dish Type",
-    "cuisine": "Region",
+    "cuisine": "Other cuisines",
     "diet": "Diet",
     "occasion": "Occasion",
     "quick": "Quick",
