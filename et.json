@@ -3,7 +3,7 @@
     "done": "Vaata retsepte",
     "header1": "Vali koostisosad",
     "header2": "Vali retsept",
-    "header4": "Vali koostisosad, millest soovid söögi valmistada",
+    "header4": "Mis on su külmkapis?",
     "headerOetker1": "Vali puuviljad",
     "headerOetker2": "Vali retsept",
     "headerTitle": "Tühjenda oma külmik",
@@ -18,22 +18,22 @@
     "selectTwoIngredients": "Soovitame kasutada maksimaalselt kahte puuvilja.",
     "noRecipeFound": "Vabandust, retsepte ei leitud. Proovi lisada üks koostisosa juurde.",
     "fullscreenMode": "Proovi täisekraani",
-    "addMore": "Lisa juurde",
+    "addMore": "Lisa koostisosad",
     "limitIngredients": "Nõuanne: Tehisintellekt toimib kõige paremini, kui kasutad 2-5 koostisosa",
-    "help": "",
-    "write": "",
-    "download": "lae alla",
-    "downloadApp": "",
-    "applyingFilter": "",
-    "copyRecipeLink": "Kopeeri link",
-    "copied": ""
+    "help": "Vajad abi?",
+    "write": "Kirjuta meile",
+    "download": "Lae alla",
+    "downloadApp": "Lae alla rakendus",
+    "applyingFilter": "Rakenda filtrid",
+    "copyRecipeLink": "Kopeeri retseptilink",
+    "copied": "Kopeeritud!"
   },
   "recipeCard": {
     "seeMore": "Eelvaade",
     "seeLess": "Näita vähem",
-    "includes": "Kohandage seda retsepti, klõpsates pildil. Sisaldab ",
+    "includes": "Kohanda seda retsepti pildile vajutades. Sisaldab ",
     "mustHave": "Peab sisaldama",
-    "substitute": "Võib asendada",
+    "substitute": "Ingredient võib retseptis asendada",
     "select": "Vaata retsepti",
     "howMany": "sinu koostisosi",
     "all": "kõik",
@@ -42,11 +42,11 @@
     "or": "VÕI",
     "mandatory": "Kohustuslik",
     "swap": "Vahetus",
-    "seeInstructions": "Vt oma retsepti",
-    "tooltipOnNoAction": "Kas teil on mingeid koostisosi, mida ei ole? Vahetage need välja!",
+    "seeInstructions": "Vaata oma retsepti",
+    "tooltipOnNoAction": "Kas siin on mingeid koostisosi, mida sul ei ole? Vajuta 'vaheta', et leida asendusaineid!",
     "loaderTextFilter": "Filtrite uuendamine",
-    "bringBack": "Lisa",
-    "clickDynamicRecipe": "Klõpsake, et näha seda dünaamilist retsepti"
+    "bringBack": "Too tagasi",
+    "clickDynamicRecipe": "Klõpsa, et näha seda dünaamilist retsepti"
   },
   "recipePage": {
     "tip": "Nõuanne! Vajuta peale koostisosale, et näha asendusaineid",
@@ -64,23 +64,23 @@
     "unique": "Teie unikaalne",
     "flavourMatches": "Maitse sobivused",
     "qrCodeText": "Sa lõid selle ainulaadse retsepti. Kasuta QR-koodi, et luua rohkem retsepte oma külmiku tühjendamiseks.",
-    "saveTooltipIphone": "",
-    "saveTooltipAndroid": "",
+    "saveTooltipIphone": "Vajuta retseptipildile, et seda salvestada",
+    "saveTooltipAndroid": "Vajuta retseptipildile, et seda jagada",
     "modalButton": "Loo uus retsept",
-    "button": "salvesta retsept",
+    "button": "Salvesta retsept",
     "saveTooltip": "Salvesta enda retsept"
   },
   "filtersOverlay": {
     "header": "Lisa filter",
     "dishType": "Toidutüüp",
-    "cuisine": "Piirkond",
+    "cuisine": "Teised köögid",
     "diet": "Toitumine",
     "occasion": "Sündmus",
     "quick": "Kiire",
-    "nutrition": ""
+    "nutrition": "Toitumine"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Lisada koostisosi",
+    "addFlavorsButton": "Lisa koostisosad",
     "moreMatches": "Vaata rohkem soovitusi",
     "addFlavorsTitle": "Lisa koostisosad",
     "noMatches": "Rohkem tulemusi ei ole",
@@ -89,35 +89,35 @@
   "substitutionOverlay": {
     "swapped": "vahetatud",
     "swap": "Vaheta",
-    "moreSubstitutes": "Vaata rohkem asendajaid",
-    "noMoreSubstitutes": ""
+    "moreSubstitutes": "Vaata rohkem asendusaineid",
+    "noMoreSubstitutes": "Rohkem asendusaineid pole"
   },
   "survey": {
-    "typeformText": "Want to adapt this app to your own taste and nutritional goals?",
+    "typeformText": "Soovid seda rakendust kujundada vastavalt enda maitsetele ja toitumiseesmärkidele?",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
     "no": "Ei, aitäh",
     "submit": "Esita",
     "sure": "Sobib!",
-    "start": "",
+    "start": "Hangi rakendus",
     "npsQuestion": "Kui tõenäoline on, et soovitad seda vahendit sõbrale?",
     "whatGood": "Hästi! Mis sulle meeldis selle vahendi puhul?",
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
-    "feedbackButton": "Tagasisidet",
-    "surveyButton": "Personaliseerida",
+    "feedbackButton": "Tagasiside",
+    "surveyButton": "Personaliseeri",
     "fullscreenButton": "Ava täisekraanil",
     "fullscreenText": "Kogemus on täisekraanil märksa parem. Soovid proovida?"
   },
   "homeScreen": {
-    "question": "Kas soovite seda rakendust tulevikus kasutada?",
-    "introTitle": "Hangi see oma telefoni",
-    "introSubTitle": "",
-    "stepsTitle": "Ainult kaks sammu",
-    "step": "",
-    "step1": "Klõpsake sellel sümbolil ekraanil.",
-    "step2": "Kerige alla ja klõpsake",
+    "question": "Kas soovid seda rakendust tulevikus kasutada?",
+    "introTitle": "Lae alla rakendus",
+    "introSubTitle": "Vaid 2 klikki. Ei mingit rakenduse poodi.",
+    "stepsTitle": "Kuidas saada rakendus",
+    "step": "samm",
+    "step1": "Klõpsa ekraanil sellele sümbolile.",
+    "step2": "Keri alla ja klõpsa...",
     "actionButton": "Avakuvale lisamine "
   },
   "filters": {
@@ -146,6 +146,6 @@
     "scanningIngredients1": "Koostisosade skaneerimine"
   },
   "tooltipText": {
-    "filtersTooltip": "Retseptid kohanduvad vastavalt teie eelistustele."
+    "filtersTooltip": "Retseptid kohanduvad vastavalt sinu eelistustele."
   }
 }

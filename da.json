@@ -42,7 +42,7 @@
     "or": "",
     "mandatory": "Påkrævet",
     "swap": "Byt",
-    "seeInstructions": "Se din opskrift",
+    "seeInstructions": "Se opskriften",
     "tooltipOnNoAction": "Er der en ingrediens, du ikke har? Tryk på ingrediensen for alternativer.",
     "loaderTextFilter": "Opdatere filtre",
     "bringBack": "tilføj",
@@ -80,7 +80,7 @@
     "nutrition": ""
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Tilføj krydderier (foodpairing)",
+    "addFlavorsButton": "Tilføj ingredienser",
     "moreMatches": "Se flere matches",
     "addFlavorsTitle": "Tilføj ingredienser",
     "noMatches": "Ikke flere resultater",
