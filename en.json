@@ -148,6 +148,7 @@
     "scanningIngredients1": "Scanning ingredients"
   },
   "tooltipText": {
-    "filtersTooltip": "The recipes adapt to your choices."
+    "filtersTooltip": "The recipes adapt to your choices.",
+    "cardTooltip": "Click on a recipe to personalize it further"
   }
 }
