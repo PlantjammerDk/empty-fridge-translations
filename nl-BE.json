@@ -37,7 +37,6 @@
     "select": "Zie recept",
     "howMany": "jouw ingrediënten",
     "all": "al",
-    "yourIngredients": "jouw ingrediënten",
     "allIngredients": "alle ingrediënten",
     "or": "OF",
     "mandatory": "Verplicht",
@@ -100,8 +99,9 @@
     "no": "Nee, bedankt",
     "submit": "Dien in",
     "sure": "Jazeker!",
-    "start": "Ja, graag",
+    "start": "Gids halen",
     "npsQuestion": "App downloadt op je beginscherm na deze ene vraag: Hoe groot is de kans dat je deze tool aanbeveelt aan een vriend?",
+    "npsQuestion2": "",
     "whatGood": "Fantastisch! Wat vond je leuk aan deze tool?",
     "thankYou": "Bedankt!",
     "yourFeedback": "We waarderen je feedback!",
@@ -112,9 +112,9 @@
   },
   "homeScreen": {
     "question": "Wil je deze app in de toekomst gebruiken?",
-    "introTitle": "Zet het op je telefoon",
-    "introSubTitle": "Twee klikken en je hebt het als een app op je mobiele telefoon.",
-    "stepsTitle": "Slechts twee stappen",
+    "introTitle": "Cool dat je de app leuk vindt!",
+    "introSubTitle": "Downloaden naar uw telefoon in slechts 2 klikken.",
+    "stepsTitle": "Hoe te downloaden op uw telefoon",
     "step": "",
     "step1": "Klik op dit symbool in uw browservenster",
     "step2": "Scroll dan naar beneden en kies",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Ingrediënten scannen"
   },
   "tooltipText": {
-    "filtersTooltip": "De recepten passen zich aan uw voorkeuren aan."
+    "filtersTooltip": "De recepten passen zich aan uw voorkeuren aan.",
+    "cardTooltip": ""
   }
 }

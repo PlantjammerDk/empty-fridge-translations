@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Recomendamos utilizar no máximo duas frutas.",
     "noRecipeFound": "Desculpe, não encontramos receitas. Tente incluir outro ingrediente.",
     "fullscreenMode": "Experimente o modo tela cheia",
-    "addMore": "Adicione ingredientes",
+    "addMore": "Adicionar ingredientes",
     "limitIngredients": "Dica: o sistema funciona melhor se você utilizar 2-5 ingredientes",
     "help": "Precisa de ajuda?",
     "write": "Escreva-nos em",
@@ -37,12 +37,11 @@
     "select": "Veja a receita",
     "howMany": "de seus ingredientes",
     "all": "todos",
-    "yourIngredients": "de seus ingredientes",
     "allIngredients": "todos os ingredientes",
     "or": "OU",
     "mandatory": "Obrigatório",
     "swap": "Trocar",
-    "seeInstructions": "Próximo",
+    "seeInstructions": "Veja a receita",
     "tooltipOnNoAction": "Não tem algum dos ingredientes? Clique em \"trocar\" para substituí-lo!",
     "loaderTextFilter": "Atualizando filtros",
     "bringBack": "Devolver",
@@ -100,8 +99,9 @@
     "no": "Não, obrigado(a)",
     "submit": "Enviar",
     "sure": "Claro!",
-    "start": "Baixar aplicativo",
-    "npsQuestion": "Downloads de aplicativos para sua tela inicial após esta pergunta: Qual é a probabilidade de você recomendar esta ferramenta a um amigo?",
+    "start": "Obter guia",
+    "npsQuestion": "Faremos o download do aplicativo após esta pergunta: Qual é a probabilidade de você recomendar esta ferramenta a um amigo?",
+    "npsQuestion2": "Qual é a probabilidade de você recomendar esta ferramenta a um amigo?",
     "whatGood": "Ótimo! Do que você gostou nessa ferramenta?",
     "thankYou": "Obrigado!",
     "yourFeedback": "Agradecemos pela sua opinião",
@@ -112,9 +112,9 @@
   },
   "homeScreen": {
     "question": "Quer usar este aplicativo no futuro?",
-    "introTitle": "Baixar aplicativo",
-    "introSubTitle": "Só 2 cliques.",
-    "stepsTitle": "Como baixar o aplicativo",
+    "introTitle": "Esfriar você gosta do aplicativo!",
+    "introSubTitle": "Faça o download para seu telefone em apenas 2 cliques.",
+    "stepsTitle": "Como fazer o download em seu telefone",
     "step": "passo",
     "step1": "Clique neste símbolo em sua tela.",
     "step2": "Role para baixo e clique...",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Escaneando ingredientes"
   },
   "tooltipText": {
-    "filtersTooltip": "As receitas se adaptam às suas escolhas."
+    "filtersTooltip": "As receitas se adaptam às suas escolhas.",
+    "cardTooltip": ""
   }
 }

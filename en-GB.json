@@ -37,7 +37,6 @@
     "select": "See recipe",
     "howMany": "your ingredients",
     "all": "all",
-    "yourIngredients": "your ingredients",
     "allIngredients": "all ingredients",
     "or": "OR",
     "mandatory": "Mandatory",
@@ -100,8 +99,9 @@
     "no": "No, thanks",
     "submit": "Submit",
     "sure": "Sure!",
-    "start": "",
+    "start": "Get guide",
     "npsQuestion": "App downloads to your homescreen after this one question: How likely are you to recommend this tool to a friend?",
+    "npsQuestion2": "",
     "whatGood": "Great! What did you like about this tool?",
     "thankYou": "Thank you!",
     "yourFeedback": "We appreciate your feedback",
@@ -112,9 +112,9 @@
   },
   "homeScreen": {
     "question": "",
-    "introTitle": "Get the free app",
-    "introSubTitle": "Just 2 clicks. No appstore.",
-    "stepsTitle": "",
+    "introTitle": "Glad you like it!",
+    "introSubTitle": "Download to your phone in just 2 clicks.",
+    "stepsTitle": "How to download on your phone",
     "step": "",
     "step1": "",
     "step2": "",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Scanning ingredients"
   },
   "tooltipText": {
-    "filtersTooltip": "The recipes adapt to your choices."
+    "filtersTooltip": "The recipes adapt to your choices.",
+    "cardTooltip": ""
   }
 }

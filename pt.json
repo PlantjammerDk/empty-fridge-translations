@@ -37,7 +37,6 @@
     "select": "Veja a receita",
     "howMany": "de seus ingredientes",
     "all": "",
-    "yourIngredients": "",
     "allIngredients": "",
     "or": "",
     "mandatory": "",
@@ -57,7 +56,7 @@
     "matchGreat": "",
     "matchOk": "",
     "matchBrave": "",
-    "ingredients": "",
+    "ingredients": "Resumo",
     "stepUrl": ""
   },
   "saveRecipe": {
@@ -102,6 +101,7 @@
     "sure": "",
     "start": "",
     "npsQuestion": "",
+    "npsQuestion2": "",
     "whatGood": "",
     "thankYou": "",
     "yourFeedback": "",
@@ -146,6 +146,7 @@
     "scanningIngredients1": ""
   },
   "tooltipText": {
-    "filtersTooltip": ""
+    "filtersTooltip": "",
+    "cardTooltip": ""
   }
 }

@@ -37,7 +37,6 @@
     "select": "Se opskrift",
     "howMany": "dine ingredienser",
     "all": "alle",
-    "yourIngredients": "dine ingredienser",
     "allIngredients": "alle dine ingredienser",
     "or": "",
     "mandatory": "Påkrævet",
@@ -100,8 +99,9 @@
     "no": "Nej tak",
     "submit": "Indsend",
     "sure": "Selvfølgelig!",
-    "start": "OK",
+    "start": "Få guide",
     "npsQuestion": "Appen downloades til din hjemmeskærm efter dette ene spørgsmål: Hvor sandsynligt er det, at du anbefaler denne oplevelse til en ven?",
+    "npsQuestion2": "Hvor sandsynligt er det, at du anbefaler denne oplevelse til en ven?",
     "whatGood": "Fantastisk! Hvad kunne du lide ved oplevelse?",
     "thankYou": "Mange tak!",
     "yourFeedback": "Vi sætter pris på din feedback.",
@@ -112,9 +112,9 @@
   },
   "homeScreen": {
     "question": "Vil du bruge appen i fremtiden?",
-    "introTitle": "Download app",
-    "introSubTitle": "Bare to klik. Ingen appstore.",
-    "stepsTitle": "Sådan får du appen",
+    "introTitle": "Fedt, du kan lide appen!",
+    "introSubTitle": "Download til din telefon med kun 2 klik.",
+    "stepsTitle": "Sådan downloader du på din telefon",
     "step": "",
     "step1": "Klik på dette symbol på din skærm.",
     "step2": "Scroll ned og tryk...",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Scanning af ingredienser"
   },
   "tooltipText": {
-    "filtersTooltip": "Opskrifterne tilpasser sig til dine valg."
+    "filtersTooltip": "Opskrifterne tilpasser sig til dine valg.",
+    "cardTooltip": ""
   }
 }

@@ -1,9 +1,9 @@
 {
   "general": {
     "done": "Buscar recetas dinámicas",
-    "header1": "Elige ingredientes",
+    "header1": "Elegir ingredientes",
     "header2": "Seleccionar receta",
-    "header4": "Elige ingredientes con que te gustaría cocinar",
+    "header4": "¿Qué tienes en la nevera?",
     "headerOetker1": "Seleccionar frutas",
     "headerOetker2": "Seleccionar receta",
     "headerTitle": "Vaciar la nevera",
@@ -18,35 +18,34 @@
     "selectTwoIngredients": "Recomendamos utilizar como máximo dos frutas.",
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
     "fullscreenMode": "Prueba el modo de pantalla completa",
-    "addMore": "Añadir ingredientes",
+    "addMore": "Añadir Ingredients",
     "limitIngredients": "Consejo: la IA funciona mejor si se utilizan de 2 a 5 ingredientes",
     "help": "¿Necesitas ayuda?",
     "write": "Escríbenos a",
-    "download": "descargar",
-    "downloadApp": "",
-    "applyingFilter": "",
-    "copyRecipeLink": "Copiar enlace",
-    "copied": ""
+    "download": "Descargar",
+    "downloadApp": "Descargar App",
+    "applyingFilter": "Aplicar filtro",
+    "copyRecipeLink": "Copiar Enlace de la Receta",
+    "copied": "¡Copiado!"
   },
   "recipeCard": {
     "seeMore": "Vista rápida",
     "seeLess": "Ver menos",
-    "includes": "Personalice esta receta haciendo clic en la imagen. Incluido",
+    "includes": "Personaliza esta receta haciendo clic en la imagen. Incluye",
     "mustHave": "Debe tener",
     "substitute": "Ingredient puede modificarse en la receta",
     "select": "Ver receta",
-    "howMany": "tus ingredientes",
+    "howMany": "de tus ingredientes",
     "all": "todos",
-    "yourIngredients": "tus ingredientes",
     "allIngredients": "todos los ingredientes",
     "or": "O",
     "mandatory": "Obligatorio",
     "swap": "Cambiar",
-    "seeInstructions": "Ver su receta",
-    "tooltipOnNoAction": "¿Hay algún ingrediente que no tengas? ¡Cámbialos!",
+    "seeInstructions": "Ver receta",
+    "tooltipOnNoAction": "¿Te falta algún ingrediente? ¡Pulsa el botón \"Cambiar\" y encuentra distintas alternativas!",
     "loaderTextFilter": "Actualizando filtros",
     "bringBack": "Recuperar",
-    "clickDynamicRecipe": "Haga clic para ver esta dinámica receta"
+    "clickDynamicRecipe": "Haz clic para ver esta receta dinámica"
   },
   "recipePage": {
     "tip": "Consejo: haz clic en el ingrediente para alternativas",
@@ -64,8 +63,8 @@
     "unique": "Tu única",
     "flavourMatches": "Combinaciones de sabores",
     "qrCodeText": "Has creado esta receta única. Utiliza el código QR para crear más recetas para vaciar tu nevera.",
-    "saveTooltipIphone": "",
-    "saveTooltipAndroid": "",
+    "saveTooltipIphone": "Presiona la imagen de la receta para guardarla. ",
+    "saveTooltipAndroid": "Presiona la imagen de la receta para compartirla. ",
     "modalButton": "Crear nueva receta",
     "button": "Guardar receta",
     "saveTooltip": "Guardar la receta"
@@ -73,16 +72,16 @@
   "filtersOverlay": {
     "header": "Añadir filtro",
     "dishType": "Tipo de plato",
-    "cuisine": "Twists",
+    "cuisine": "Volver a combinar",
     "diet": "Dieta",
     "occasion": "Ocasión",
     "quick": "Rápido",
-    "nutrition": ""
+    "nutrition": "Nutrición"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Añadir ingredientes",
     "moreMatches": "Ver más combinaciones",
-    "addFlavorsTitle": "Añade los ingredientes",
+    "addFlavorsTitle": "Añadir ingredientes",
     "noMatches": "No hay más combinaciones",
     "added": "añadido"
   },
@@ -93,31 +92,32 @@
     "noMoreSubstitutes": "No hay más alternativas"
   },
   "survey": {
-    "typeformText": "¿Quieres crear tu propio perfil de usuario para obtener una experiencia más personalizada?",
+    "typeformText": "¿Te gustaría que la app se ajustase más a tus gustos y meta nutricional?",
     "npsLikely": "Muy probable",
     "npsNotLikely": "Poco probable",
     "skip": "Saltar",
     "no": "No, gracias",
     "submit": "Enviar",
     "sure": "¡Si!",
-    "start": "Comenzar",
-    "npsQuestion": "La aplicación se descarga en tu pantalla de inicio después de esta pregunta: ¿Qué probabilidad hay de que recomiendes esta herramienta a un amigo?",
+    "start": "Obtenga la guía",
+    "npsQuestion": "La descarga comenzará en la pantalla de inicio una vez que hayas respondido la siguiente pregunta: ¿Qué probabilidad hay de que recomiendes esta app a un amigo?",
+    "npsQuestion2": "¿Qué probabilidad hay de que recomiendes esta app a un amigo?",
     "whatGood": "Muy bien. ¿Qué te ha gustado de esta herramienta?",
     "thankYou": "Gracias",
     "yourFeedback": "Agradecemos sus comentarios",
-    "feedbackButton": "Reacción",
-    "surveyButton": "personalizar",
+    "feedbackButton": "Comentarios",
+    "surveyButton": "Personalizar",
     "fullscreenButton": "Pantalla completa",
     "fullscreenText": "La experiencia es mucho mejor a pantalla completa. ¿Quieres probarlo?"
   },
   "homeScreen": {
     "question": "¿Quieres utilizar esta aplicación en el futuro?",
-    "introTitle": "Consíguela en tu teléfono",
-    "introSubTitle": "Con solo 2 clics la tendrás en tu página de inicio como una app.",
-    "stepsTitle": "Cómo conseguir la app",
+    "introTitle": "¡Genial, te gusta!",
+    "introSubTitle": "Descárgalo en tu teléfono con sólo 2 clics.",
+    "stepsTitle": "Cómo descargar en su teléfono",
     "step": "paso",
-    "step1": "Haz clic en este símbolo en la ventana de tu navegador",
-    "step2": "Desplázate hacia abajo para encontrar",
+    "step1": "Haz clic en este símbolo que verás en la pantalla.",
+    "step2": "Desliza hacia abajo y pulsa... ",
     "actionButton": "Añadir a la pantalla de Inicio"
   },
   "filters": {
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Escaneando ingredientes"
   },
   "tooltipText": {
-    "filtersTooltip": "Las recetas se adaptan a sus preferencias."
+    "filtersTooltip": "Las recetas se adaptan a tus preferencias.",
+    "cardTooltip": ""
   }
 }

@@ -37,7 +37,6 @@
     "select": "",
     "howMany": "",
     "all": "",
-    "yourIngredients": "",
     "allIngredients": "",
     "or": "",
     "mandatory": "",
@@ -102,6 +101,7 @@
     "sure": "",
     "start": "",
     "npsQuestion": "",
+    "npsQuestion2": "",
     "whatGood": "",
     "thankYou": "",
     "yourFeedback": "",
@@ -146,6 +146,7 @@
     "scanningIngredients1": ""
   },
   "tooltipText": {
-    "filtersTooltip": ""
+    "filtersTooltip": "",
+    "cardTooltip": ""
   }
 }

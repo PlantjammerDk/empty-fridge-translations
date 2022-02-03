@@ -37,7 +37,6 @@
     "select": "Se recept",
     "howMany": "av dina ingredienser",
     "all": "alla",
-    "yourIngredients": "av dina ingredienser",
     "allIngredients": "alla ingredienser",
     "or": "eller",
     "mandatory": "Obligatorisk",
@@ -100,8 +99,9 @@
     "no": "Nej tack",
     "submit": "Skicka in",
     "sure": "Ja visst!",
-    "start": "Skaffa appen",
+    "start": "Skaffa guide",
     "npsQuestion": "Appen laddas ner till hemskärmen efter den här frågan: Hur sannolikt är det att du rekommenderar appen till en vän?",
+    "npsQuestion2": "Hur sannolikt är det att du rekommenderar appen till en vän?",
     "whatGood": "Härligt! Vad gillade du med appen?",
     "thankYou": "Tack!",
     "yourFeedback": "Vi uppskattar din feedback",
@@ -112,9 +112,9 @@
   },
   "homeScreen": {
     "question": "Vill du använda appen i framtiden?",
-    "introTitle": "Ladda ner appen",
-    "introSubTitle": "Bara 2 klick. Ingen appstore.",
-    "stepsTitle": "Hur du skaffar appen",
+    "introTitle": "Kul att du gillar appen!",
+    "introSubTitle": "Ladda ner till din telefon med bara två klick.",
+    "stepsTitle": "Hur du laddar ner till din telefon",
     "step": "steg",
     "step1": "Klicka på den här symbolen på din skärm.",
     "step2": "Scrolla ner och klicka...",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Skannar ingredienser"
   },
   "tooltipText": {
-    "filtersTooltip": "Recepten anpassar sig efter dina val."
+    "filtersTooltip": "Recepten anpassar sig efter dina val.",
+    "cardTooltip": ""
   }
 }

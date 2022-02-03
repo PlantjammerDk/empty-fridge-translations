@@ -37,7 +37,6 @@
     "select": "Vaata retsepti",
     "howMany": "sinu koostisosi",
     "all": "kõik",
-    "yourIngredients": "sinu koostisosi",
     "allIngredients": "kõik koostisosad",
     "or": "VÕI",
     "mandatory": "Kohustuslik",
@@ -57,7 +56,7 @@
     "matchGreat": "Kõige parem sobivus",
     "matchOk": "Parim sobivus",
     "matchBrave": "Hea sobivus",
-    "ingredients": "ülevaade",
+    "ingredients": "Ülevaade",
     "stepUrl": "vajuta siia"
   },
   "saveRecipe": {
@@ -100,8 +99,9 @@
     "no": "Ei, aitäh",
     "submit": "Esita",
     "sure": "Sobib!",
-    "start": "Hangi rakendus",
+    "start": "Hangi juhend",
     "npsQuestion": "Rakendus laeb alla teie koduekraanile pärast seda ühte küsimust: Kui tõenäoline on, et soovitad seda vahendit sõbrale?",
+    "npsQuestion2": "Kui tõenäoline on, et soovitad seda vahendit sõbrale?",
     "whatGood": "Hästi! Mis sulle meeldis selle vahendi puhul?",
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
@@ -112,9 +112,9 @@
   },
   "homeScreen": {
     "question": "Kas soovid seda rakendust tulevikus kasutada?",
-    "introTitle": "Lae alla rakendus",
-    "introSubTitle": "Vaid 2 klikki. Ei mingit rakenduse poodi.",
-    "stepsTitle": "Kuidas saada rakendus",
+    "introTitle": "Lahe sulle meeldib rakendus!",
+    "introSubTitle": "Laadige oma telefoni vaid 2 hiireklõpsuga.",
+    "stepsTitle": "Kuidas telefoni alla laadida",
     "step": "samm",
     "step1": "Klõpsa ekraanil sellele sümbolile.",
     "step2": "Keri alla ja klõpsa...",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Koostisosade skaneerimine"
   },
   "tooltipText": {
-    "filtersTooltip": "Retseptid kohanduvad vastavalt sinu eelistustele."
+    "filtersTooltip": "Retseptid kohanduvad vastavalt sinu eelistustele.",
+    "cardTooltip": ""
   }
 }

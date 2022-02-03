@@ -23,7 +23,7 @@
     "help": "Brauchst du Hilfe?",
     "write": "Schreibe uns an",
     "download": "Herunterladen",
-    "downloadApp": "",
+    "downloadApp": "App herunterladen",
     "applyingFilter": "Filter anwenden",
     "copyRecipeLink": "Rezeptlink kopieren",
     "copied": "Link kopiert!"
@@ -37,7 +37,6 @@
     "select": "Zum Rezept",
     "howMany": "deinen Zutaten",
     "all": "alle",
-    "yourIngredients": "deine Zutaten",
     "allIngredients": "alle deine Zutaten",
     "or": "oder",
     "mandatory": "Benötigt",
@@ -57,7 +56,7 @@
     "matchGreat": "Passt perfekt",
     "matchOk": "Passt super",
     "matchBrave": "Passt gut",
-    "ingredients": "Zutaten",
+    "ingredients": "Übersicht",
     "stepUrl": "hier klicken"
   },
   "saveRecipe": {
@@ -77,7 +76,7 @@
     "diet": "Ernährung",
     "occasion": "Gelegenheit",
     "quick": "Schnell",
-    "nutrition": "Ernährungsweisen"
+    "nutrition": "Ernährungsweise"
   },
   "flavorOverlay": {
     "addFlavorsButton": "Zutaten hinzufügen",
@@ -93,29 +92,30 @@
     "noMoreSubstitutes": "Keine weiteren Alternativen"
   },
   "survey": {
-    "typeformText": "Want to adapt this app to your own taste and nutritional goals?",
+    "typeformText": "Willst du die App deinen Vorlieben und Ernährungszielen anpassen?",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
     "skip": "Überspringen",
     "no": "Nein danke",
     "submit": "Fertig",
     "sure": "Klar! ",
-    "start": "Los geht's",
+    "start": "Leitfaden erhalten",
     "npsQuestion": "Die App wird nach dieser einen Frage auf Ihren Startbildschirm heruntergeladen: Wie wahrscheinlich ist es, dass du dieses Tool an einen Freund weiterempfiehlst?",
+    "npsQuestion2": "Wie wahrscheinlich ist es, dass du dieses Tool an einen Freund weiterempfiehlst?",
     "whatGood": "Super! Was gefällt dir an diesem Tool?",
     "thankYou": "Vielen Dank!",
     "yourFeedback": "Wir freuen uns über dein Feedback",
-    "feedbackButton": "Rückmeldung",
+    "feedbackButton": "Feedback",
     "surveyButton": "Personalisieren",
     "fullscreenButton": "In Vollbildmodus öffnen",
     "fullscreenText": "Das Nutzererlebnis ist im Vollbildmodus noch besser. Möchtest du es ausprobieren?"
   },
   "homeScreen": {
     "question": "Willst du die App auch zukünftig verwenden?",
-    "introTitle": "Speicher sie auf deinem Handy",
-    "introSubTitle": "Nur zwei Klicks und du hast sie als App auf deinem Handy.",
-    "stepsTitle": "So speicherst du die App ",
-    "step": "",
+    "introTitle": "Toll, dass Ihnen die App gefällt!",
+    "introSubTitle": "Download auf Ihr Handy mit nur 2 Klicks.",
+    "stepsTitle": "Herunterladen auf dein Handy",
+    "step": "Schritt",
     "step1": "Klicke dieses Symbol in deinem Browser",
     "step2": "Dann scrolle nach unten und wähle",
     "actionButton": "Zum Startbildschirm hinzufügen "
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Zutaten scannen"
   },
   "tooltipText": {
-    "filtersTooltip": "Die Rezepte passen sich deinen Vorlieben an."
+    "filtersTooltip": "Die Rezepte passen sich deinen Vorlieben an.",
+    "cardTooltip": ""
   }
 }

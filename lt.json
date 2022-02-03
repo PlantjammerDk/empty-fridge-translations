@@ -1,14 +1,14 @@
 {
   "general": {
     "done": "Ieškoti receptų",
-    "header1": "Pasirinkite ingredientus",
+    "header1": "Pasirinkti ingredientus",
     "header2": "Pasirinkti receptą",
-    "header4": "Pasirink ingredientus, iš kurių nori gaminti",
+    "header4": "Ką turi šaldytuve?",
     "headerOetker1": "Pasirinkti vaisius",
     "headerOetker2": "Pasirinkti receptą",
     "headerTitle": "Ištuštinti šaldytuvą",
     "headerTitleOetker": "Eime gaminti",
-    "selectedIngredients": "Pasirinkti ingredientai",
+    "selectedIngredients": "Pasirinkti Ingredients",
     "search": "Ingredientų paieška",
     "searchMore": "Pridėti daugiau ingredientų",
     "searchRecipes": "Ieškoma receptų",
@@ -18,34 +18,33 @@
     "selectTwoIngredients": "Rekomenduojame naudoti daugiausiai du vaisius.",
     "noRecipeFound": "Atsiprašome, neradome jokių receptų. Pabandykite pridėti daugiau ingredientų.",
     "fullscreenMode": "Išbandykite viso ekrano vaizdą",
-    "addMore": "Pridėti daugiau",
+    "addMore": "Pridėti Ingredients",
     "limitIngredients": "Patarimas: AI geriausiai veikia, jei naudojate 2-5 ingredientus.",
-    "help": "",
-    "write": "",
-    "download": "atsisiųsti",
-    "downloadApp": "",
-    "applyingFilter": "",
-    "copyRecipeLink": "Kopijuoti nuorodą",
-    "copied": ""
+    "help": "Reikia pagalbos?",
+    "write": "Parašk mums",
+    "download": "Atsisiųsti",
+    "downloadApp": "Atsisiųsti programėlę",
+    "applyingFilter": "Pritaikomas filtras",
+    "copyRecipeLink": "Kopijuoti recepto nuorodą",
+    "copied": "Nukopijuota!"
   },
   "recipeCard": {
-    "seeMore": "Žiūrėti receptą",
+    "seeMore": "Užmesti akį",
     "seeLess": "Rodyti mažiau",
-    "includes": "Pritaikykite šį receptą spustelėję paveikslėlį. Įtraukiama",
+    "includes": "Pritaikykite šį receptą spustelėję paveikslėlį. Jį sudaro",
     "mustHave": "Būtina",
-    "substitute": "Galima pakeisti",
+    "substitute": "Ingredient gali būti pakeisti",
     "select": "Skaityti receptą",
-    "howMany": "tavo ingredientai",
+    "howMany": "tavo ingredientų",
     "all": "visi",
-    "yourIngredients": "tavo ingredientai",
     "allIngredients": "visi ingredientai",
     "or": "ARBA",
     "mandatory": "Privaloma",
     "swap": "Pakeisti",
-    "seeInstructions": "žr. jūsų receptą",
+    "seeInstructions": "Žiūrėti receptą",
     "tooltipOnNoAction": "Kokių nors ingredientų neturite? Pakeiskite juos!",
     "loaderTextFilter": "Filtrų atnaujinimas",
-    "bringBack": "Pridėti",
+    "bringBack": "Pridėti atgal",
     "clickDynamicRecipe": "Spustelėkite, jei norite pamatyti šį dinamišką receptą"
   },
   "recipePage": {
@@ -57,15 +56,15 @@
     "matchGreat": "Labiausiai tinka",
     "matchOk": "Gerai tinka ",
     "matchBrave": "Tinka",
-    "ingredients": "Apžvalga",
+    "ingredients": "Peržiūra",
     "stepUrl": "spauskite čia"
   },
   "saveRecipe": {
     "unique": "Jūsų unikalus receptas",
     "flavourMatches": "Daugiau galimų ingredientų",
     "qrCodeText": "Sukūrėte šį unikalų receptą. Naudokite QR kodą ir sukurkite daugiau receptų, kad ištuštintumėte savo šaldytuvą.",
-    "saveTooltipIphone": "",
-    "saveTooltipAndroid": "",
+    "saveTooltipIphone": "Paspauskite ant recepto paveikslėlio, kad jį išsaugotumėte",
+    "saveTooltipAndroid": "Paspauskite ant recepto paveikslėlio, kad juo pasidalintumėte.",
     "modalButton": "Sukurti naują receptą",
     "button": "išsaugoti receptą",
     "saveTooltip": "Išsaugoti receptą"
@@ -73,16 +72,16 @@
   "filtersOverlay": {
     "header": "Pridėti filtrą",
     "dishType": "Patiekalo tipas",
-    "cuisine": "Twists",
+    "cuisine": "Kiti akcentai",
     "diet": "Mityba",
     "occasion": "Proga",
     "quick": "Greita",
-    "nutrition": ""
+    "nutrition": "Maistingumas"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Pridėti ingredientų",
+    "addFlavorsButton": "Pridėti ingredientus",
     "moreMatches": "Žiūrėti daugiau atitikmenų",
-    "addFlavorsTitle": "Pridėkite ingredientų",
+    "addFlavorsTitle": "Pridėkite ingredientus",
     "noMatches": "Daugiau atitikmenų nėra",
     "added": "pridėta"
   },
@@ -90,35 +89,36 @@
     "swapped": "pakeistas",
     "swap": "Pakeisti",
     "moreSubstitutes": "Žiūrėti daugiau pakaitalų",
-    "noMoreSubstitutes": ""
+    "noMoreSubstitutes": "Daugiau pakaitalų nėra"
   },
   "survey": {
-    "typeformText": "Want to adapt this app to your own taste and nutritional goals?",
+    "typeformText": "Norite pritaikyti šią programėlę savo skoniui ir mitybos tikslams?",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",
     "no": "Ne, ačiū",
     "submit": "Pateikti",
     "sure": "Žinoma!",
-    "start": "",
-    "npsQuestion": "Po šio vieno klausimo programa atsisiunčiama į pagrindinį ekraną: Ar rekomenduotum šį įrankį savo draugui?",
-    "whatGood": "Puiku! Kas patinka šiame įrankyje?",
+    "start": "Gaukite vadovą",
+    "npsQuestion": "Po šio vieno klausimo programa bus atsisiųsta: Ar tikėtina, kad rekomenduosite šią programėlę draugui?",
+    "npsQuestion2": "Ar tikėtina, kad rekomenduosite šią programėlę draugui?",
+    "whatGood": "Puiku! Kas patinka šioje programėlėje?",
     "thankYou": "Ačiū!",
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "feedbackButton": "Atsiliepimas",
-    "surveyButton": "suasmeninti",
+    "surveyButton": "Pritaikyti",
     "fullscreenButton": "Atidaryti per visą ekraną",
     "fullscreenText": "Viso ekrano režimo patirtis yra daug geresnė. Norite išbandyti?"
   },
   "homeScreen": {
     "question": "Norite naudoti šią programėlę ateityje?",
-    "introTitle": "Atsisiųsti programėlę",
-    "introSubTitle": "",
-    "stepsTitle": "Tik du žingsniai",
-    "step": "",
-    "step1": "Spustelėkite šį simbolį",
-    "step2": "",
-    "actionButton": ""
+    "introTitle": "Šaunu, kad jums patinka programa!",
+    "introSubTitle": "Atsisiųskite į telefoną vos 2 spustelėjimais.",
+    "stepsTitle": "Kaip atsisiųsti į telefoną",
+    "step": "žingsnis",
+    "step1": "Spustelėkite šį simbolį savo ekrane.",
+    "step2": "Slinkite žemyn ir spustelėkite...",
+    "actionButton": "Pridėti į pagrindinį ekraną"
   },
   "filters": {
     "sweet": "Saldu",
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Ingredientų skanavimas"
   },
   "tooltipText": {
-    "filtersTooltip": "Receptai pritaikomi pagal jūsų pageidavimus."
+    "filtersTooltip": "Receptai pritaikomi pagal jūsų pageidavimus.",
+    "cardTooltip": "Spustelėkite receptą, kad jį dar labiau pritaikytumėte sau"
   }
 }

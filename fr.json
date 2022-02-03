@@ -3,10 +3,10 @@
     "done": "Créer des recettes",
     "header1": "Choisir des ingrédients",
     "header2": "Sélectionner la recette",
-    "header4": "Choisir les ingrédients à cuisiner",
+    "header4": "Que contient votre frigo ?",
     "headerOetker1": "Sélectionner des fruits",
-    "headerOetker2": "Sélectionner la recette",
-    "headerTitle": "Vider le frigo",
+    "headerOetker2": "Sélectionner une recette",
+    "headerTitle": "Videz votre frigo",
     "headerTitleOetker": "Faisons de la confiture",
     "selectedIngredients": "Sélectionner des ingrédients",
     "search": "Rechercher des ingrédients",
@@ -18,32 +18,31 @@
     "selectTwoIngredients": "Nous recommandons d'utiliser deux fruits maximum.",
     "noRecipeFound": "Désolé, aucune recette trouvée. Essayez d'ajouter un ingrédient supplémentaire.",
     "fullscreenMode": "Essayer le mode plein écran",
-    "addMore": "Ajouter les ingrédients",
+    "addMore": "Ajouter les Ingredients",
     "limitIngredients": "Astuce : l'IA fonctionne mieux si vous sélectionnez 2 à 5 ingrédients",
     "help": "Besoin d'aide ?",
     "write": "Écrivez-nous à ",
-    "download": "télécharger",
-    "downloadApp": "",
-    "applyingFilter": "",
+    "download": "Télécharger",
+    "downloadApp": "Télécharger l'App",
+    "applyingFilter": "Appliquer le filtre",
     "copyRecipeLink": "Copier le lien",
-    "copied": ""
+    "copied": "Copié !"
   },
   "recipeCard": {
     "seeMore": "Aperçu",
     "seeLess": "Afficher moins",
-    "includes": "Personnalisez cette recette en cliquant sur l'image. Comporte",
+    "includes": "Personnalisez cette recette en cliquant sur l'image. Elle comporte",
     "mustHave": "Doit avoir",
-    "substitute": "Ingrédient modifiable dans la recette",
+    "substitute": "Ingredient modifiable dans la recette",
     "select": "Afficher la recette",
-    "howMany": "vos ingrédients",
-    "all": "tout ",
-    "yourIngredients": "vos ingrédients",
+    "howMany": "de vos ingrédients",
+    "all": "tout",
     "allIngredients": "tous les ingrédients",
     "or": "OU",
     "mandatory": "Obligatoire",
     "swap": "Échanger",
     "seeInstructions": "Finaliser la recette",
-    "tooltipOnNoAction": "Des ingrédients que vous n'avez pas ? Échangez-les!",
+    "tooltipOnNoAction": "Il y a un ingrédient que vous n'avez pas ? Cliquez sur \"échanger\" pour en trouver des substituts !",
     "loaderTextFilter": "Actualisation des filtres",
     "bringBack": "Ramener",
     "clickDynamicRecipe": "Cliquez pour voir cette recette dynamique"
@@ -64,26 +63,26 @@
     "unique": "Votre unique",
     "flavourMatches": "Association de saveurs",
     "qrCodeText": "Vous avez créé cette recette unique. Utilisez le QR code pour créer d'autres recettes afin de vider votre frigo.",
-    "saveTooltipIphone": "",
-    "saveTooltipAndroid": "",
-    "modalButton": "Créer nouvelle recette",
-    "button": "sauver recette",
+    "saveTooltipIphone": "Appuyez sur l'image de la recette pour l'enregistrer",
+    "saveTooltipAndroid": "Appuyez sur l'image de la recette pour la partager",
+    "modalButton": "Créer Nouvelle Recette",
+    "button": "Sauvegarder Recette",
     "saveTooltip": "Sauvegarder votre recette"
   },
   "filtersOverlay": {
     "header": "Ajouter un filtre",
     "dishType": "Type de plat",
-    "cuisine": "Twists",
+    "cuisine": "Autres combinaisons",
     "diet": "Régime",
     "occasion": "Occasion",
     "quick": "Rapide",
-    "nutrition": ""
+    "nutrition": "Nutrition"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Ajouter les ingrédients",
-    "moreMatches": "Voir plus de combinaisons",
-    "addFlavorsTitle": "Ajouter les ingrédients",
-    "noMatches": "Plus de correspondance",
+    "addFlavorsButton": "Ajouter des ingrédients",
+    "moreMatches": "Voir plus de correspondances",
+    "addFlavorsTitle": "Ajouter des ingrédients",
+    "noMatches": "Plus de correspondances",
     "added": "ajouté"
   },
   "substitutionOverlay": {
@@ -93,32 +92,33 @@
     "noMoreSubstitutes": "Plus de substituts"
   },
   "survey": {
-    "typeformText": "Want to adapt this app to your own taste and nutritional goals?",
-    "npsLikely": "Trés probable",
+    "typeformText": "Vous souhaitez adapter cette app à vos propres goûts et objectifs nutritionnels ?",
+    "npsLikely": "Très probable",
     "npsNotLikely": "Très improbable",
     "skip": "Passer",
     "no": "Non, merci",
     "submit": "Envoyer",
     "sure": "Bien sûr ! ",
-    "start": "Commencer",
-    "npsQuestion": "L'application se télécharge sur votre écran d'accueil après cette seule question: Quelles sont les chances que vous recommandiez cet outil à un ami?",
-    "whatGood": "Génial! Qu'avez-vous aimé dans cet outil ?",
-    "thankYou": "Merci!",
+    "start": "Obtenir un guide",
+    "npsQuestion": "L'application se télécharge sur votre écran d'accueil après cette unique question : Quelles sont les chances que vous recommandiez cet outil à un ami ?",
+    "npsQuestion2": "Quelles sont les chances que vous recommandiez cet outil à un ami ?",
+    "whatGood": "Génial ! Qu'avez-vous aimé dans cet outil ?",
+    "thankYou": "Merci !",
     "yourFeedback": "Nous apprécions vos commentaires",
     "feedbackButton": "Laisser un commentaire",
-    "surveyButton": "Laisser un commentaire",
+    "surveyButton": "Personnaliser",
     "fullscreenButton": "Afficher en plein écran",
     "fullscreenText": "L'expérience est bien meilleure en mode plein écran. Vous voulez l'essayer ?"
   },
   "homeScreen": {
     "question": "Voulez-vous utiliser cette application à l'avenir ?",
-    "introTitle": "Obtenez-le sur votre téléphone",
-    "introSubTitle": "Il suffit de deux clics pour qu'il apparaisse sur votre page d'accueil comme une application.",
-    "stepsTitle": "Deux étapes seulement",
+    "introTitle": "Cool, vous aimez l'application !",
+    "introSubTitle": "Téléchargez sur votre téléphone en 2 clics seulement.",
+    "stepsTitle": "Comment télécharger sur votre téléphone",
     "step": "étape",
-    "step1": "Cliquez sur ce symbole dans la fenêtre de votre navigateur",
-    "step2": "Puis faites défiler la page pour trouver",
-    "actionButton": "Ajouter à l'écran d'accueil"
+    "step1": "Cliquez sur ce symbole sur votre écran",
+    "step2": "Faites défiler la page et cliquez...",
+    "actionButton": "Ajouter à l'écran d'Accueil"
   },
   "filters": {
     "sweet": "Sucré",
@@ -129,7 +129,7 @@
   },
   "shoppingList": {
     "shoppingList": "Liste de courses",
-    "items": "Articles",
+    "items": "articles",
     "youMightHave": "Vous avez peut-être ceci à la maison",
     "buyOnAmazonFresh": "Acheter sur Amazon Fresh",
     "shopIngredients": "Acheter les ingrédients"
@@ -146,6 +146,7 @@
     "scanningIngredients1": "Scanner les ingrédients"
   },
   "tooltipText": {
-    "filtersTooltip": "Sélectionnez un filtre pour trouver votre recette"
+    "filtersTooltip": "Les recettes s'adaptent à vos choix.",
+    "cardTooltip": ""
   }
 }
