@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Klicka på receptbilden för att spara den",
     "saveTooltipAndroid": "Klicka på receptbilden för att dela den",
     "modalButton": "Skapa ett nytt recept",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "Spara recept",
     "saveTooltip": "Spara ditt recept"
   },
@@ -92,7 +94,7 @@
     "noMoreSubstitutes": "Inga fler substitut"
   },
   "survey": {
-    "typeformText": "Vill du anpassa appen efter din egen smak och näringsmål?",
+    "typeformText": "Vill du lära dig knep för att laga mat utan att följa receptet?",
     "npsLikely": "Högst sannolikt",
     "npsNotLikely": "Inte så sannolikt",
     "skip": "Hoppa över",
@@ -106,7 +108,7 @@
     "thankYou": "Tack!",
     "yourFeedback": "Vi uppskattar din feedback",
     "feedbackButton": "Feedback",
-    "surveyButton": "Personifiera",
+    "surveyButton": "Lära",
     "fullscreenButton": "Öppna i helskärm",
     "fullscreenText": "Upplevelsen är mycket bättre i helskärmsläge. Vill du prova?"
   },

@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Vajuta retseptipildile, et seda salvestada",
     "saveTooltipAndroid": "Vajuta retseptipildile, et seda jagada",
     "modalButton": "Loo uus retsept",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "Salvesta retsept",
     "saveTooltip": "Salvesta enda retsept"
   },
@@ -92,7 +94,7 @@
     "noMoreSubstitutes": "Rohkem asendusaineid pole"
   },
   "survey": {
-    "typeformText": "Soovid seda rakendust kujundada vastavalt enda maitsetele ja toitumiseesmärkidele?",
+    "typeformText": "Tahad õppida toiduvalmistamise nippe ilma retsepti järgimata?",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
@@ -106,7 +108,7 @@
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
     "feedbackButton": "Tagasiside",
-    "surveyButton": "Personaliseeri",
+    "surveyButton": "õppida",
     "fullscreenButton": "Ava täisekraanil",
     "fullscreenText": "Kogemus on täisekraanil märksa parem. Soovid proovida?"
   },

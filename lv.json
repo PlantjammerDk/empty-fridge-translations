@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Lai saglabātu recepti, uzspied uz tās attēla",
     "saveTooltipAndroid": "Lai kopīgotu recepti, uzspied uz tās attēla",
     "modalButton": "Izveidot jaunu recepti",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "Saglabāt recepti",
     "saveTooltip": "Saglabā savu recepti"
   },
@@ -92,7 +94,7 @@
     "noMoreSubstitutes": "Nav citu aizvietotāju"
   },
   "survey": {
-    "typeformText": "Vēlies pielāgot šo lietotni savai gaumei un uztura mērķiem?",
+    "typeformText": "Vēlaties apgūt ēdiena gatavošanas trikus, neievērojot recepti?",
     "npsLikely": "Ļoti iespējams",
     "npsNotLikely": "Maz iespējams",
     "skip": "Izlaist",
@@ -106,7 +108,7 @@
     "thankYou": "Paldies!",
     "yourFeedback": "Paldies, par tavu viedokli!",
     "feedbackButton": "Atsauksmes",
-    "surveyButton": "Personalizēt",
+    "surveyButton": "Uzzināt",
     "fullscreenButton": "Atvērt pilnu ekrānu",
     "fullscreenText": "Lietošana būs daudz ērtāka pilna ekrāna versijā. Vai vēlies izmēģināt?"
   },

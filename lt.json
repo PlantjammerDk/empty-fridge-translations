@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Paspauskite ant recepto paveikslėlio, kad jį išsaugotumėte",
     "saveTooltipAndroid": "Paspauskite ant recepto paveikslėlio, kad juo pasidalintumėte.",
     "modalButton": "Sukurti naują receptą",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "išsaugoti receptą",
     "saveTooltip": "Išsaugoti receptą"
   },
@@ -92,7 +94,7 @@
     "noMoreSubstitutes": "Daugiau pakaitalų nėra"
   },
   "survey": {
-    "typeformText": "Norite pritaikyti šią programėlę savo skoniui ir mitybos tikslams?",
+    "typeformText": "Norite išmokti maisto gaminimo gudrybių nesilaikant recepto?",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",
@@ -106,7 +108,7 @@
     "thankYou": "Ačiū!",
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "feedbackButton": "Atsiliepimas",
-    "surveyButton": "Pritaikyti",
+    "surveyButton": "Mokytis",
     "fullscreenButton": "Atidaryti per visą ekraną",
     "fullscreenText": "Viso ekrano režimo patirtis yra daug geresnė. Norite išbandyti?"
   },

@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Trykk ned på oppskriftsbildet for å lagre",
     "saveTooltipAndroid": "Trykk ned på oppskriftsbildet for å dele",
     "modalButton": "Lag ny oppskrift",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "Lagre oppskrift",
     "saveTooltip": "Lagre oppskriften din"
   },

@@ -66,6 +66,8 @@
     "saveTooltipIphone": "",
     "saveTooltipAndroid": "",
     "modalButton": "Nieuw recept maken",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "recept bewaren",
     "saveTooltip": "Bewaar je recept"
   },
@@ -92,7 +94,7 @@
     "noMoreSubstitutes": "Geen vervangproducten meer"
   },
   "survey": {
-    "typeformText": "Want to adapt this app to your own taste and nutritional goals?",
+    "typeformText": "Wil je trucs leren om te koken zonder het recept te volgen?",
     "npsLikely": "zeer waarschijnlijk",
     "npsNotLikely": "zeer onwaarschijnlijk",
     "skip": "Sla over",
@@ -106,7 +108,7 @@
     "thankYou": "Bedankt!",
     "yourFeedback": "We waarderen je feedback!",
     "feedbackButton": "Geef feedback",
-    "surveyButton": "Geef feedback",
+    "surveyButton": "Leren",
     "fullscreenButton": "Openen in vol scherm",
     "fullscreenText": "De gebruikerservaring is nog beter in volledige schermmodus. Wil je het uitproberen?"
   },
