@@ -98,7 +98,7 @@
     "noMoreSubstitutes": "No more substitutes"
   },
   "survey": {
-    "typeformText": "Want to adapt this app to your own taste and nutritional goals?",
+    "typeformText": "Want to learn tricks for cooking without a recipe?",
     "npsLikely": "Very likely",
     "npsNotLikely": "Very unlikely",
     "skip": "Skip",
@@ -112,7 +112,7 @@
     "thankYou": "Thank you!",
     "yourFeedback": "We appreciate your feedback",
     "feedbackButton": "Feedback",
-    "surveyButton": "Personalize",
+    "surveyButton": "Learn",
     "fullscreenButton": "Open in fullscreen",
     "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
   },

@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Pressione e segure a imagem da receita para salvá-la",
     "saveTooltipAndroid": "Pressione e segure a imagem da receita para compartilhá-la",
     "modalButton": "Criar nova receita",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "Salvar receita",
     "saveTooltip": "Salve sua receita"
   },
@@ -92,7 +94,7 @@
     "noMoreSubstitutes": "Nenhum outro substituto"
   },
   "survey": {
-    "typeformText": "Quer adaptar este aplicativo com seu próprio gosto e objetivos nutricionais?",
+    "typeformText": "Quer aprender truques para cozinhar sem seguir a receita?",
     "npsLikely": "Muito provável",
     "npsNotLikely": "Muito improvável",
     "skip": "Pular",
@@ -106,7 +108,7 @@
     "thankYou": "Obrigado!",
     "yourFeedback": "Agradecemos pela sua opinião",
     "feedbackButton": "Dar feedback",
-    "surveyButton": "Personalizar",
+    "surveyButton": "Aprender",
     "fullscreenButton": "Abrir em tela cheia",
     "fullscreenText": "A experiência é muito melhor em tela cheia. Quer tentar?"
   },

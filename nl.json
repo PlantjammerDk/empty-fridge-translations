@@ -66,6 +66,8 @@
     "saveTooltipIphone": "Klik op de afbeelding van het recept om het op te slaan",
     "saveTooltipAndroid": "Klik op de afbeelding van het recept om het te delen",
     "modalButton": "Nieuw recept maken",
+    "addToShoppingList": "",
+    "copiedToClipBoard": "",
     "button": "Sla recept op",
     "saveTooltip": "Sla je recept op"
   },
@@ -112,7 +114,7 @@
   },
   "homeScreen": {
     "question": "Wil je deze app in de toekomst gebruiken?",
-    "introTitle": "Download de app",
+    "introTitle": "Cool dat je de app leuk vindt!",
     "introSubTitle": "Maar 2 keer klikken. Geen appstore.",
     "stepsTitle": "Hoe je de app krijgt",
     "step": "stap",
