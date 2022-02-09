@@ -85,6 +85,7 @@
     "moreMatches": "See more matches",
     "addFlavorsTitle": "Add ingredients",
     "noMatches": "No more matches",
+    "zeroMatches": "",
     "added": "added"
   },
   "substitutionOverlay": {

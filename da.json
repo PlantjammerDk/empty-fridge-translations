@@ -85,6 +85,7 @@
     "moreMatches": "Se flere matches",
     "addFlavorsTitle": "Tilføj ingredienser",
     "noMatches": "Ikke flere resultater",
+    "zeroMatches": "",
     "added": "tilføjet"
   },
   "substitutionOverlay": {

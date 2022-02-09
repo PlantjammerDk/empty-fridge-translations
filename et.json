@@ -85,6 +85,7 @@
     "moreMatches": "Vaata rohkem soovitusi",
     "addFlavorsTitle": "Lisa koostisosad",
     "noMatches": "Rohkem tulemusi ei ole",
+    "zeroMatches": "",
     "added": "lisatud"
   },
   "substitutionOverlay": {

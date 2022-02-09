@@ -85,6 +85,7 @@
     "moreMatches": "Mehr Vorschläge zeigen",
     "addFlavorsTitle": "Zutaten hinzufügen",
     "noMatches": "Keine weiteren Treffer",
+    "zeroMatches": "",
     "added": "hinzugefügt"
   },
   "substitutionOverlay": {
