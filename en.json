@@ -88,7 +88,6 @@
     "moreMatches": "See more matches",
     "addFlavorsTitle": "Add ingredients",
     "noMatches": "No more matches",
-    "zeroMatches": "Sorry - no ingredients available in this grouping for this dish",
     "added": "added"
   },
   "substitutionOverlay": {
@@ -98,7 +97,7 @@
     "noMoreSubstitutes": "No more substitutes"
   },
   "survey": {
-    "typeformText": "Want to learn tricks for cooking without a recipe?",
+    "typeformText": "Want to try our new method for learning to cook new dishes?",
     "npsLikely": "Very likely",
     "npsNotLikely": "Very unlikely",
     "skip": "Skip",
