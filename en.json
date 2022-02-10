@@ -69,7 +69,7 @@
     "saveTooltipIphone": "Press down on recipe image to save it",
     "saveTooltipAndroid": "Press down on recipe image to share it",
     "modalButton": "Create New Recipe",
-    "addToShoppingList": "Add to shopping-list",
+    "addToShoppingList": "Copy ingredients to clipboard",
     "copiedToClipBoard": "Ingredients copied to clipboard!",
     "button": "Save Recipe",
     "saveTooltip": "Save your recipe"
