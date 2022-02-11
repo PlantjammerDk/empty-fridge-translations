@@ -124,7 +124,8 @@
     "step": "step",
     "step1": "Click on this symbol on your screen.",
     "step2": "Scroll down and click...",
-    "actionButton": "Add to Home screen"
+    "actionButton": "Add to Home screen",
+    "done": "Done"
   },
   "filters": {
     "sweet": "Sweet",
