@@ -66,7 +66,7 @@
     "saveTooltipIphone": "Presiona la imagen de la receta para guardarla. ",
     "saveTooltipAndroid": "Presiona la imagen de la receta para compartirla. ",
     "modalButton": "Crear nueva receta",
-    "addToShoppingList": "",
+    "addToShoppingList": "Copiar ingredientes al portapapeles",
     "copiedToClipBoard": "",
     "button": "Guardar receta",
     "saveTooltip": "Guardar la receta"
@@ -81,7 +81,7 @@
     "nutrition": "Nutrición"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Añadir ingredientes",
+    "addFlavorsButton": "Añadir especias",
     "moreMatches": "Ver más combinaciones",
     "addFlavorsTitle": "Añadir ingredientes",
     "noMatches": "No hay más combinaciones",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "No hay más alternativas"
   },
   "survey": {
-    "typeformText": "¿Quieres probar nuestro nuevo método para aprender a cocinar nuevos platos?",
+    "typeformText": "¿Aprender a cocinar nuevos platos fáciles y saludables?",
     "npsLikely": "Muy probable",
     "npsNotLikely": "Poco probable",
     "skip": "Saltar",

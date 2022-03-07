@@ -66,7 +66,7 @@
     "saveTooltipIphone": "Paspauskite ant recepto paveikslėlio, kad jį išsaugotumėte",
     "saveTooltipAndroid": "Paspauskite ant recepto paveikslėlio, kad juo pasidalintumėte.",
     "modalButton": "Sukurti naują receptą",
-    "addToShoppingList": "",
+    "addToShoppingList": "Sudedamųjų dalių kopijavimas į mobilųjį telefoną",
     "copiedToClipBoard": "",
     "button": "išsaugoti receptą",
     "saveTooltip": "Išsaugoti receptą"
@@ -81,7 +81,7 @@
     "nutrition": "Maistingumas"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Pridėti ingredientus",
+    "addFlavorsButton": "Pridėkite tinkamų prieskonių",
     "moreMatches": "Žiūrėti daugiau atitikmenų",
     "addFlavorsTitle": "Pridėkite ingredientus",
     "noMatches": "Daugiau atitikmenų nėra",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Daugiau pakaitalų nėra"
   },
   "survey": {
-    "typeformText": "Norite išbandyti mūsų naują metodą, kaip išmokti gaminti naujus patiekalus?",
+    "typeformText": "Išmokti gaminti naujus lengvus ir sveikus patiekalus?",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",

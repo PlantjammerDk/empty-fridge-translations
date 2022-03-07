@@ -66,7 +66,7 @@
     "saveTooltipIphone": "",
     "saveTooltipAndroid": "",
     "modalButton": "Opret ny opskrift",
-    "addToShoppingList": "",
+    "addToShoppingList": "Kopier ingredienser til mobilen",
     "copiedToClipBoard": "",
     "button": "Gem opskrift",
     "saveTooltip": "Gem din opskrift"
@@ -81,7 +81,7 @@
     "nutrition": ""
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Tilføj ingredienser",
+    "addFlavorsButton": "Tilføj matchende krydderier",
     "moreMatches": "Se flere matches",
     "addFlavorsTitle": "Tilføj ingredienser",
     "noMatches": "Ikke flere resultater",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": ""
   },
   "survey": {
-    "typeformText": "Vil du prøve vores nye metode til at lære at lave nye retter?",
+    "typeformText": "Lær at lave nye, nemme og sunde retter",
     "npsLikely": "Meget sandsynligt",
     "npsNotLikely": "Meget usandsynligt",
     "skip": "Spring over",

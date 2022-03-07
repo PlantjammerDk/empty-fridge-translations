@@ -66,7 +66,7 @@
     "saveTooltipIphone": "Vajuta retseptipildile, et seda salvestada",
     "saveTooltipAndroid": "Vajuta retseptipildile, et seda jagada",
     "modalButton": "Loo uus retsept",
-    "addToShoppingList": "",
+    "addToShoppingList": "Kopeeri koostisosad",
     "copiedToClipBoard": "",
     "button": "Salvesta retsept",
     "saveTooltip": "Salvesta enda retsept"
@@ -74,14 +74,14 @@
   "filtersOverlay": {
     "header": "Lisa filter",
     "dishType": "Toidutüüp",
-    "cuisine": "Twists",
+    "cuisine": "Muud Maitse",
     "diet": "Toitumine",
     "occasion": "Sündmus",
     "quick": "Kiire",
     "nutrition": "Toitumine"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Lisa koostisosad",
+    "addFlavorsButton": "Lisage sobivad vürtsid",
     "moreMatches": "Vaata rohkem soovitusi",
     "addFlavorsTitle": "Lisa koostisosad",
     "noMatches": "Rohkem tulemusi ei ole",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Rohkem asendusaineid pole"
   },
   "survey": {
-    "typeformText": "Tahad proovida meie uut meetodit uute roogade valmistamise õppimiseks?",
+    "typeformText": "Õpid valmistama uusi lihtsaid ja tervislikke toite?",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
@@ -109,7 +109,7 @@
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
     "feedbackButton": "Tagasiside",
-    "surveyButton": "õppida",
+    "surveyButton": "Õpi rohkem",
     "fullscreenButton": "Ava täisekraanil",
     "fullscreenText": "Kogemus on täisekraanil märksa parem. Soovid proovida?"
   },

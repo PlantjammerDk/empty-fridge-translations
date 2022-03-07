@@ -84,7 +84,7 @@
     "nutrition": "Nutrition"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Add ingredients",
+    "addFlavorsButton": "Add matching spices",
     "moreMatches": "See more matches",
     "addFlavorsTitle": "Add ingredients",
     "noMatches": "No more matches",
@@ -98,7 +98,7 @@
     "noMoreSubstitutes": "No more substitutes"
   },
   "survey": {
-    "typeformText": "Want to learn new dishes, you can cook without following a recipe?",
+    "typeformText": "Learn to cook new easy and healthy dishes?",
     "npsLikely": "Very likely",
     "npsNotLikely": "Very unlikely",
     "skip": "Skip",
@@ -124,8 +124,7 @@
     "step": "step",
     "step1": "Click on this symbol on your screen.",
     "step2": "Scroll down and click...",
-    "actionButton": "Add to Home screen",
-    "done": "Done"
+    "actionButton": "Add to Home screen"
   },
   "filters": {
     "sweet": "Sweet",

@@ -66,7 +66,7 @@
     "saveTooltipIphone": "Klicka på receptbilden för att spara den",
     "saveTooltipAndroid": "Klicka på receptbilden för att dela den",
     "modalButton": "Skapa ett nytt recept",
-    "addToShoppingList": "",
+    "addToShoppingList": "Kopiera ingredienser till clipboard",
     "copiedToClipBoard": "",
     "button": "Spara recept",
     "saveTooltip": "Spara ditt recept"
@@ -81,7 +81,7 @@
     "nutrition": "Näring"
   },
   "flavorOverlay": {
-    "addFlavorsButton": "Tillsätt ingredienser",
+    "addFlavorsButton": "Tillsätt matchande kryddor",
     "moreMatches": "Se fler matchningar",
     "addFlavorsTitle": "Tillsätt ingredienser",
     "noMatches": "Inga fler matchningar",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Inga fler substitut"
   },
   "survey": {
-    "typeformText": "Vill du prova vår nya metod för att lära dig laga nya rätter?",
+    "typeformText": "Vill du lära dig att laga nya enkla och hälsosamma rätter?",
     "npsLikely": "Högst sannolikt",
     "npsNotLikely": "Inte så sannolikt",
     "skip": "Hoppa över",
