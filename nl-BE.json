@@ -18,7 +18,7 @@
     "selectTwoIngredients": "We raden aan om maximum twee soorten fruit te gebruiken.",
     "noRecipeFound": "Sorry, geen recepten gevonden. Probeer een extra ingrediënt toe te voegen.",
     "fullscreenMode": "Probeer volledige scherm modus",
-    "addMore": "Voeg ingrediënten toe",
+    "addMore": "Zoeken met ingrediënten",
     "limitIngredients": "Tip: De AI werkt het best als je 2-5 ingrediënten gebruikt",
     "help": "Hulp nodig?",
     "write": "Schrijf ons op",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Voeg filter toe",
     "dishType": "Type gerecht",
-    "cuisine": "Twists",
+    "cuisine": "Cuisines",
     "diet": "Dieet",
     "occasion": "Gelegenheid",
     "quick": "Snel",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Geen vervangproducten meer"
   },
   "survey": {
-    "typeformText": "Nieuwe makkelijke en gezonde gerechten leren koken?",
+    "typeformText": "Help! Het duurt maar 20 seconden.",
     "npsLikely": "zeer waarschijnlijk",
     "npsNotLikely": "zeer onwaarschijnlijk",
     "skip": "Sla over",
@@ -109,7 +109,7 @@
     "thankYou": "Bedankt!",
     "yourFeedback": "We waarderen je feedback!",
     "feedbackButton": "Geef feedback",
-    "surveyButton": "Leren",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Openen in vol scherm",
     "fullscreenText": "De gebruikerservaring is nog beter in volledige schermmodus. Wil je het uitproberen?"
   },

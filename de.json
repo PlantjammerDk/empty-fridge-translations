@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Wir empfehlen maximal zwei Früchte zu wählen.",
     "noRecipeFound": "Sorry, wir konnten kein Rezept finden. Versuche eine weitere Zutat hinzuzufügen. ",
     "fullscreenMode": "Versuche Vollbildmodus",
-    "addMore": "Zutaten hinzufügen",
+    "addMore": "Suche mit Zutaten",
     "limitIngredients": "Tipp: Die KI funktioniert am besten mit 2-5 Zutaten",
     "help": "Brauchst du Hilfe?",
     "write": "Schreibe uns an",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Filter hinzufügen",
     "dishType": "Gerichtart",
-    "cuisine": "Twists",
+    "cuisine": "Küchen",
     "diet": "Ernährung",
     "occasion": "Gelegenheit",
     "quick": "Schnell",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Keine weiteren Alternativen"
   },
   "survey": {
-    "typeformText": "Neue einfache und gesunde Gerichte kochen lernen?",
+    "typeformText": "Hilfe! Es dauert nur 20 Sekunden.",
     "npsLikely": "sehr wahrscheinlich",
     "npsNotLikely": "sehr unwahrscheinlich",
     "skip": "Überspringen",
@@ -109,7 +109,7 @@
     "thankYou": "Vielen Dank!",
     "yourFeedback": "Wir freuen uns über dein Feedback",
     "feedbackButton": "Feedback",
-    "surveyButton": "Lernen",
+    "surveyButton": "Feedback",
     "fullscreenButton": "In Vollbildmodus öffnen",
     "fullscreenText": "Das Nutzererlebnis ist im Vollbildmodus noch besser. Möchtest du es ausprobieren?"
   },

@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Soovitame kasutada maksimaalselt kahte puuvilja.",
     "noRecipeFound": "Vabandust, retsepte ei leitud. Proovi lisada üks koostisosa juurde.",
     "fullscreenMode": "Proovi täisekraani",
-    "addMore": "Lisa koostisosad",
+    "addMore": "Otsi koostisosi",
     "limitIngredients": "Nõuanne: Tehisintellekt toimib kõige paremini, kui kasutad 2-5 koostisosa",
     "help": "Vajad abi?",
     "write": "Kirjuta meile",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Lisa filter",
     "dishType": "Toidutüüp",
-    "cuisine": "Muud Maitse",
+    "cuisine": "Köögid",
     "diet": "Toitumine",
     "occasion": "Sündmus",
     "quick": "Kiire",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Rohkem asendusaineid pole"
   },
   "survey": {
-    "typeformText": "Õpid valmistama uusi lihtsaid ja tervislikke toite?",
+    "typeformText": "Abi! See võtab vaid 20 sekundit.",
     "npsLikely": "Väga tõenäoline",
     "npsNotLikely": "Vähe tõenäoline",
     "skip": "Jäta vahele",
@@ -109,7 +109,7 @@
     "thankYou": "Aitäh!",
     "yourFeedback": "Me hindame sinu tagasisidet",
     "feedbackButton": "Tagasiside",
-    "surveyButton": "Õpi rohkem",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Ava täisekraanil",
     "fullscreenText": "Kogemus on täisekraanil märksa parem. Soovid proovida?"
   },

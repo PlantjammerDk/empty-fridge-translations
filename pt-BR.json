@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Recomendamos utilizar no máximo duas frutas.",
     "noRecipeFound": "Desculpe, não encontramos receitas. Tente incluir outro ingrediente.",
     "fullscreenMode": "Experimente o modo tela cheia",
-    "addMore": "Adicionar ingredientes",
+    "addMore": "Busca com ingredientes",
     "limitIngredients": "Dica: o sistema funciona melhor se você utilizar 2-5 ingredientes",
     "help": "Precisa de ajuda?",
     "write": "Escreva-nos em",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Adicionar filtro",
     "dishType": "Tipo de prato",
-    "cuisine": "Twists",
+    "cuisine": "Cuisinas",
     "diet": "Dieta",
     "occasion": "Ocasião",
     "quick": "Rápido",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Nenhum outro substituto"
   },
   "survey": {
-    "typeformText": "Aprender a cozinhar novos pratos saudáveis e fáceis?",
+    "typeformText": "Socorro! Leva apenas 20 segundos.",
     "npsLikely": "Muito provável",
     "npsNotLikely": "Muito improvável",
     "skip": "Pular",
@@ -109,7 +109,7 @@
     "thankYou": "Obrigado!",
     "yourFeedback": "Agradecemos pela sua opinião",
     "feedbackButton": "Dar feedback",
-    "surveyButton": "Aprender",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Abrir em tela cheia",
     "fullscreenText": "A experiência é muito melhor em tela cheia. Quer tentar?"
   },

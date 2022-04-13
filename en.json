@@ -18,7 +18,7 @@
     "selectTwoIngredients": "We recommend using max two fruits.",
     "noRecipeFound": "Sorry, no recipes found. Try adding an additional ingredient.",
     "fullscreenMode": "Try fullscreen mode",
-    "addMore": "Add Ingredients",
+    "addMore": "Search with ingredients",
     "_addMore.comment": "\"+ Ingredients\" button on the recipe results page to get back to the first page and add more ingredients",
     "limitIngredients": "Tip: The AI works best if you use 2-5 ingredient",
     "help": "Need help?",
@@ -77,7 +77,7 @@
   "filtersOverlay": {
     "header": "Add filter",
     "dishType": "Dish Type",
-    "cuisine": "Other twists",
+    "cuisine": "Cuisines",
     "diet": "Diet",
     "occasion": "Occasion",
     "quick": "Quick",
@@ -98,7 +98,7 @@
     "noMoreSubstitutes": "No more substitutes"
   },
   "survey": {
-    "typeformText": "Learn to cook new easy and healthy dishes?",
+    "typeformText": "Help! It only takes 20 seconds",
     "npsLikely": "Very likely",
     "npsNotLikely": "Very unlikely",
     "skip": "Skip",
@@ -112,7 +112,7 @@
     "thankYou": "Thank you!",
     "yourFeedback": "We appreciate your feedback",
     "feedbackButton": "Feedback",
-    "surveyButton": "Learn",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Open in fullscreen",
     "fullscreenText": "The experience is much better in full screen mode. Want to try it out?"
   },

@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Vi rekommenderar att du använder max 2 frukter.",
     "noRecipeFound": "Inga recept hittades, tyvärr. Prova att lägga till en ingrediens.",
     "fullscreenMode": "Testa helskärmsläge",
-    "addMore": "Tillsätt ingredienser",
+    "addMore": "Sök med ingredienser",
     "limitIngredients": "Tips: AI fungerar bäst om du använder 2-5 ingredienser",
     "help": "Behöver du hjälp?",
     "write": "Skriv till oss på",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Lägg till filter",
     "dishType": "Typ av maträtt",
-    "cuisine": "Twists",
+    "cuisine": "Köken",
     "diet": "Diet",
     "occasion": "Tillfälle",
     "quick": "Snabbt",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Inga fler substitut"
   },
   "survey": {
-    "typeformText": "Vill du lära dig att laga nya enkla och hälsosamma rätter?",
+    "typeformText": "Hjälp! Det tar bara 20 sekunder.",
     "npsLikely": "Högst sannolikt",
     "npsNotLikely": "Inte så sannolikt",
     "skip": "Hoppa över",
@@ -109,7 +109,7 @@
     "thankYou": "Tack!",
     "yourFeedback": "Vi uppskattar din feedback",
     "feedbackButton": "Feedback",
-    "surveyButton": "Lära",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Öppna i helskärm",
     "fullscreenText": "Upplevelsen är mycket bättre i helskärmsläge. Vill du prova?"
   },

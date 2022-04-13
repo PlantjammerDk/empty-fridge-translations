@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Recomendamos utilizar como máximo dos frutas.",
     "noRecipeFound": "Lo sentimos, no se ha encontrado ninguna receta. Prueba a añadir otro ingrediente.",
     "fullscreenMode": "Prueba el modo de pantalla completa",
-    "addMore": "Añadir Ingredients",
+    "addMore": "Búsqueda con ingredientes",
     "limitIngredients": "Consejo: la IA funciona mejor si se utilizan de 2 a 5 ingredientes",
     "help": "¿Necesitas ayuda?",
     "write": "Escríbenos a",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Añadir filtro",
     "dishType": "Tipo de plato",
-    "cuisine": "Volver a combinar",
+    "cuisine": "Cocinas",
     "diet": "Dieta",
     "occasion": "Ocasión",
     "quick": "Rápido",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "No hay más alternativas"
   },
   "survey": {
-    "typeformText": "¿Aprender a cocinar nuevos platos fáciles y saludables?",
+    "typeformText": "¡Ayuda! Sólo se tarda 20 segundos.",
     "npsLikely": "Muy probable",
     "npsNotLikely": "Poco probable",
     "skip": "Saltar",
@@ -109,7 +109,7 @@
     "thankYou": "Gracias",
     "yourFeedback": "Agradecemos sus comentarios",
     "feedbackButton": "Comentarios",
-    "surveyButton": "Aprender",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Pantalla completa",
     "fullscreenText": "La experiencia es mucho mejor a pantalla completa. ¿Quieres probarlo?"
   },

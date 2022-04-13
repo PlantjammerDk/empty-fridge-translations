@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Pridėti filtrą",
     "dishType": "Patiekalo tipas",
-    "cuisine": "Kiti akcentai",
+    "cuisine": "Virtuvės",
     "diet": "Mityba",
     "occasion": "Proga",
     "quick": "Greita",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Daugiau pakaitalų nėra"
   },
   "survey": {
-    "typeformText": "Išmokti gaminti naujus lengvus ir sveikus patiekalus?",
+    "typeformText": "Padėkite! Tai užtrunka tik 20 sekundžių.",
     "npsLikely": "Labai tikėtina",
     "npsNotLikely": "Mažai tikėtina",
     "skip": "Praleisti",
@@ -109,7 +109,7 @@
     "thankYou": "Ačiū!",
     "yourFeedback": "Labai vertiname jūsų atsiliepimus",
     "feedbackButton": "Atsiliepimas",
-    "surveyButton": "Mokytis",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Atidaryti per visą ekraną",
     "fullscreenText": "Viso ekrano režimo patirtis yra daug geresnė. Norite išbandyti?"
   },

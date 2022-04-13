@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Iesakām izmantot maksimums 2 augļus.",
     "noRecipeFound": "Diemžēl neatradām nevienu recepti. Lūdzu, pievieno papildu sastāvdaļas.",
     "fullscreenMode": "Izmēģini pilnekrāna režīmu",
-    "addMore": "Pievieno sastāvdaļas",
+    "addMore": "Meklēšana ar sastāvdaļām",
     "limitIngredients": "Padoms: automātiskā intelekta funkcija darbosies vislabāk, ja būsi pievienojis 2-5 sastāvdaļas",
     "help": "Nepieciešama palīdzība?",
     "write": "Sazinies ar mums",
@@ -74,7 +74,7 @@
   "filtersOverlay": {
     "header": "Pievienot filtru",
     "dishType": "Ēdiena veids",
-    "cuisine": "Cits",
+    "cuisine": "Virtuves",
     "diet": "Uzturs",
     "occasion": "Gadījums",
     "quick": "Ātri",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": "Nav citu aizvietotāju"
   },
   "survey": {
-    "typeformText": "Iemācīties gatavot jaunus, vienkāršus un veselīgus ēdienus?",
+    "typeformText": "Palīdzība! Tas aizņem tikai 20 sekundes.",
     "npsLikely": "Ļoti iespējams",
     "npsNotLikely": "Maz iespējams",
     "skip": "Izlaist",
@@ -109,7 +109,7 @@
     "thankYou": "Paldies!",
     "yourFeedback": "Paldies, par tavu viedokli!",
     "feedbackButton": "Atsauksmes",
-    "surveyButton": "Uzzināt",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Atvērt pilnu ekrānu",
     "fullscreenText": "Lietošana būs daudz ērtāka pilna ekrāna versijā. Vai vēlies izmēģināt?"
   },

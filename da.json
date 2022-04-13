@@ -18,7 +18,7 @@
     "selectTwoIngredients": "Vi anbefaler, at bruge højst to frugter.",
     "noRecipeFound": "Beklager, ingen opskrifter fundet. Prøv at tilføje en ekstra ingrediens.",
     "fullscreenMode": "Prøv i fuldskærm",
-    "addMore": "Tilføj",
+    "addMore": "Søg med ingredienser",
     "limitIngredients": "Tip: AI fungerer bedst med 2-5 ingredienser",
     "help": "Brug for hjælp?",
     "write": "Skriv til os på",
@@ -95,7 +95,7 @@
     "noMoreSubstitutes": ""
   },
   "survey": {
-    "typeformText": "Lær at lave nye, nemme og sunde retter",
+    "typeformText": "Hjælp! Det tager kun 20 sekunder",
     "npsLikely": "Meget sandsynligt",
     "npsNotLikely": "Meget usandsynligt",
     "skip": "Spring over",
@@ -109,7 +109,7 @@
     "thankYou": "Mange tak!",
     "yourFeedback": "Vi sætter pris på din feedback.",
     "feedbackButton": "Feedback",
-    "surveyButton": "Lær",
+    "surveyButton": "Feedback",
     "fullscreenButton": "Åbn i fuld skærm",
     "fullscreenText": "Oplevelsen er meget bedre i fuldskærmstilstand. Vil du prøve det?"
   },
