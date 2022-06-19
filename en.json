@@ -71,7 +71,7 @@
     "modalButton": "Create New Recipe",
     "addToShoppingList": "Copy ingredients to clipboard",
     "copiedToClipBoard": "Ingredients copied to clipboard!",
-    "button": "Save Recipe",
+    "button": "Copy link",
     "saveTooltip": "Save your recipe"
   },
   "filtersOverlay": {

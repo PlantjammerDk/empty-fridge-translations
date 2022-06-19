@@ -68,7 +68,7 @@
     "modalButton": "Skapa ett nytt recept",
     "addToShoppingList": "Kopiera ingredienser till clipboard",
     "copiedToClipBoard": "",
-    "button": "Spara recept",
+    "button": "Kopiera länk",
     "saveTooltip": "Spara ditt recept"
   },
   "filtersOverlay": {

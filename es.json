@@ -68,7 +68,7 @@
     "modalButton": "Crear nueva receta",
     "addToShoppingList": "Copiar ingredientes al portapapeles",
     "copiedToClipBoard": "",
-    "button": "Guardar receta",
+    "button": "Copiar enlace",
     "saveTooltip": "Guardar la receta"
   },
   "filtersOverlay": {

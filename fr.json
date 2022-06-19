@@ -68,7 +68,7 @@
     "modalButton": "Créer Nouvelle Recette",
     "addToShoppingList": "Copier les ingrédients sur le mobile",
     "copiedToClipBoard": "",
-    "button": "Sauvegarder Recette",
+    "button": "Lien de copie",
     "saveTooltip": "Sauvegarder votre recette"
   },
   "filtersOverlay": {
