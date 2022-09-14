@@ -150,6 +150,6 @@
   },
   "tooltipText": {
     "filtersTooltip": "The recipes adapt to your choices.",
-    "cardTooltip": ""
+    "cardTooltip": "Click on a recipe to personalize it further"
   }
 }
